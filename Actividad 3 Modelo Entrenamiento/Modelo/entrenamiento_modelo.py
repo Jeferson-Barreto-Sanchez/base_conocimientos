@@ -14,7 +14,7 @@ df = pd.read_csv(ruta_dataset)
 ruta_modelo = os.path.join(os.path.dirname(__file__), '')
 
 # Mostrar las primeras filas del dataset
-# print(df.head(500))
+print(df.head(500))
 
 # Codificar variables categóricas usando LabelEncoder
 le_dia = LabelEncoder()

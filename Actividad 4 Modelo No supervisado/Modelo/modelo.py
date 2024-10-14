@@ -8,6 +8,9 @@ import os
 ruta_dataset = os.path.join(os.path.dirname(__file__), '../dataset/dataset_transmilenio.csv')
 data = pd.read_csv(ruta_dataset)
 
+# Mostrar las primeras filas del dataset
+print(datax.head(500))
+
 # Preprocesamiento de los datos: Convertir las variables categóricas en numéricas
 label_encoder = LabelEncoder()
 
