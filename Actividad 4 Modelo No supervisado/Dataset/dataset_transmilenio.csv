@@ -1,1001 +1,1001 @@
 estacion,latitud,longitud,capacidad,tiempo_permanencia,hora_dia,clima,dia_semana,evento_especial,distancia_estaciones,hora_pico
-Portal Del Norte,4.754521,-74.046076,71,13.01,11,lluvioso,fin de semana,0,11.5,0
-Avenida Chile,4.665855,-74.074947,58,20.65,20,soleado,fin de semana,0,8.18,0
-Portal Del Norte,4.754521,-74.046076,37,27.45,20,nublado,laboral,0,6.96,1
-Calle 26,4.615955,-74.072385,34,27.66,13,nublado,laboral,0,1.62,0
-Gobernacion,4.642477,-74.096455,77,23.02,13,lluvioso,laboral,1,11.52,0
-Avenida Chile,4.665855,-74.074947,49,11.57,17,nublado,laboral,0,1.72,1
-Portal Sur,4.596921,-74.169589,41,10.89,21,soleado,fin de semana,0,16.98,1
-Avenida Chile,4.665855,-74.074947,66,6.22,2,nublado,laboral,1,4.44,0
-Portal Del Norte,4.754521,-74.046076,39,23.66,11,nublado,laboral,1,3.27,0
-Gobernacion,4.642477,-74.096455,52,19.7,7,soleado,fin de semana,1,13.43,0
-Portal Sur,4.596921,-74.169589,61,18.26,3,soleado,fin de semana,1,2.94,0
-Portal El Dorado,4.681081,-74.121352,59,6.52,14,lluvioso,fin de semana,1,15.41,0
-Calle 100,4.685253,-74.05759,55,11.97,16,nublado,laboral,1,6.65,1
-Calle 26,4.615955,-74.072385,63,6.81,16,nublado,laboral,0,18.14,0
-Calle 100,4.685253,-74.05759,92,6.08,12,nublado,fin de semana,0,11.12,1
-Avenida Chile,4.665855,-74.074947,87,26.43,1,soleado,laboral,1,16.84,0
-Calle 26,4.615955,-74.072385,57,10.37,14,soleado,laboral,1,7.5,0
-Gobernacion,4.642477,-74.096455,51,6.32,7,nublado,laboral,0,13.86,1
-Calle 26,4.615955,-74.072385,37,28.18,10,soleado,fin de semana,0,18.51,0
-Portal Sur,4.596921,-74.169589,70,24.01,5,nublado,laboral,0,18.28,0
-Calle 100,4.685253,-74.05759,21,13.89,23,lluvioso,fin de semana,0,14.19,0
-Calle 100,4.685253,-74.05759,59,12.52,14,lluvioso,laboral,0,4.77,0
-Portal Del Norte,4.754521,-74.046076,48,15.48,19,nublado,fin de semana,1,13.14,1
-Portal Sur,4.596921,-74.169589,24,28.59,5,soleado,fin de semana,0,14.01,1
-Portal Sur,4.596921,-74.169589,62,19.13,21,lluvioso,fin de semana,1,19.96,0
-Portal Sur,4.596921,-74.169589,83,20.26,1,lluvioso,laboral,0,16.27,1
-Gobernacion,4.642477,-74.096455,59,18.44,19,nublado,laboral,1,1.11,1
-Gobernacion,4.642477,-74.096455,19,20.62,4,soleado,fin de semana,1,0.81,0
-Avenida Chile,4.665855,-74.074947,59,14.12,20,soleado,fin de semana,1,2.16,1
-Avenida Chile,4.665855,-74.074947,65,25.66,11,nublado,fin de semana,0,3.51,1
-Portal El Dorado,4.681081,-74.121352,77,14.46,9,soleado,laboral,0,15.82,0
-Portal Del Norte,4.754521,-74.046076,98,24.18,4,lluvioso,fin de semana,0,16.62,0
-Portal El Dorado,4.681081,-74.121352,17,13.86,7,soleado,fin de semana,0,1.06,1
-Calle 26,4.615955,-74.072385,89,5.02,20,soleado,fin de semana,1,8.64,1
-Portal El Dorado,4.681081,-74.121352,53,24.33,9,soleado,fin de semana,1,4.91,0
-Portal Del Norte,4.754521,-74.046076,42,8.72,9,soleado,laboral,0,18.28,0
-Calle 100,4.685253,-74.05759,46,12.51,3,soleado,fin de semana,0,7.13,0
-Calle 26,4.615955,-74.072385,23,21.43,18,nublado,laboral,1,4.11,1
-Calle 26,4.615955,-74.072385,42,12.68,5,nublado,fin de semana,0,8.85,1
-Portal Sur,4.596921,-74.169589,69,19.78,2,nublado,laboral,1,1.19,0
-Avenida Chile,4.665855,-74.074947,39,20.46,16,soleado,fin de semana,1,17.45,1
-Calle 26,4.615955,-74.072385,66,9.17,19,nublado,laboral,1,9.62,0
-Portal Sur,4.596921,-74.169589,49,28.31,21,lluvioso,fin de semana,1,14.12,1
-Calle 26,4.615955,-74.072385,63,21.41,17,soleado,laboral,0,16.48,0
-Portal Sur,4.596921,-74.169589,71,5.86,23,soleado,fin de semana,1,12.63,0
-Avenida Chile,4.665855,-74.074947,15,6.46,12,nublado,fin de semana,0,4.71,1
-Portal Del Norte,4.754521,-74.046076,91,6.72,3,nublado,laboral,1,14.44,0
-Portal Del Norte,4.754521,-74.046076,56,16.9,8,lluvioso,fin de semana,0,6.2,0
-Calle 26,4.615955,-74.072385,71,29.34,18,nublado,fin de semana,0,10.39,1
-Gobernacion,4.642477,-74.096455,75,6.37,22,lluvioso,laboral,1,7.97,1
-Portal Sur,4.596921,-74.169589,26,23.31,4,lluvioso,fin de semana,0,3.5,1
-Calle 100,4.685253,-74.05759,63,19.36,20,nublado,laboral,0,15.64,1
-Portal Sur,4.596921,-74.169589,23,15.88,16,soleado,fin de semana,0,7.32,1
-Avenida Chile,4.665855,-74.074947,63,5.57,10,soleado,fin de semana,0,18.48,0
-Portal Sur,4.596921,-74.169589,73,20.89,12,lluvioso,fin de semana,1,18.95,1
-Calle 26,4.615955,-74.072385,75,5.8,8,soleado,fin de semana,1,7.51,0
-Calle 100,4.685253,-74.05759,50,19.44,0,nublado,laboral,1,11.16,0
-Portal Del Norte,4.754521,-74.046076,96,18.06,23,lluvioso,fin de semana,0,11.47,0
-Gobernacion,4.642477,-74.096455,61,22.19,0,soleado,fin de semana,0,16.99,0
-Calle 100,4.685253,-74.05759,93,10.01,1,lluvioso,laboral,0,9.03,0
-Avenida Chile,4.665855,-74.074947,70,20.03,1,soleado,laboral,1,14.84,0
-Calle 26,4.615955,-74.072385,75,24.82,1,nublado,laboral,0,9.47,1
-Portal El Dorado,4.681081,-74.121352,78,8.22,19,nublado,fin de semana,0,14.82,0
-Calle 26,4.615955,-74.072385,39,27.04,21,lluvioso,laboral,0,7.26,1
-Gobernacion,4.642477,-74.096455,12,18.39,10,soleado,fin de semana,0,8.66,1
-Calle 100,4.685253,-74.05759,76,25.92,18,soleado,laboral,1,1.33,1
-Portal El Dorado,4.681081,-74.121352,84,8.35,15,nublado,fin de semana,1,12.96,0
-Portal Sur,4.596921,-74.169589,39,14.01,0,lluvioso,fin de semana,1,10.16,0
-Gobernacion,4.642477,-74.096455,85,29.16,23,lluvioso,fin de semana,1,5.81,0
-Portal Sur,4.596921,-74.169589,68,9.45,11,lluvioso,laboral,0,11.81,0
-Gobernacion,4.642477,-74.096455,99,17.95,10,soleado,fin de semana,1,17.55,1
-Gobernacion,4.642477,-74.096455,83,17.96,1,soleado,fin de semana,1,11.85,1
-Calle 26,4.615955,-74.072385,88,26.93,10,soleado,fin de semana,1,19.04,0
-Portal Sur,4.596921,-74.169589,100,15.84,0,nublado,laboral,0,4.09,1
-Portal Sur,4.596921,-74.169589,86,18.83,8,lluvioso,fin de semana,1,1.53,1
-Calle 26,4.615955,-74.072385,54,6.75,4,soleado,laboral,0,5.07,0
-Avenida Chile,4.665855,-74.074947,20,11.1,1,lluvioso,fin de semana,1,14.01,0
-Portal Sur,4.596921,-74.169589,84,17.57,23,soleado,laboral,0,11.14,0
-Calle 26,4.615955,-74.072385,33,5.79,0,lluvioso,laboral,1,1.27,1
-Portal Sur,4.596921,-74.169589,34,25.01,12,soleado,fin de semana,0,5.68,1
-Portal Del Norte,4.754521,-74.046076,62,7.39,14,nublado,laboral,0,17.57,1
-Calle 100,4.685253,-74.05759,14,24.23,5,soleado,fin de semana,0,13.23,1
-Calle 100,4.685253,-74.05759,24,14.75,22,lluvioso,laboral,1,6.37,0
-Calle 100,4.685253,-74.05759,14,29.57,16,nublado,fin de semana,1,5.85,1
-Avenida Chile,4.665855,-74.074947,56,6.55,5,soleado,laboral,0,7.07,1
-Gobernacion,4.642477,-74.096455,89,27.53,3,nublado,laboral,1,14.9,0
-Portal Sur,4.596921,-74.169589,63,15.53,16,nublado,fin de semana,1,3.66,1
-Avenida Chile,4.665855,-74.074947,43,24.74,20,lluvioso,fin de semana,1,13.56,0
-Portal Sur,4.596921,-74.169589,71,26.47,20,nublado,fin de semana,1,3.7,1
-Gobernacion,4.642477,-74.096455,46,7.31,11,nublado,laboral,0,16.35,1
-Portal Del Norte,4.754521,-74.046076,50,12.74,22,nublado,fin de semana,1,12.76,1
-Portal El Dorado,4.681081,-74.121352,86,6.4,10,nublado,laboral,1,11.48,0
-Calle 100,4.685253,-74.05759,60,15.28,7,lluvioso,fin de semana,0,18.64,0
-Portal El Dorado,4.681081,-74.121352,62,6.16,0,nublado,laboral,1,8.24,0
-Calle 26,4.615955,-74.072385,86,10.56,1,lluvioso,laboral,0,2.82,1
-Portal Sur,4.596921,-74.169589,31,20.79,15,lluvioso,laboral,1,7.65,1
-Calle 26,4.615955,-74.072385,82,5.75,12,nublado,laboral,1,10.33,1
-Gobernacion,4.642477,-74.096455,55,22.82,19,soleado,fin de semana,0,1.11,0
-Portal Sur,4.596921,-74.169589,13,5.77,10,soleado,fin de semana,1,17.07,1
-Calle 26,4.615955,-74.072385,93,19.28,1,nublado,fin de semana,1,10.13,0
-Portal El Dorado,4.681081,-74.121352,39,11.2,1,lluvioso,laboral,0,6.91,0
-Gobernacion,4.642477,-74.096455,36,16.16,2,nublado,laboral,1,2.55,0
-Calle 26,4.615955,-74.072385,49,7.32,7,lluvioso,laboral,1,19.41,0
-Gobernacion,4.642477,-74.096455,20,19.15,8,lluvioso,laboral,1,14.82,1
-Portal El Dorado,4.681081,-74.121352,44,8.3,21,lluvioso,laboral,0,18.82,1
-Avenida Chile,4.665855,-74.074947,67,28.04,10,nublado,laboral,1,4.64,0
-Gobernacion,4.642477,-74.096455,32,26.32,6,soleado,laboral,1,18.18,1
-Avenida Chile,4.665855,-74.074947,98,8.12,4,lluvioso,fin de semana,0,7.11,0
-Portal Del Norte,4.754521,-74.046076,76,15.23,15,nublado,laboral,0,14.6,0
-Portal El Dorado,4.681081,-74.121352,90,14.18,8,lluvioso,fin de semana,0,12.68,0
-Calle 26,4.615955,-74.072385,55,22.05,2,lluvioso,fin de semana,1,1.69,1
-Avenida Chile,4.665855,-74.074947,96,6.89,10,nublado,laboral,0,11.95,1
-Portal Del Norte,4.754521,-74.046076,89,23.46,17,lluvioso,fin de semana,1,1.56,0
-Avenida Chile,4.665855,-74.074947,10,22.9,22,nublado,fin de semana,1,5.07,1
-Calle 26,4.615955,-74.072385,91,19.17,9,lluvioso,fin de semana,0,6.96,0
-Portal Del Norte,4.754521,-74.046076,45,10.8,7,lluvioso,laboral,0,4.16,1
-Gobernacion,4.642477,-74.096455,27,10.26,3,nublado,fin de semana,0,15.67,1
-Portal El Dorado,4.681081,-74.121352,68,10.63,2,nublado,fin de semana,0,5.71,0
-Portal Sur,4.596921,-74.169589,38,26.29,18,nublado,laboral,1,18.01,1
-Calle 100,4.685253,-74.05759,22,12.41,4,soleado,fin de semana,1,0.81,0
-Portal El Dorado,4.681081,-74.121352,51,20.41,7,soleado,fin de semana,1,16.71,0
-Portal Sur,4.596921,-74.169589,100,7.29,2,nublado,laboral,1,7.27,1
-Gobernacion,4.642477,-74.096455,64,28.53,7,nublado,fin de semana,0,13.24,1
-Portal Del Norte,4.754521,-74.046076,54,28.75,18,lluvioso,fin de semana,1,11.76,1
-Calle 100,4.685253,-74.05759,98,17.2,1,soleado,laboral,0,19.14,0
-Portal Del Norte,4.754521,-74.046076,53,22.71,0,lluvioso,fin de semana,0,19.35,0
-Portal Sur,4.596921,-74.169589,71,23.81,16,nublado,laboral,1,17.51,1
-Calle 26,4.615955,-74.072385,12,19.15,4,soleado,fin de semana,1,9.7,0
-Portal El Dorado,4.681081,-74.121352,39,7.42,17,lluvioso,laboral,0,2.28,0
-Portal El Dorado,4.681081,-74.121352,30,6.02,1,nublado,laboral,0,15.89,0
-Portal Del Norte,4.754521,-74.046076,52,25.8,7,soleado,laboral,1,2.78,1
-Portal El Dorado,4.681081,-74.121352,35,8.94,8,soleado,fin de semana,1,11.76,0
-Gobernacion,4.642477,-74.096455,55,14.83,10,lluvioso,fin de semana,1,3.62,0
-Gobernacion,4.642477,-74.096455,60,30.0,18,nublado,laboral,1,11.82,1
-Calle 100,4.685253,-74.05759,62,12.93,0,soleado,laboral,1,3.83,1
-Avenida Chile,4.665855,-74.074947,54,21.97,20,nublado,laboral,1,4.36,0
-Calle 26,4.615955,-74.072385,46,9.0,9,nublado,laboral,0,13.56,0
-Avenida Chile,4.665855,-74.074947,38,26.88,12,lluvioso,fin de semana,1,16.71,1
-Avenida Chile,4.665855,-74.074947,45,14.0,12,soleado,fin de semana,1,18.01,0
-Calle 100,4.685253,-74.05759,100,12.62,1,lluvioso,laboral,0,17.25,1
-Calle 100,4.685253,-74.05759,96,20.5,15,lluvioso,laboral,0,10.52,0
-Avenida Chile,4.665855,-74.074947,28,16.92,7,soleado,laboral,1,12.39,0
-Calle 26,4.615955,-74.072385,78,14.5,21,soleado,laboral,1,13.85,1
-Portal Sur,4.596921,-74.169589,37,13.39,22,soleado,laboral,1,12.19,1
-Calle 100,4.685253,-74.05759,16,18.31,7,nublado,fin de semana,0,2.02,1
-Portal Del Norte,4.754521,-74.046076,85,6.6,10,soleado,fin de semana,0,11.12,1
-Portal El Dorado,4.681081,-74.121352,24,18.53,12,lluvioso,fin de semana,0,4.4,1
-Gobernacion,4.642477,-74.096455,82,25.6,20,lluvioso,fin de semana,0,9.78,1
-Portal Sur,4.596921,-74.169589,18,10.21,17,soleado,fin de semana,0,8.03,0
-Portal Sur,4.596921,-74.169589,35,18.58,15,lluvioso,fin de semana,0,17.44,1
-Portal Sur,4.596921,-74.169589,60,25.77,5,lluvioso,fin de semana,1,9.18,0
-Portal El Dorado,4.681081,-74.121352,76,16.59,13,soleado,laboral,0,3.38,0
-Calle 100,4.685253,-74.05759,74,12.49,22,nublado,laboral,0,7.08,0
-Gobernacion,4.642477,-74.096455,43,24.04,22,lluvioso,fin de semana,1,5.07,1
-Portal Sur,4.596921,-74.169589,49,7.42,0,lluvioso,fin de semana,1,10.85,1
-Portal Sur,4.596921,-74.169589,64,10.71,20,soleado,fin de semana,0,7.46,1
-Avenida Chile,4.665855,-74.074947,99,6.78,16,nublado,laboral,1,18.76,1
-Portal Sur,4.596921,-74.169589,28,19.78,9,nublado,fin de semana,0,19.14,1
-Portal El Dorado,4.681081,-74.121352,95,8.49,11,nublado,fin de semana,0,10.22,1
-Portal El Dorado,4.681081,-74.121352,64,21.27,6,lluvioso,fin de semana,1,13.15,0
-Avenida Chile,4.665855,-74.074947,68,5.42,13,soleado,fin de semana,1,5.33,0
-Portal Sur,4.596921,-74.169589,18,10.51,11,nublado,laboral,0,8.85,1
-Avenida Chile,4.665855,-74.074947,58,15.48,12,lluvioso,laboral,1,19.41,0
-Avenida Chile,4.665855,-74.074947,100,9.58,22,soleado,fin de semana,1,18.62,0
-Portal El Dorado,4.681081,-74.121352,51,27.33,5,nublado,laboral,1,9.74,0
-Calle 26,4.615955,-74.072385,96,13.1,15,soleado,laboral,1,18.76,0
-Avenida Chile,4.665855,-74.074947,99,12.88,12,soleado,laboral,1,1.44,0
-Portal Del Norte,4.754521,-74.046076,17,22.79,17,nublado,fin de semana,1,15.53,0
-Calle 100,4.685253,-74.05759,26,18.31,11,lluvioso,fin de semana,0,15.12,1
-Calle 100,4.685253,-74.05759,15,16.52,13,soleado,laboral,1,3.99,0
-Portal El Dorado,4.681081,-74.121352,26,20.33,1,lluvioso,laboral,0,17.15,1
-Gobernacion,4.642477,-74.096455,17,14.46,0,lluvioso,laboral,1,7.97,0
-Avenida Chile,4.665855,-74.074947,74,5.62,18,nublado,laboral,1,16.55,1
-Portal Sur,4.596921,-74.169589,86,23.63,18,nublado,fin de semana,1,15.76,0
-Portal El Dorado,4.681081,-74.121352,17,24.27,10,soleado,laboral,0,14.34,0
-Portal Sur,4.596921,-74.169589,36,18.85,15,nublado,fin de semana,0,19.93,0
-Portal El Dorado,4.681081,-74.121352,56,10.84,18,nublado,laboral,0,17.86,1
-Gobernacion,4.642477,-74.096455,89,13.34,17,nublado,laboral,0,15.89,1
-Calle 26,4.615955,-74.072385,46,17.91,2,soleado,laboral,0,4.22,0
-Calle 26,4.615955,-74.072385,63,19.46,20,nublado,fin de semana,1,8.38,0
-Portal Del Norte,4.754521,-74.046076,70,22.42,22,lluvioso,fin de semana,1,12.88,0
-Portal Sur,4.596921,-74.169589,23,6.4,20,lluvioso,laboral,0,5.07,1
-Portal Sur,4.596921,-74.169589,58,11.52,22,nublado,laboral,1,7.41,1
-Calle 100,4.685253,-74.05759,68,22.03,19,lluvioso,fin de semana,0,17.6,0
-Portal Del Norte,4.754521,-74.046076,26,19.34,20,lluvioso,laboral,1,14.93,0
-Portal El Dorado,4.681081,-74.121352,13,11.04,9,lluvioso,fin de semana,0,17.15,1
-Portal El Dorado,4.681081,-74.121352,26,16.45,19,soleado,fin de semana,0,3.72,0
-Gobernacion,4.642477,-74.096455,69,8.39,22,soleado,fin de semana,0,2.52,0
-Portal El Dorado,4.681081,-74.121352,67,14.48,19,nublado,laboral,0,9.33,0
-Calle 100,4.685253,-74.05759,73,23.38,8,lluvioso,laboral,1,11.5,1
-Portal El Dorado,4.681081,-74.121352,32,14.46,8,lluvioso,laboral,0,1.39,1
-Portal El Dorado,4.681081,-74.121352,38,12.6,3,lluvioso,laboral,0,1.72,1
-Portal Sur,4.596921,-74.169589,75,21.02,15,nublado,fin de semana,1,19.95,0
-Calle 100,4.685253,-74.05759,31,15.9,0,nublado,laboral,0,11.08,0
-Portal Sur,4.596921,-74.169589,78,17.68,19,lluvioso,laboral,1,19.64,1
-Calle 100,4.685253,-74.05759,17,6.29,10,soleado,laboral,0,4.14,1
-Calle 26,4.615955,-74.072385,22,19.59,16,lluvioso,laboral,1,7.38,0
-Gobernacion,4.642477,-74.096455,87,20.5,15,nublado,laboral,0,2.46,1
-Avenida Chile,4.665855,-74.074947,76,7.51,12,lluvioso,laboral,0,9.26,1
-Portal El Dorado,4.681081,-74.121352,64,9.62,22,nublado,fin de semana,1,4.87,1
-Calle 26,4.615955,-74.072385,50,12.51,16,lluvioso,laboral,0,16.97,0
-Calle 100,4.685253,-74.05759,68,26.81,5,soleado,fin de semana,0,7.25,1
-Portal El Dorado,4.681081,-74.121352,21,16.11,2,soleado,fin de semana,1,3.32,0
-Calle 100,4.685253,-74.05759,75,25.35,0,nublado,laboral,0,13.23,1
-Portal Sur,4.596921,-74.169589,73,21.99,15,soleado,fin de semana,0,5.69,0
-Portal El Dorado,4.681081,-74.121352,34,7.02,17,nublado,laboral,1,11.57,0
-Portal Del Norte,4.754521,-74.046076,40,15.12,9,lluvioso,fin de semana,0,12.33,0
-Portal El Dorado,4.681081,-74.121352,77,11.48,1,lluvioso,laboral,1,4.26,0
-Portal Del Norte,4.754521,-74.046076,80,15.13,17,nublado,laboral,0,9.03,1
-Gobernacion,4.642477,-74.096455,84,25.17,4,nublado,fin de semana,0,15.53,1
-Portal Del Norte,4.754521,-74.046076,72,23.49,18,nublado,fin de semana,0,2.54,1
-Portal Del Norte,4.754521,-74.046076,33,14.06,5,soleado,fin de semana,0,1.11,1
-Calle 26,4.615955,-74.072385,18,19.73,5,soleado,fin de semana,1,5.83,0
-Portal Del Norte,4.754521,-74.046076,81,13.23,7,nublado,laboral,0,16.99,0
-Portal Del Norte,4.754521,-74.046076,66,11.65,9,nublado,fin de semana,0,17.07,0
-Calle 26,4.615955,-74.072385,29,25.0,15,lluvioso,laboral,1,13.39,1
-Calle 100,4.685253,-74.05759,96,23.08,5,nublado,laboral,0,17.45,1
-Gobernacion,4.642477,-74.096455,71,10.86,21,soleado,laboral,0,1.39,1
-Avenida Chile,4.665855,-74.074947,17,19.55,15,nublado,laboral,0,5.13,1
-Calle 100,4.685253,-74.05759,90,16.0,0,lluvioso,fin de semana,1,2.82,0
-Portal El Dorado,4.681081,-74.121352,36,12.33,3,lluvioso,laboral,1,6.3,0
-Calle 26,4.615955,-74.072385,53,19.95,15,lluvioso,laboral,0,0.96,1
-Portal Sur,4.596921,-74.169589,79,6.72,0,nublado,fin de semana,1,7.41,0
-Gobernacion,4.642477,-74.096455,37,14.0,19,lluvioso,fin de semana,0,5.69,0
-Calle 100,4.685253,-74.05759,48,8.62,4,soleado,laboral,0,2.54,0
-Portal El Dorado,4.681081,-74.121352,36,6.5,15,soleado,fin de semana,1,14.08,1
-Calle 100,4.685253,-74.05759,92,8.96,2,nublado,fin de semana,0,18.86,0
-Calle 100,4.685253,-74.05759,43,22.58,7,soleado,laboral,0,17.14,0
-Avenida Chile,4.665855,-74.074947,51,16.97,16,soleado,fin de semana,0,18.89,0
-Calle 26,4.615955,-74.072385,100,28.32,7,nublado,laboral,1,11.92,1
-Calle 100,4.685253,-74.05759,67,21.66,10,soleado,laboral,1,0.73,0
-Portal El Dorado,4.681081,-74.121352,23,17.82,4,nublado,fin de semana,1,11.82,1
-Portal Sur,4.596921,-74.169589,25,22.16,1,nublado,fin de semana,1,3.22,0
-Portal Del Norte,4.754521,-74.046076,73,8.16,2,nublado,fin de semana,0,18.39,0
-Gobernacion,4.642477,-74.096455,99,28.03,19,nublado,laboral,1,13.54,0
-Portal El Dorado,4.681081,-74.121352,58,11.07,8,lluvioso,laboral,1,9.88,1
-Portal Sur,4.596921,-74.169589,47,11.06,9,soleado,laboral,1,1.62,1
-Calle 100,4.685253,-74.05759,82,20.54,19,nublado,fin de semana,0,18.09,0
-Portal Sur,4.596921,-74.169589,48,21.1,7,soleado,laboral,0,13.31,1
-Gobernacion,4.642477,-74.096455,52,7.74,12,nublado,laboral,1,2.43,1
-Calle 26,4.615955,-74.072385,47,17.64,1,soleado,laboral,0,13.35,1
-Portal Sur,4.596921,-74.169589,59,10.6,3,soleado,laboral,0,4.05,1
-Portal El Dorado,4.681081,-74.121352,44,24.48,7,lluvioso,fin de semana,0,10.58,0
-Portal Del Norte,4.754521,-74.046076,39,20.12,3,nublado,fin de semana,0,15.89,1
-Calle 100,4.685253,-74.05759,68,8.89,23,soleado,laboral,0,15.38,0
-Calle 26,4.615955,-74.072385,23,15.44,18,soleado,fin de semana,1,14.53,1
-Calle 100,4.685253,-74.05759,14,6.19,15,nublado,fin de semana,0,5.69,0
-Calle 26,4.615955,-74.072385,27,12.36,13,soleado,fin de semana,0,1.97,0
-Portal Sur,4.596921,-74.169589,96,11.68,5,lluvioso,fin de semana,0,2.02,0
-Portal El Dorado,4.681081,-74.121352,16,13.52,19,nublado,fin de semana,1,4.98,0
-Portal Sur,4.596921,-74.169589,22,15.54,2,soleado,laboral,0,5.96,0
-Calle 26,4.615955,-74.072385,34,13.63,1,nublado,fin de semana,1,6.26,0
-Portal El Dorado,4.681081,-74.121352,25,23.11,12,lluvioso,laboral,1,2.52,1
-Avenida Chile,4.665855,-74.074947,26,23.97,12,lluvioso,laboral,1,12.21,1
-Calle 100,4.685253,-74.05759,58,5.66,19,nublado,laboral,1,11.17,0
-Avenida Chile,4.665855,-74.074947,48,26.93,15,lluvioso,laboral,1,13.34,1
-Portal Sur,4.596921,-74.169589,31,13.65,14,soleado,fin de semana,0,6.26,1
-Gobernacion,4.642477,-74.096455,29,25.49,18,soleado,laboral,1,14.5,1
-Portal Del Norte,4.754521,-74.046076,59,22.9,18,lluvioso,laboral,1,5.73,0
-Portal Del Norte,4.754521,-74.046076,81,22.69,17,lluvioso,fin de semana,0,7.78,0
-Calle 100,4.685253,-74.05759,66,29.09,5,lluvioso,laboral,0,16.3,0
-Gobernacion,4.642477,-74.096455,62,21.7,2,soleado,laboral,0,1.55,0
-Gobernacion,4.642477,-74.096455,53,19.28,19,soleado,laboral,0,8.63,0
-Portal El Dorado,4.681081,-74.121352,42,29.31,5,lluvioso,laboral,1,11.7,1
-Avenida Chile,4.665855,-74.074947,56,19.61,22,lluvioso,fin de semana,1,6.53,1
-Calle 100,4.685253,-74.05759,70,8.67,23,lluvioso,fin de semana,1,8.03,0
-Portal El Dorado,4.681081,-74.121352,16,26.23,4,soleado,fin de semana,0,11.57,0
-Portal Sur,4.596921,-74.169589,47,26.36,5,nublado,fin de semana,0,11.46,0
-Portal Del Norte,4.754521,-74.046076,16,26.37,17,soleado,laboral,0,15.73,0
-Avenida Chile,4.665855,-74.074947,28,9.96,2,lluvioso,laboral,0,4.47,1
-Portal El Dorado,4.681081,-74.121352,13,24.4,18,lluvioso,fin de semana,1,16.66,0
-Calle 100,4.685253,-74.05759,40,21.08,19,nublado,laboral,0,15.33,0
-Calle 26,4.615955,-74.072385,69,21.41,8,lluvioso,laboral,1,14.61,1
-Avenida Chile,4.665855,-74.074947,92,8.98,18,soleado,laboral,1,16.98,1
-Portal Sur,4.596921,-74.169589,20,23.32,2,soleado,laboral,0,17.01,1
-Calle 100,4.685253,-74.05759,79,5.32,3,nublado,fin de semana,1,5.27,1
-Gobernacion,4.642477,-74.096455,65,28.59,10,nublado,laboral,0,8.65,1
-Gobernacion,4.642477,-74.096455,47,22.27,9,soleado,laboral,1,11.88,0
-Portal El Dorado,4.681081,-74.121352,95,28.46,4,soleado,laboral,0,1.98,1
-Gobernacion,4.642477,-74.096455,10,21.71,22,nublado,laboral,1,2.61,0
-Portal El Dorado,4.681081,-74.121352,28,26.65,21,soleado,fin de semana,1,11.48,1
-Calle 26,4.615955,-74.072385,38,8.94,8,nublado,laboral,0,17.33,1
-Avenida Chile,4.665855,-74.074947,57,10.66,10,nublado,fin de semana,0,5.77,1
-Portal El Dorado,4.681081,-74.121352,24,24.5,16,lluvioso,laboral,0,17.33,0
-Calle 100,4.685253,-74.05759,22,24.51,7,nublado,fin de semana,0,6.45,0
-Calle 26,4.615955,-74.072385,83,10.58,7,soleado,fin de semana,1,14.36,0
-Avenida Chile,4.665855,-74.074947,61,7.16,18,lluvioso,laboral,1,5.07,1
-Calle 26,4.615955,-74.072385,16,20.69,23,lluvioso,fin de semana,1,0.73,1
-Portal El Dorado,4.681081,-74.121352,97,10.08,23,soleado,fin de semana,1,8.82,1
-Portal Sur,4.596921,-74.169589,43,9.55,12,nublado,laboral,0,12.94,1
-Portal Sur,4.596921,-74.169589,68,10.15,23,lluvioso,laboral,1,17.97,1
-Portal Del Norte,4.754521,-74.046076,75,22.83,20,soleado,laboral,0,6.22,1
-Gobernacion,4.642477,-74.096455,67,15.03,23,lluvioso,laboral,1,5.06,0
-Avenida Chile,4.665855,-74.074947,95,6.25,10,lluvioso,fin de semana,0,19.95,1
-Gobernacion,4.642477,-74.096455,18,17.6,0,nublado,fin de semana,1,11.25,1
-Calle 26,4.615955,-74.072385,36,14.34,20,soleado,fin de semana,1,2.2,1
-Calle 26,4.615955,-74.072385,74,17.54,4,nublado,laboral,0,13.31,1
-Avenida Chile,4.665855,-74.074947,38,27.9,8,lluvioso,fin de semana,1,13.56,0
-Gobernacion,4.642477,-74.096455,10,9.44,5,soleado,fin de semana,0,6.26,0
-Gobernacion,4.642477,-74.096455,98,9.08,13,lluvioso,fin de semana,0,6.28,0
-Calle 26,4.615955,-74.072385,27,27.21,6,soleado,laboral,0,3.32,0
-Avenida Chile,4.665855,-74.074947,69,18.21,22,nublado,fin de semana,1,13.34,0
-Portal El Dorado,4.681081,-74.121352,16,11.12,20,nublado,fin de semana,0,14.5,1
-Avenida Chile,4.665855,-74.074947,95,19.79,4,nublado,fin de semana,1,11.56,0
-Calle 100,4.685253,-74.05759,39,19.27,23,lluvioso,fin de semana,1,15.89,1
-Portal Del Norte,4.754521,-74.046076,80,28.99,3,soleado,fin de semana,1,9.97,0
-Calle 26,4.615955,-74.072385,86,16.66,14,soleado,fin de semana,0,6.87,1
-Portal El Dorado,4.681081,-74.121352,88,28.96,20,nublado,laboral,0,17.21,0
-Gobernacion,4.642477,-74.096455,69,12.84,8,nublado,fin de semana,0,15.83,1
-Portal Del Norte,4.754521,-74.046076,31,10.35,7,lluvioso,laboral,0,8.39,0
-Gobernacion,4.642477,-74.096455,86,20.37,5,lluvioso,laboral,0,18.38,1
-Portal El Dorado,4.681081,-74.121352,97,5.81,15,nublado,fin de semana,1,15.12,0
-Calle 26,4.615955,-74.072385,11,17.38,6,soleado,laboral,1,2.89,0
-Portal Del Norte,4.754521,-74.046076,95,12.88,12,lluvioso,fin de semana,1,18.94,1
-Portal Del Norte,4.754521,-74.046076,10,19.89,13,nublado,laboral,0,12.19,1
-Calle 100,4.685253,-74.05759,100,14.25,0,nublado,laboral,0,18.64,1
-Portal Sur,4.596921,-74.169589,62,17.31,13,lluvioso,fin de semana,1,10.57,0
-Avenida Chile,4.665855,-74.074947,31,17.71,12,nublado,fin de semana,1,11.54,0
-Calle 26,4.615955,-74.072385,47,25.25,17,lluvioso,fin de semana,1,17.25,0
-Portal Del Norte,4.754521,-74.046076,55,15.83,14,lluvioso,laboral,1,16.35,0
-Calle 26,4.615955,-74.072385,54,28.89,19,soleado,fin de semana,1,14.56,1
-Portal El Dorado,4.681081,-74.121352,38,29.24,11,lluvioso,laboral,0,9.63,0
-Calle 26,4.615955,-74.072385,38,9.56,20,lluvioso,fin de semana,0,17.31,1
-Gobernacion,4.642477,-74.096455,72,20.1,9,nublado,fin de semana,0,8.85,1
-Calle 100,4.685253,-74.05759,64,25.56,15,soleado,fin de semana,1,19.67,1
-Portal Del Norte,4.754521,-74.046076,82,13.4,1,lluvioso,fin de semana,0,4.12,1
-Portal Sur,4.596921,-74.169589,14,15.05,17,lluvioso,laboral,0,7.11,1
-Calle 100,4.685253,-74.05759,63,23.86,0,soleado,laboral,1,11.26,0
-Avenida Chile,4.665855,-74.074947,84,22.9,9,soleado,laboral,1,9.15,0
-Avenida Chile,4.665855,-74.074947,40,24.52,6,soleado,fin de semana,1,15.89,0
-Portal Sur,4.596921,-74.169589,29,15.5,20,soleado,fin de semana,0,11.91,1
-Portal El Dorado,4.681081,-74.121352,76,17.53,7,lluvioso,fin de semana,0,7.25,1
-Avenida Chile,4.665855,-74.074947,59,24.62,2,soleado,laboral,1,13.1,0
-Portal Sur,4.596921,-74.169589,72,25.24,0,soleado,laboral,0,6.41,1
-Calle 100,4.685253,-74.05759,40,24.07,16,nublado,laboral,1,14.48,1
-Portal El Dorado,4.681081,-74.121352,58,7.54,17,lluvioso,fin de semana,1,8.65,0
-Portal Sur,4.596921,-74.169589,48,9.69,2,nublado,fin de semana,1,15.67,1
-Portal Sur,4.596921,-74.169589,69,22.84,14,soleado,fin de semana,0,4.22,0
-Portal Sur,4.596921,-74.169589,61,18.93,10,nublado,fin de semana,1,19.37,0
-Avenida Chile,4.665855,-74.074947,80,15.0,7,soleado,laboral,0,8.07,1
-Avenida Chile,4.665855,-74.074947,39,14.42,4,lluvioso,laboral,1,11.81,1
-Portal Sur,4.596921,-74.169589,28,25.33,12,nublado,laboral,0,17.38,0
-Calle 26,4.615955,-74.072385,71,21.18,12,nublado,laboral,0,8.73,1
-Portal El Dorado,4.681081,-74.121352,40,23.38,6,soleado,fin de semana,1,7.23,1
-Portal Sur,4.596921,-74.169589,66,5.42,10,soleado,fin de semana,0,13.35,0
-Portal El Dorado,4.681081,-74.121352,20,24.77,1,lluvioso,fin de semana,0,18.96,0
-Avenida Chile,4.665855,-74.074947,41,16.5,7,soleado,laboral,0,11.47,0
-Calle 100,4.685253,-74.05759,56,22.7,11,nublado,fin de semana,0,19.63,1
-Calle 26,4.615955,-74.072385,40,27.24,2,nublado,laboral,0,12.09,0
-Calle 100,4.685253,-74.05759,48,12.13,19,lluvioso,fin de semana,1,7.44,0
-Calle 26,4.615955,-74.072385,25,7.7,15,soleado,laboral,1,18.78,1
-Portal El Dorado,4.681081,-74.121352,69,19.91,17,nublado,laboral,0,16.72,0
-Gobernacion,4.642477,-74.096455,78,26.06,9,lluvioso,laboral,0,13.08,1
-Gobernacion,4.642477,-74.096455,21,19.6,11,nublado,fin de semana,0,8.18,1
-Calle 100,4.685253,-74.05759,24,24.64,11,soleado,fin de semana,0,0.8,0
-Calle 100,4.685253,-74.05759,32,28.44,21,lluvioso,laboral,0,2.77,0
-Gobernacion,4.642477,-74.096455,19,19.57,0,lluvioso,fin de semana,1,9.76,0
-Avenida Chile,4.665855,-74.074947,63,26.06,15,soleado,fin de semana,1,18.14,0
-Portal El Dorado,4.681081,-74.121352,98,8.63,2,lluvioso,laboral,1,1.83,1
-Calle 100,4.685253,-74.05759,36,27.77,9,soleado,fin de semana,1,0.6,1
-Calle 26,4.615955,-74.072385,82,8.13,22,soleado,fin de semana,0,4.08,1
-Gobernacion,4.642477,-74.096455,22,10.86,21,soleado,fin de semana,1,8.51,0
-Portal Del Norte,4.754521,-74.046076,96,19.89,8,nublado,laboral,0,10.95,1
-Calle 100,4.685253,-74.05759,62,16.14,19,lluvioso,laboral,1,15.1,0
-Portal Del Norte,4.754521,-74.046076,92,14.77,2,nublado,laboral,1,9.44,1
-Calle 100,4.685253,-74.05759,39,28.58,16,lluvioso,fin de semana,1,15.27,0
-Calle 26,4.615955,-74.072385,31,9.63,18,soleado,fin de semana,1,16.23,1
-Portal El Dorado,4.681081,-74.121352,12,16.67,1,lluvioso,laboral,1,14.69,0
-Portal Sur,4.596921,-74.169589,49,9.19,3,nublado,fin de semana,1,14.93,0
-Calle 26,4.615955,-74.072385,45,5.33,2,lluvioso,laboral,1,8.94,1
-Calle 26,4.615955,-74.072385,18,27.47,1,soleado,laboral,1,6.29,0
-Avenida Chile,4.665855,-74.074947,90,10.95,23,soleado,laboral,0,10.34,1
-Portal Sur,4.596921,-74.169589,37,21.16,12,nublado,laboral,1,15.43,0
-Portal Del Norte,4.754521,-74.046076,48,29.82,0,nublado,fin de semana,1,17.45,1
-Calle 26,4.615955,-74.072385,39,21.49,3,lluvioso,fin de semana,1,18.83,0
-Portal Del Norte,4.754521,-74.046076,53,16.69,17,lluvioso,laboral,0,11.3,0
-Calle 100,4.685253,-74.05759,78,23.01,17,lluvioso,fin de semana,1,18.51,1
-Calle 26,4.615955,-74.072385,51,5.65,10,lluvioso,laboral,1,13.4,0
-Portal Del Norte,4.754521,-74.046076,71,25.05,3,lluvioso,fin de semana,0,17.23,0
-Gobernacion,4.642477,-74.096455,50,22.57,9,nublado,laboral,0,0.97,1
-Avenida Chile,4.665855,-74.074947,35,8.21,19,lluvioso,laboral,0,3.56,0
-Portal Sur,4.596921,-74.169589,19,17.51,9,lluvioso,laboral,1,9.97,0
-Avenida Chile,4.665855,-74.074947,71,20.02,6,nublado,laboral,0,15.89,0
-Gobernacion,4.642477,-74.096455,45,21.81,20,nublado,laboral,0,2.61,1
-Portal Del Norte,4.754521,-74.046076,55,21.88,4,soleado,fin de semana,1,2.43,0
-Calle 100,4.685253,-74.05759,84,25.42,15,lluvioso,laboral,1,9.94,0
-Calle 100,4.685253,-74.05759,29,8.84,4,soleado,fin de semana,0,13.66,0
-Portal Sur,4.596921,-74.169589,42,7.45,4,nublado,fin de semana,1,18.61,1
-Portal El Dorado,4.681081,-74.121352,68,6.1,7,nublado,fin de semana,1,1.61,0
-Portal El Dorado,4.681081,-74.121352,50,22.29,3,lluvioso,laboral,1,3.48,1
-Portal El Dorado,4.681081,-74.121352,55,18.59,16,soleado,laboral,1,14.08,0
-Portal Sur,4.596921,-74.169589,54,22.74,21,soleado,fin de semana,1,16.62,1
-Portal Sur,4.596921,-74.169589,70,13.69,16,lluvioso,fin de semana,0,9.33,0
-Gobernacion,4.642477,-74.096455,86,29.81,0,soleado,fin de semana,0,2.41,1
-Calle 26,4.615955,-74.072385,68,17.58,5,nublado,laboral,1,13.38,1
-Gobernacion,4.642477,-74.096455,37,25.61,0,soleado,laboral,0,3.86,0
-Calle 26,4.615955,-74.072385,54,22.08,17,soleado,fin de semana,1,17.32,1
-Avenida Chile,4.665855,-74.074947,24,10.45,19,nublado,laboral,0,15.7,0
-Calle 26,4.615955,-74.072385,43,14.51,9,lluvioso,laboral,1,12.92,1
-Calle 26,4.615955,-74.072385,11,24.76,4,soleado,fin de semana,1,18.62,0
-Calle 26,4.615955,-74.072385,81,15.56,21,lluvioso,laboral,0,11.54,0
-Gobernacion,4.642477,-74.096455,92,26.75,5,lluvioso,fin de semana,1,13.18,1
-Avenida Chile,4.665855,-74.074947,64,7.09,3,lluvioso,laboral,1,13.97,0
-Calle 100,4.685253,-74.05759,89,8.95,12,lluvioso,fin de semana,1,11.54,1
-Portal Sur,4.596921,-74.169589,45,28.31,21,lluvioso,laboral,1,3.7,1
-Portal Sur,4.596921,-74.169589,63,18.89,4,nublado,fin de semana,1,5.1,0
-Portal Sur,4.596921,-74.169589,12,29.27,2,nublado,laboral,0,16.99,1
-Avenida Chile,4.665855,-74.074947,27,29.09,18,soleado,fin de semana,1,17.6,0
-Gobernacion,4.642477,-74.096455,65,27.9,17,lluvioso,laboral,0,18.6,1
-Gobernacion,4.642477,-74.096455,52,27.4,15,lluvioso,laboral,1,9.07,0
-Portal Sur,4.596921,-74.169589,74,27.26,22,nublado,laboral,0,14.01,0
-Calle 26,4.615955,-74.072385,26,25.04,9,lluvioso,laboral,1,6.74,1
-Portal Del Norte,4.754521,-74.046076,54,18.32,6,nublado,laboral,0,16.99,0
-Avenida Chile,4.665855,-74.074947,64,15.15,3,nublado,laboral,1,7.07,0
-Portal Del Norte,4.754521,-74.046076,50,25.31,5,lluvioso,fin de semana,1,17.31,0
-Portal Sur,4.596921,-74.169589,66,5.19,17,nublado,laboral,1,11.01,0
-Calle 26,4.615955,-74.072385,39,23.77,22,soleado,laboral,1,0.98,0
-Portal El Dorado,4.681081,-74.121352,23,6.96,4,nublado,laboral,1,16.97,0
-Avenida Chile,4.665855,-74.074947,42,23.27,18,lluvioso,fin de semana,1,9.17,1
-Portal Del Norte,4.754521,-74.046076,53,26.68,3,nublado,laboral,1,1.24,1
-Avenida Chile,4.665855,-74.074947,77,23.48,21,nublado,laboral,0,9.53,1
-Calle 100,4.685253,-74.05759,50,23.65,6,lluvioso,fin de semana,1,2.89,0
-Gobernacion,4.642477,-74.096455,33,22.25,1,soleado,laboral,0,13.6,1
-Portal Del Norte,4.754521,-74.046076,97,15.34,17,soleado,laboral,1,19.41,1
-Gobernacion,4.642477,-74.096455,85,26.89,20,soleado,fin de semana,1,1.35,0
-Avenida Chile,4.665855,-74.074947,64,17.59,6,nublado,fin de semana,1,7.18,0
-Portal Del Norte,4.754521,-74.046076,35,11.31,22,lluvioso,laboral,1,11.82,1
-Gobernacion,4.642477,-74.096455,32,11.63,2,lluvioso,laboral,0,19.74,1
-Calle 26,4.615955,-74.072385,22,23.59,7,lluvioso,fin de semana,0,8.51,0
-Gobernacion,4.642477,-74.096455,64,14.65,16,soleado,fin de semana,1,14.9,1
-Avenida Chile,4.665855,-74.074947,74,21.04,14,soleado,laboral,0,11.38,0
-Portal Sur,4.596921,-74.169589,91,26.25,20,soleado,fin de semana,0,9.47,0
-Portal Sur,4.596921,-74.169589,20,29.7,9,soleado,fin de semana,1,9.38,1
-Calle 26,4.615955,-74.072385,24,5.84,13,lluvioso,fin de semana,1,10.23,0
-Calle 100,4.685253,-74.05759,35,5.33,1,soleado,laboral,1,14.9,1
-Gobernacion,4.642477,-74.096455,44,6.14,18,lluvioso,fin de semana,1,9.17,1
-Portal El Dorado,4.681081,-74.121352,55,23.12,16,soleado,laboral,1,12.29,1
-Portal Sur,4.596921,-74.169589,67,8.33,20,lluvioso,laboral,1,19.59,0
-Calle 100,4.685253,-74.05759,67,6.65,22,nublado,fin de semana,0,3.75,1
-Calle 100,4.685253,-74.05759,12,20.45,18,nublado,laboral,0,9.72,1
-Portal Del Norte,4.754521,-74.046076,41,14.92,1,lluvioso,fin de semana,1,14.36,0
-Calle 26,4.615955,-74.072385,16,6.79,15,lluvioso,laboral,0,4.16,1
-Portal Sur,4.596921,-74.169589,12,7.55,4,lluvioso,laboral,1,10.86,0
-Portal Del Norte,4.754521,-74.046076,99,12.62,4,nublado,fin de semana,0,18.96,0
-Avenida Chile,4.665855,-74.074947,19,29.16,11,nublado,fin de semana,0,14.26,0
-Calle 100,4.685253,-74.05759,99,29.39,14,lluvioso,laboral,0,14.36,1
-Calle 100,4.685253,-74.05759,97,16.62,10,soleado,fin de semana,0,5.28,1
-Portal El Dorado,4.681081,-74.121352,98,13.49,12,lluvioso,fin de semana,1,11.53,0
-Gobernacion,4.642477,-74.096455,68,23.24,5,lluvioso,laboral,1,18.29,1
-Portal El Dorado,4.681081,-74.121352,94,10.54,6,lluvioso,laboral,1,7.44,0
-Avenida Chile,4.665855,-74.074947,16,17.47,0,nublado,fin de semana,1,9.62,0
-Portal El Dorado,4.681081,-74.121352,15,14.76,15,nublado,laboral,0,6.77,1
-Calle 26,4.615955,-74.072385,47,26.32,11,nublado,laboral,1,1.84,0
-Portal Del Norte,4.754521,-74.046076,29,10.93,7,lluvioso,fin de semana,0,13.56,0
-Portal El Dorado,4.681081,-74.121352,52,9.01,14,nublado,laboral,1,11.25,1
-Gobernacion,4.642477,-74.096455,94,17.81,22,lluvioso,laboral,1,11.54,0
-Gobernacion,4.642477,-74.096455,83,18.24,15,soleado,laboral,1,16.8,0
-Calle 100,4.685253,-74.05759,23,13.54,5,lluvioso,fin de semana,1,5.69,1
-Portal Del Norte,4.754521,-74.046076,30,14.16,0,nublado,fin de semana,0,9.17,0
-Calle 100,4.685253,-74.05759,99,21.92,20,nublado,laboral,1,19.22,1
-Avenida Chile,4.665855,-74.074947,18,16.99,18,nublado,laboral,0,0.86,0
-Portal Del Norte,4.754521,-74.046076,16,6.25,18,nublado,fin de semana,0,1.85,1
-Portal Sur,4.596921,-74.169589,48,12.31,11,lluvioso,laboral,1,1.11,1
-Portal El Dorado,4.681081,-74.121352,52,16.71,15,soleado,fin de semana,1,3.82,0
-Avenida Chile,4.665855,-74.074947,16,24.36,6,nublado,laboral,1,4.9,0
-Calle 100,4.685253,-74.05759,67,5.71,13,lluvioso,fin de semana,0,1.13,1
-Portal Sur,4.596921,-74.169589,33,23.35,11,soleado,fin de semana,1,3.12,0
-Portal Del Norte,4.754521,-74.046076,45,9.42,13,lluvioso,laboral,0,16.97,1
-Calle 26,4.615955,-74.072385,11,9.1,7,soleado,fin de semana,0,2.37,1
-Calle 100,4.685253,-74.05759,40,12.79,17,lluvioso,laboral,0,3.27,1
-Calle 26,4.615955,-74.072385,72,8.0,14,nublado,fin de semana,1,4.11,0
-Portal El Dorado,4.681081,-74.121352,32,19.71,12,soleado,laboral,0,12.21,0
-Calle 100,4.685253,-74.05759,83,8.92,15,lluvioso,fin de semana,1,6.55,0
-Avenida Chile,4.665855,-74.074947,53,23.51,10,nublado,fin de semana,0,9.11,0
-Portal Del Norte,4.754521,-74.046076,13,7.87,7,nublado,fin de semana,0,19.92,0
-Portal El Dorado,4.681081,-74.121352,85,8.63,0,lluvioso,laboral,0,1.52,1
-Avenida Chile,4.665855,-74.074947,97,26.55,15,lluvioso,fin de semana,1,10.23,1
-Calle 100,4.685253,-74.05759,79,21.85,3,nublado,laboral,0,11.23,1
-Portal Del Norte,4.754521,-74.046076,74,23.27,19,lluvioso,fin de semana,1,13.03,1
-Portal Del Norte,4.754521,-74.046076,25,8.83,21,lluvioso,laboral,1,5.4,0
-Calle 26,4.615955,-74.072385,80,14.47,17,soleado,fin de semana,1,14.25,1
-Portal Sur,4.596921,-74.169589,85,20.83,11,nublado,fin de semana,0,18.76,0
-Avenida Chile,4.665855,-74.074947,49,11.97,17,nublado,fin de semana,0,10.42,0
-Gobernacion,4.642477,-74.096455,21,7.32,14,lluvioso,laboral,0,15.17,1
-Portal El Dorado,4.681081,-74.121352,23,13.88,2,soleado,laboral,0,4.22,1
-Calle 26,4.615955,-74.072385,22,18.29,20,lluvioso,laboral,0,9.03,1
-Portal El Dorado,4.681081,-74.121352,77,23.0,1,nublado,laboral,1,11.47,0
-Calle 100,4.685253,-74.05759,34,22.28,18,soleado,laboral,0,15.12,1
-Avenida Chile,4.665855,-74.074947,40,19.22,16,soleado,fin de semana,0,17.27,0
-Calle 26,4.615955,-74.072385,98,27.09,0,nublado,fin de semana,0,13.31,1
-Portal Sur,4.596921,-74.169589,83,29.77,16,nublado,fin de semana,0,0.8,1
-Portal El Dorado,4.681081,-74.121352,50,27.56,7,nublado,fin de semana,1,14.12,1
-Gobernacion,4.642477,-74.096455,78,6.5,6,soleado,laboral,1,13.14,1
-Calle 100,4.685253,-74.05759,99,14.61,16,lluvioso,fin de semana,0,17.31,0
-Calle 26,4.615955,-74.072385,96,7.3,3,lluvioso,laboral,0,10.67,1
-Calle 26,4.615955,-74.072385,26,18.54,13,lluvioso,laboral,0,7.8,0
-Calle 26,4.615955,-74.072385,49,20.14,21,nublado,fin de semana,0,4.72,1
-Gobernacion,4.642477,-74.096455,67,27.97,12,lluvioso,laboral,0,6.6,0
-Portal El Dorado,4.681081,-74.121352,11,24.79,19,lluvioso,fin de semana,1,11.76,0
-Gobernacion,4.642477,-74.096455,14,11.55,15,nublado,fin de semana,1,13.65,0
-Portal Del Norte,4.754521,-74.046076,64,17.65,12,nublado,fin de semana,1,11.26,1
-Calle 100,4.685253,-74.05759,94,11.34,0,soleado,laboral,1,4.92,1
-Portal El Dorado,4.681081,-74.121352,18,13.55,17,nublado,laboral,0,18.78,0
-Portal Sur,4.596921,-74.169589,84,10.06,2,nublado,laboral,1,7.86,1
-Portal Del Norte,4.754521,-74.046076,48,25.93,5,soleado,laboral,0,6.7,1
-Portal Sur,4.596921,-74.169589,25,18.58,5,lluvioso,fin de semana,1,8.73,1
-Portal Sur,4.596921,-74.169589,58,24.05,21,lluvioso,laboral,1,17.8,0
-Portal El Dorado,4.681081,-74.121352,80,7.07,10,nublado,laboral,1,15.17,1
-Calle 26,4.615955,-74.072385,16,26.12,14,lluvioso,laboral,0,11.48,0
-Portal Del Norte,4.754521,-74.046076,28,16.66,14,nublado,fin de semana,1,14.01,0
-Portal El Dorado,4.681081,-74.121352,15,10.68,3,nublado,laboral,1,7.83,1
-Avenida Chile,4.665855,-74.074947,60,23.54,0,lluvioso,fin de semana,0,12.96,1
-Gobernacion,4.642477,-74.096455,12,10.83,21,lluvioso,laboral,0,14.69,1
-Calle 100,4.685253,-74.05759,62,6.53,7,soleado,fin de semana,1,11.33,0
-Calle 26,4.615955,-74.072385,100,29.19,3,lluvioso,laboral,0,2.21,1
-Portal El Dorado,4.681081,-74.121352,33,12.91,0,soleado,fin de semana,1,15.91,1
-Calle 100,4.685253,-74.05759,96,6.67,22,nublado,fin de semana,1,19.22,1
-Portal Del Norte,4.754521,-74.046076,10,8.62,2,soleado,laboral,1,18.89,0
-Portal Sur,4.596921,-74.169589,59,26.94,6,soleado,laboral,0,3.99,0
-Portal Del Norte,4.754521,-74.046076,62,11.95,9,nublado,fin de semana,0,13.58,0
-Gobernacion,4.642477,-74.096455,12,25.25,4,soleado,laboral,1,15.43,1
-Gobernacion,4.642477,-74.096455,23,22.88,22,soleado,fin de semana,1,13.46,0
-Portal Sur,4.596921,-74.169589,66,8.63,3,soleado,laboral,0,7.23,0
-Avenida Chile,4.665855,-74.074947,83,27.66,23,lluvioso,fin de semana,0,18.87,1
-Portal Del Norte,4.754521,-74.046076,10,11.4,0,lluvioso,laboral,0,1.72,1
-Calle 100,4.685253,-74.05759,14,13.16,0,soleado,fin de semana,1,17.76,0
-Gobernacion,4.642477,-74.096455,30,12.91,5,lluvioso,laboral,1,6.26,1
-Gobernacion,4.642477,-74.096455,44,12.84,2,nublado,fin de semana,0,12.11,1
-Gobernacion,4.642477,-74.096455,98,26.7,6,soleado,fin de semana,1,0.98,1
-Calle 100,4.685253,-74.05759,79,21.96,12,lluvioso,laboral,0,19.56,0
-Calle 26,4.615955,-74.072385,71,10.47,22,lluvioso,fin de semana,0,5.85,1
-Calle 100,4.685253,-74.05759,24,26.3,17,nublado,laboral,1,6.2,1
-Avenida Chile,4.665855,-74.074947,27,8.57,19,soleado,laboral,0,15.94,1
-Portal El Dorado,4.681081,-74.121352,32,29.79,16,soleado,laboral,1,5.06,0
-Calle 100,4.685253,-74.05759,64,7.97,17,lluvioso,fin de semana,1,9.38,0
-Portal Sur,4.596921,-74.169589,90,20.55,22,soleado,laboral,0,18.94,0
-Calle 100,4.685253,-74.05759,48,28.44,14,lluvioso,laboral,0,13.07,1
-Portal Sur,4.596921,-74.169589,85,18.0,21,soleado,laboral,0,11.68,1
-Portal Del Norte,4.754521,-74.046076,14,13.95,23,soleado,laboral,0,8.82,0
-Portal El Dorado,4.681081,-74.121352,95,10.22,17,lluvioso,laboral,1,12.94,1
-Portal Sur,4.596921,-74.169589,11,13.32,10,soleado,laboral,1,3.99,1
-Gobernacion,4.642477,-74.096455,100,9.73,7,soleado,laboral,1,8.18,1
-Calle 100,4.685253,-74.05759,62,20.42,14,lluvioso,fin de semana,1,9.47,0
-Calle 100,4.685253,-74.05759,84,27.29,11,soleado,laboral,1,0.96,0
-Portal El Dorado,4.681081,-74.121352,20,15.5,7,soleado,fin de semana,0,2.08,0
-Portal Sur,4.596921,-74.169589,68,16.16,12,nublado,fin de semana,1,17.94,1
-Portal Sur,4.596921,-74.169589,16,23.92,12,lluvioso,laboral,0,17.23,0
-Calle 100,4.685253,-74.05759,37,18.94,19,lluvioso,laboral,1,4.77,0
-Avenida Chile,4.665855,-74.074947,24,19.05,22,lluvioso,laboral,1,2.67,1
-Gobernacion,4.642477,-74.096455,34,17.28,7,soleado,laboral,0,11.23,1
-Portal Del Norte,4.754521,-74.046076,47,11.85,12,soleado,fin de semana,0,0.92,1
-Gobernacion,4.642477,-74.096455,69,22.76,7,nublado,laboral,0,11.57,1
-Calle 100,4.685253,-74.05759,24,21.3,18,lluvioso,fin de semana,1,19.64,1
-Calle 100,4.685253,-74.05759,91,5.14,7,nublado,laboral,0,13.63,0
-Calle 100,4.685253,-74.05759,35,11.16,18,soleado,fin de semana,1,5.83,1
-Calle 26,4.615955,-74.072385,17,10.22,13,soleado,laboral,1,19.41,0
-Portal Sur,4.596921,-74.169589,96,17.2,3,soleado,laboral,1,0.95,1
-Calle 100,4.685253,-74.05759,40,27.62,2,soleado,laboral,0,8.66,0
-Avenida Chile,4.665855,-74.074947,54,23.12,15,soleado,laboral,0,5.46,1
-Portal Sur,4.596921,-74.169589,63,29.82,10,soleado,fin de semana,0,14.14,0
-Gobernacion,4.642477,-74.096455,92,20.41,7,nublado,laboral,1,12.36,1
-Avenida Chile,4.665855,-74.074947,54,26.99,23,nublado,fin de semana,0,17.94,1
-Portal El Dorado,4.681081,-74.121352,63,12.43,1,nublado,laboral,1,7.03,1
-Avenida Chile,4.665855,-74.074947,94,13.37,16,nublado,laboral,1,11.17,1
-Portal El Dorado,4.681081,-74.121352,30,8.07,2,nublado,fin de semana,1,3.97,1
-Gobernacion,4.642477,-74.096455,78,12.97,6,nublado,fin de semana,0,13.1,1
-Calle 26,4.615955,-74.072385,55,27.25,16,lluvioso,laboral,1,2.18,0
-Portal El Dorado,4.681081,-74.121352,14,11.93,16,soleado,laboral,0,10.22,1
-Portal Del Norte,4.754521,-74.046076,66,9.9,16,nublado,laboral,1,7.02,1
-Portal Del Norte,4.754521,-74.046076,56,28.35,14,soleado,laboral,0,1.29,0
-Portal Del Norte,4.754521,-74.046076,17,16.89,18,nublado,fin de semana,0,15.41,1
-Portal Del Norte,4.754521,-74.046076,80,22.78,17,soleado,laboral,0,5.92,0
-Calle 26,4.615955,-74.072385,34,7.79,11,soleado,fin de semana,1,15.64,0
-Calle 100,4.685253,-74.05759,21,17.52,23,soleado,fin de semana,1,7.07,1
-Portal Del Norte,4.754521,-74.046076,25,20.94,14,nublado,fin de semana,0,15.57,1
-Portal El Dorado,4.681081,-74.121352,45,10.41,7,nublado,fin de semana,0,3.55,0
-Portal Sur,4.596921,-74.169589,74,19.65,14,nublado,laboral,1,11.51,0
-Calle 100,4.685253,-74.05759,29,8.6,5,lluvioso,fin de semana,0,12.35,0
-Portal El Dorado,4.681081,-74.121352,68,23.64,0,nublado,fin de semana,1,6.82,1
-Portal El Dorado,4.681081,-74.121352,74,15.74,18,nublado,fin de semana,0,10.94,1
-Gobernacion,4.642477,-74.096455,45,25.9,18,lluvioso,laboral,1,10.14,1
-Portal Del Norte,4.754521,-74.046076,32,16.66,21,soleado,fin de semana,1,2.26,1
-Gobernacion,4.642477,-74.096455,77,17.4,7,lluvioso,fin de semana,1,18.17,1
-Portal Del Norte,4.754521,-74.046076,21,22.08,18,lluvioso,fin de semana,1,14.47,1
-Gobernacion,4.642477,-74.096455,27,21.0,15,soleado,laboral,1,16.45,0
-Gobernacion,4.642477,-74.096455,13,22.84,22,lluvioso,fin de semana,1,7.96,0
-Portal Del Norte,4.754521,-74.046076,54,17.42,14,lluvioso,laboral,1,7.8,1
-Portal Sur,4.596921,-74.169589,89,24.07,14,lluvioso,fin de semana,1,12.13,1
-Portal Del Norte,4.754521,-74.046076,90,11.55,22,nublado,fin de semana,0,4.14,1
-Gobernacion,4.642477,-74.096455,70,6.15,2,lluvioso,fin de semana,1,0.6,0
-Calle 100,4.685253,-74.05759,87,14.57,23,nublado,laboral,1,10.85,1
-Portal Del Norte,4.754521,-74.046076,67,10.79,4,nublado,fin de semana,0,11.85,0
-Avenida Chile,4.665855,-74.074947,49,17.67,3,soleado,laboral,1,4.75,0
-Portal El Dorado,4.681081,-74.121352,58,12.76,14,soleado,laboral,1,18.61,0
-Gobernacion,4.642477,-74.096455,51,9.08,4,soleado,fin de semana,0,11.89,1
-Portal El Dorado,4.681081,-74.121352,25,23.58,13,lluvioso,fin de semana,0,5.07,0
-Portal Del Norte,4.754521,-74.046076,24,8.85,17,nublado,fin de semana,1,2.75,1
-Calle 26,4.615955,-74.072385,70,6.62,16,lluvioso,fin de semana,1,15.36,1
-Avenida Chile,4.665855,-74.074947,49,19.63,13,lluvioso,fin de semana,1,13.35,0
-Calle 26,4.615955,-74.072385,46,17.33,16,soleado,laboral,1,3.62,1
-Portal Sur,4.596921,-74.169589,23,8.23,1,soleado,laboral,0,15.38,0
-Portal Sur,4.596921,-74.169589,60,13.4,12,soleado,fin de semana,1,2.17,1
-Calle 100,4.685253,-74.05759,64,14.04,16,lluvioso,laboral,0,6.77,1
-Calle 100,4.685253,-74.05759,78,20.09,6,lluvioso,laboral,1,16.68,0
-Avenida Chile,4.665855,-74.074947,55,10.28,18,soleado,laboral,0,0.72,0
-Gobernacion,4.642477,-74.096455,59,9.97,6,nublado,laboral,0,13.07,0
-Portal Del Norte,4.754521,-74.046076,96,13.66,12,nublado,fin de semana,0,1.69,0
-Portal Del Norte,4.754521,-74.046076,53,7.83,3,soleado,laboral,0,5.06,0
-Portal Sur,4.596921,-74.169589,90,26.03,12,soleado,fin de semana,1,7.86,1
-Calle 100,4.685253,-74.05759,64,20.33,13,soleado,fin de semana,1,1.23,0
-Gobernacion,4.642477,-74.096455,57,10.03,16,soleado,laboral,0,9.53,0
-Gobernacion,4.642477,-74.096455,96,28.75,16,lluvioso,laboral,1,17.14,0
-Portal El Dorado,4.681081,-74.121352,94,8.97,22,nublado,laboral,0,13.61,0
-Portal El Dorado,4.681081,-74.121352,95,24.06,4,soleado,laboral,0,0.75,1
-Gobernacion,4.642477,-74.096455,18,26.39,3,nublado,fin de semana,0,6.52,0
-Portal Sur,4.596921,-74.169589,78,12.73,7,soleado,laboral,0,7.32,1
-Portal Sur,4.596921,-74.169589,45,13.06,3,nublado,laboral,0,17.94,1
-Portal Del Norte,4.754521,-74.046076,96,14.26,3,lluvioso,fin de semana,0,1.44,0
-Calle 100,4.685253,-74.05759,72,12.86,2,lluvioso,fin de semana,1,3.32,1
-Calle 100,4.685253,-74.05759,65,24.5,8,nublado,fin de semana,0,5.83,0
-Gobernacion,4.642477,-74.096455,64,26.91,21,soleado,fin de semana,1,2.53,1
-Portal El Dorado,4.681081,-74.121352,91,28.97,6,lluvioso,laboral,1,13.66,0
-Portal El Dorado,4.681081,-74.121352,99,12.36,3,lluvioso,fin de semana,0,1.84,1
-Portal El Dorado,4.681081,-74.121352,37,9.9,21,nublado,fin de semana,1,3.81,0
-Calle 26,4.615955,-74.072385,42,25.53,3,soleado,laboral,1,11.48,0
-Portal El Dorado,4.681081,-74.121352,54,13.14,2,nublado,laboral,1,1.56,1
-Portal Del Norte,4.754521,-74.046076,43,15.32,5,nublado,fin de semana,0,13.97,0
-Avenida Chile,4.665855,-74.074947,46,27.04,2,lluvioso,fin de semana,0,12.1,1
-Portal El Dorado,4.681081,-74.121352,38,27.4,23,soleado,laboral,0,7.58,1
-Portal Del Norte,4.754521,-74.046076,95,10.42,0,nublado,laboral,0,18.86,0
-Portal Del Norte,4.754521,-74.046076,76,10.92,9,lluvioso,laboral,0,10.7,0
-Calle 26,4.615955,-74.072385,93,11.94,19,soleado,laboral,0,14.12,1
-Gobernacion,4.642477,-74.096455,88,18.86,23,nublado,fin de semana,1,11.64,0
-Portal Sur,4.596921,-74.169589,24,19.24,12,nublado,laboral,1,11.38,0
-Portal Sur,4.596921,-74.169589,64,17.7,23,nublado,fin de semana,1,8.79,0
-Portal Del Norte,4.754521,-74.046076,29,21.01,0,lluvioso,laboral,0,4.05,1
-Calle 100,4.685253,-74.05759,83,28.31,19,soleado,fin de semana,0,8.94,0
-Calle 100,4.685253,-74.05759,45,29.26,7,lluvioso,fin de semana,0,4.12,1
-Calle 26,4.615955,-74.072385,66,12.86,1,lluvioso,fin de semana,0,17.6,0
-Avenida Chile,4.665855,-74.074947,20,11.25,6,lluvioso,fin de semana,1,7.78,1
-Calle 26,4.615955,-74.072385,41,17.22,12,lluvioso,laboral,1,19.94,1
-Portal Sur,4.596921,-74.169589,92,16.1,19,lluvioso,fin de semana,1,4.27,0
-Calle 100,4.685253,-74.05759,37,27.9,9,nublado,laboral,1,18.38,0
-Portal El Dorado,4.681081,-74.121352,23,11.7,12,lluvioso,laboral,1,13.4,0
-Calle 100,4.685253,-74.05759,38,22.4,12,lluvioso,laboral,0,0.97,1
-Calle 26,4.615955,-74.072385,77,18.12,20,nublado,laboral,0,5.96,1
-Avenida Chile,4.665855,-74.074947,15,15.8,18,soleado,laboral,1,14.5,1
-Calle 100,4.685253,-74.05759,82,16.73,11,lluvioso,laboral,0,4.22,1
-Portal Del Norte,4.754521,-74.046076,76,11.72,9,soleado,laboral,0,10.22,0
-Portal El Dorado,4.681081,-74.121352,60,9.18,0,soleado,fin de semana,1,17.16,0
-Calle 100,4.685253,-74.05759,20,17.7,23,nublado,fin de semana,1,9.26,1
-Portal Del Norte,4.754521,-74.046076,10,16.55,9,nublado,fin de semana,0,6.71,1
-Calle 26,4.615955,-74.072385,68,13.18,16,soleado,fin de semana,0,19.04,0
-Portal Sur,4.596921,-74.169589,99,25.78,21,nublado,fin de semana,0,11.23,1
-Calle 100,4.685253,-74.05759,62,26.3,20,soleado,fin de semana,1,15.94,0
-Gobernacion,4.642477,-74.096455,10,13.12,20,nublado,laboral,0,2.43,1
-Portal Sur,4.596921,-74.169589,18,28.15,13,nublado,fin de semana,0,13.04,0
-Portal Del Norte,4.754521,-74.046076,87,19.96,14,lluvioso,fin de semana,0,12.58,1
-Calle 100,4.685253,-74.05759,14,20.46,8,lluvioso,fin de semana,0,5.22,0
-Portal El Dorado,4.681081,-74.121352,92,18.64,17,nublado,laboral,0,12.36,0
-Calle 100,4.685253,-74.05759,15,11.55,22,nublado,fin de semana,1,11.95,0
-Calle 100,4.685253,-74.05759,81,10.68,2,soleado,laboral,1,15.12,0
-Avenida Chile,4.665855,-74.074947,89,15.92,21,lluvioso,laboral,1,5.98,0
-Calle 100,4.685253,-74.05759,20,29.74,6,lluvioso,fin de semana,0,3.91,1
-Calle 100,4.685253,-74.05759,21,26.19,0,soleado,fin de semana,1,3.22,1
-Avenida Chile,4.665855,-74.074947,45,23.13,7,nublado,fin de semana,1,12.76,1
-Avenida Chile,4.665855,-74.074947,49,29.05,7,lluvioso,laboral,1,4.76,0
-Portal El Dorado,4.681081,-74.121352,17,24.64,11,nublado,fin de semana,0,15.65,0
-Portal Sur,4.596921,-74.169589,82,20.1,12,nublado,fin de semana,0,15.7,1
-Calle 26,4.615955,-74.072385,25,23.05,2,nublado,fin de semana,0,7.38,0
-Calle 26,4.615955,-74.072385,48,27.53,19,lluvioso,fin de semana,1,11.48,0
-Gobernacion,4.642477,-74.096455,50,11.38,5,lluvioso,fin de semana,1,7.55,0
-Portal Del Norte,4.754521,-74.046076,19,17.65,1,soleado,laboral,0,14.7,0
-Calle 26,4.615955,-74.072385,89,16.66,22,soleado,fin de semana,0,7.11,0
-Portal Del Norte,4.754521,-74.046076,97,21.36,6,lluvioso,laboral,0,17.45,0
-Avenida Chile,4.665855,-74.074947,15,6.93,1,lluvioso,fin de semana,1,12.9,0
-Portal Del Norte,4.754521,-74.046076,85,24.17,15,nublado,fin de semana,0,17.98,0
-Gobernacion,4.642477,-74.096455,56,8.08,2,nublado,fin de semana,1,16.66,1
-Calle 100,4.685253,-74.05759,39,13.0,1,lluvioso,fin de semana,0,6.53,1
-Calle 100,4.685253,-74.05759,11,14.9,9,lluvioso,fin de semana,0,1.68,0
-Avenida Chile,4.665855,-74.074947,53,7.32,23,lluvioso,laboral,0,5.48,0
-Portal Sur,4.596921,-74.169589,68,28.95,14,lluvioso,laboral,1,9.82,0
-Calle 100,4.685253,-74.05759,43,15.99,6,nublado,laboral,0,3.82,1
-Calle 26,4.615955,-74.072385,34,20.74,15,nublado,fin de semana,0,12.79,0
-Portal El Dorado,4.681081,-74.121352,84,27.05,23,soleado,laboral,1,6.65,0
-Calle 100,4.685253,-74.05759,12,15.65,20,soleado,laboral,0,3.22,1
-Portal El Dorado,4.681081,-74.121352,97,25.4,0,soleado,fin de semana,1,13.03,0
-Gobernacion,4.642477,-74.096455,64,14.97,5,lluvioso,fin de semana,1,14.42,1
-Portal Sur,4.596921,-74.169589,43,20.18,17,nublado,fin de semana,1,16.71,1
-Calle 26,4.615955,-74.072385,85,27.49,12,nublado,fin de semana,0,9.47,0
-Portal Sur,4.596921,-74.169589,91,19.04,1,lluvioso,fin de semana,0,0.95,1
-Calle 100,4.685253,-74.05759,49,8.37,13,soleado,fin de semana,0,15.64,1
-Calle 26,4.615955,-74.072385,69,12.0,18,lluvioso,laboral,1,13.46,0
-Portal Sur,4.596921,-74.169589,13,16.98,4,nublado,fin de semana,0,15.52,1
-Calle 26,4.615955,-74.072385,48,6.59,3,lluvioso,fin de semana,1,8.07,1
-Calle 100,4.685253,-74.05759,72,13.19,5,lluvioso,laboral,0,17.35,1
-Calle 100,4.685253,-74.05759,32,27.18,14,lluvioso,laboral,1,10.7,0
-Portal Del Norte,4.754521,-74.046076,55,10.21,21,soleado,fin de semana,1,18.76,0
-Portal El Dorado,4.681081,-74.121352,56,11.91,6,nublado,fin de semana,1,12.04,0
-Calle 26,4.615955,-74.072385,10,21.83,20,lluvioso,laboral,1,13.92,1
-Portal Sur,4.596921,-74.169589,87,12.3,15,nublado,laboral,1,10.21,1
-Avenida Chile,4.665855,-74.074947,23,23.73,22,lluvioso,fin de semana,1,12.05,1
-Gobernacion,4.642477,-74.096455,91,10.07,15,nublado,laboral,0,10.34,0
-Gobernacion,4.642477,-74.096455,16,13.63,12,nublado,fin de semana,1,13.03,0
-Gobernacion,4.642477,-74.096455,99,27.99,2,soleado,laboral,1,1.23,0
-Calle 100,4.685253,-74.05759,93,23.33,14,lluvioso,laboral,0,9.76,1
-Calle 100,4.685253,-74.05759,41,19.75,23,soleado,laboral,0,10.38,1
-Calle 100,4.685253,-74.05759,15,20.56,17,nublado,fin de semana,1,1.25,1
-Calle 100,4.685253,-74.05759,48,6.95,7,lluvioso,laboral,1,12.33,1
-Gobernacion,4.642477,-74.096455,62,21.75,2,soleado,fin de semana,0,13.02,0
-Calle 100,4.685253,-74.05759,87,21.59,17,nublado,fin de semana,0,2.31,1
-Portal El Dorado,4.681081,-74.121352,45,6.83,21,lluvioso,fin de semana,0,14.69,1
-Portal Sur,4.596921,-74.169589,31,23.64,3,lluvioso,fin de semana,0,18.01,1
-Portal Del Norte,4.754521,-74.046076,49,6.0,0,soleado,fin de semana,1,5.84,1
-Gobernacion,4.642477,-74.096455,89,28.34,7,nublado,laboral,0,1.72,0
-Avenida Chile,4.665855,-74.074947,18,22.31,0,nublado,laboral,1,6.44,1
-Calle 26,4.615955,-74.072385,20,8.67,16,soleado,fin de semana,0,11.97,1
-Gobernacion,4.642477,-74.096455,50,27.76,7,nublado,fin de semana,0,2.52,0
-Avenida Chile,4.665855,-74.074947,33,8.42,0,lluvioso,laboral,1,9.47,1
-Portal Del Norte,4.754521,-74.046076,21,24.17,11,soleado,fin de semana,1,13.02,0
-Calle 26,4.615955,-74.072385,10,20.95,12,soleado,fin de semana,0,11.57,1
-Portal Del Norte,4.754521,-74.046076,15,18.19,20,lluvioso,laboral,1,19.41,0
-Portal El Dorado,4.681081,-74.121352,83,11.82,10,soleado,fin de semana,0,14.19,0
-Calle 26,4.615955,-74.072385,52,8.2,12,soleado,laboral,0,19.41,0
-Portal Del Norte,4.754521,-74.046076,51,13.83,12,lluvioso,laboral,0,13.99,0
-Portal El Dorado,4.681081,-74.121352,99,11.19,11,nublado,laboral,0,9.7,1
-Avenida Chile,4.665855,-74.074947,33,5.66,15,soleado,laboral,0,14.96,0
-Calle 100,4.685253,-74.05759,86,27.27,18,lluvioso,fin de semana,0,4.71,0
-Portal El Dorado,4.681081,-74.121352,76,19.93,11,lluvioso,fin de semana,1,13.03,1
-Calle 100,4.685253,-74.05759,22,27.87,17,nublado,fin de semana,0,1.83,1
-Gobernacion,4.642477,-74.096455,66,22.41,14,soleado,laboral,0,17.94,1
-Calle 26,4.615955,-74.072385,79,6.21,15,nublado,laboral,0,3.37,0
-Avenida Chile,4.665855,-74.074947,10,19.89,8,lluvioso,laboral,0,9.74,1
-Portal El Dorado,4.681081,-74.121352,35,5.12,10,lluvioso,fin de semana,0,6.65,1
-Portal El Dorado,4.681081,-74.121352,91,8.78,0,lluvioso,laboral,1,11.73,1
-Portal Del Norte,4.754521,-74.046076,66,7.36,12,soleado,laboral,1,13.1,0
-Calle 26,4.615955,-74.072385,48,22.71,18,lluvioso,fin de semana,1,4.48,0
-Avenida Chile,4.665855,-74.074947,86,10.39,17,nublado,fin de semana,1,7.39,0
-Avenida Chile,4.665855,-74.074947,65,5.86,11,lluvioso,fin de semana,1,5.99,0
-Gobernacion,4.642477,-74.096455,91,13.93,0,soleado,fin de semana,0,7.41,0
-Calle 100,4.685253,-74.05759,32,5.78,23,lluvioso,fin de semana,0,3.05,0
-Portal Sur,4.596921,-74.169589,74,16.75,17,lluvioso,laboral,0,16.22,0
-Calle 26,4.615955,-74.072385,33,9.3,19,lluvioso,fin de semana,0,3.82,0
-Portal El Dorado,4.681081,-74.121352,93,22.52,18,nublado,fin de semana,1,2.89,1
-Avenida Chile,4.665855,-74.074947,53,16.33,23,nublado,fin de semana,1,10.38,1
-Portal Sur,4.596921,-74.169589,58,19.28,20,nublado,fin de semana,1,16.74,1
-Calle 100,4.685253,-74.05759,26,22.42,0,soleado,laboral,0,17.07,1
-Calle 26,4.615955,-74.072385,53,11.79,19,soleado,fin de semana,0,13.99,0
-Portal El Dorado,4.681081,-74.121352,98,5.47,3,nublado,laboral,1,2.9,0
-Gobernacion,4.642477,-74.096455,56,18.62,3,soleado,laboral,1,6.26,0
-Avenida Chile,4.665855,-74.074947,34,27.39,9,lluvioso,fin de semana,0,1.45,0
-Avenida Chile,4.665855,-74.074947,91,17.66,10,soleado,fin de semana,0,7.96,0
-Portal El Dorado,4.681081,-74.121352,60,19.31,3,lluvioso,laboral,1,1.62,1
-Calle 26,4.615955,-74.072385,31,5.62,18,nublado,laboral,1,6.45,1
-Portal Del Norte,4.754521,-74.046076,82,22.07,20,lluvioso,laboral,0,9.44,1
-Calle 100,4.685253,-74.05759,76,26.61,10,soleado,laboral,1,11.5,0
-Portal Del Norte,4.754521,-74.046076,92,6.14,20,soleado,fin de semana,0,10.53,1
-Portal El Dorado,4.681081,-74.121352,43,27.64,16,lluvioso,fin de semana,0,11.47,1
-Portal El Dorado,4.681081,-74.121352,28,5.96,20,nublado,laboral,0,1.47,0
-Calle 26,4.615955,-74.072385,50,21.97,9,soleado,laboral,1,2.28,1
-Portal Sur,4.596921,-74.169589,64,17.88,14,soleado,fin de semana,1,7.86,1
-Portal El Dorado,4.681081,-74.121352,35,16.74,15,nublado,fin de semana,1,15.33,1
-Portal El Dorado,4.681081,-74.121352,49,5.7,9,lluvioso,fin de semana,0,7.55,1
-Calle 100,4.685253,-74.05759,92,5.92,4,nublado,fin de semana,1,19.56,0
-Portal El Dorado,4.681081,-74.121352,92,15.95,19,soleado,fin de semana,1,6.65,0
-Gobernacion,4.642477,-74.096455,34,12.29,20,nublado,laboral,0,8.51,1
-Calle 100,4.685253,-74.05759,89,5.02,7,lluvioso,fin de semana,0,8.51,1
-Portal Del Norte,4.754521,-74.046076,90,17.19,8,lluvioso,fin de semana,0,19.6,0
-Calle 100,4.685253,-74.05759,82,22.96,7,soleado,laboral,0,8.65,0
-Portal Sur,4.596921,-74.169589,87,22.94,5,nublado,laboral,1,18.9,0
-Portal Del Norte,4.754521,-74.046076,17,17.3,11,soleado,laboral,1,18.79,1
-Calle 100,4.685253,-74.05759,72,25.41,8,soleado,laboral,0,7.32,0
-Calle 26,4.615955,-74.072385,98,26.33,7,soleado,laboral,1,6.1,1
-Calle 26,4.615955,-74.072385,95,29.42,6,soleado,laboral,0,16.84,1
-Gobernacion,4.642477,-74.096455,93,26.95,18,soleado,fin de semana,0,11.7,1
-Calle 100,4.685253,-74.05759,60,18.49,6,nublado,fin de semana,1,11.91,0
-Portal Sur,4.596921,-74.169589,99,16.87,21,lluvioso,fin de semana,0,15.43,1
-Portal Sur,4.596921,-74.169589,24,8.34,12,lluvioso,fin de semana,1,5.14,1
-Calle 100,4.685253,-74.05759,79,24.11,8,nublado,laboral,1,14.7,0
-Portal Del Norte,4.754521,-74.046076,10,18.67,21,nublado,fin de semana,0,7.07,1
-Avenida Chile,4.665855,-74.074947,45,22.86,16,lluvioso,fin de semana,0,14.25,1
-Portal Del Norte,4.754521,-74.046076,89,14.09,21,lluvioso,fin de semana,0,14.37,1
-Portal Del Norte,4.754521,-74.046076,48,15.18,4,lluvioso,laboral,1,17.51,1
-Calle 26,4.615955,-74.072385,84,29.91,10,lluvioso,fin de semana,0,11.95,0
-Gobernacion,4.642477,-74.096455,15,28.95,17,soleado,laboral,1,13.24,1
-Portal El Dorado,4.681081,-74.121352,49,28.25,13,soleado,laboral,0,3.36,0
-Calle 26,4.615955,-74.072385,48,13.1,16,nublado,laboral,1,5.06,1
-Portal El Dorado,4.681081,-74.121352,51,29.46,21,soleado,laboral,0,4.16,1
-Calle 100,4.685253,-74.05759,32,18.45,22,nublado,laboral,1,12.98,1
-Portal Del Norte,4.754521,-74.046076,80,11.4,10,nublado,fin de semana,1,14.08,0
-Calle 26,4.615955,-74.072385,66,20.19,1,lluvioso,laboral,1,1.13,1
-Gobernacion,4.642477,-74.096455,14,8.28,4,nublado,fin de semana,1,9.57,1
-Portal Sur,4.596921,-74.169589,93,27.71,16,lluvioso,fin de semana,1,12.34,0
-Portal El Dorado,4.681081,-74.121352,38,13.25,19,lluvioso,fin de semana,1,8.4,0
-Portal Del Norte,4.754521,-74.046076,78,25.26,2,lluvioso,laboral,1,11.23,0
-Portal El Dorado,4.681081,-74.121352,21,9.05,20,nublado,laboral,1,12.63,1
-Avenida Chile,4.665855,-74.074947,54,21.01,20,lluvioso,fin de semana,0,17.46,1
-Calle 100,4.685253,-74.05759,19,8.24,2,nublado,laboral,1,2.9,1
-Portal El Dorado,4.681081,-74.121352,51,25.31,6,lluvioso,fin de semana,0,14.26,1
-Portal El Dorado,4.681081,-74.121352,62,9.05,21,nublado,laboral,0,13.1,0
-Gobernacion,4.642477,-74.096455,66,6.53,3,nublado,laboral,1,10.44,0
-Portal Sur,4.596921,-74.169589,60,27.98,13,soleado,fin de semana,1,18.14,0
-Portal El Dorado,4.681081,-74.121352,53,8.93,11,nublado,laboral,1,11.01,1
-Avenida Chile,4.665855,-74.074947,58,22.19,21,nublado,laboral,0,3.64,1
-Portal Sur,4.596921,-74.169589,82,8.08,11,nublado,fin de semana,0,7.55,1
-Calle 100,4.685253,-74.05759,13,8.39,6,lluvioso,fin de semana,1,5.91,1
-Calle 26,4.615955,-74.072385,66,23.01,18,nublado,fin de semana,0,15.34,1
-Avenida Chile,4.665855,-74.074947,32,5.47,18,soleado,laboral,0,9.85,1
-Portal Sur,4.596921,-74.169589,37,10.69,16,soleado,fin de semana,0,3.39,1
-Avenida Chile,4.665855,-74.074947,55,20.09,18,nublado,fin de semana,0,17.44,0
-Portal El Dorado,4.681081,-74.121352,77,5.62,16,nublado,laboral,0,11.14,0
-Portal El Dorado,4.681081,-74.121352,18,19.22,3,soleado,laboral,0,18.83,1
-Calle 100,4.685253,-74.05759,66,22.6,4,soleado,laboral,0,4.9,1
-Calle 100,4.685253,-74.05759,26,26.01,14,nublado,laboral,1,12.64,1
-Portal El Dorado,4.681081,-74.121352,85,25.32,2,soleado,fin de semana,1,13.15,1
-Portal Del Norte,4.754521,-74.046076,19,16.58,15,lluvioso,laboral,0,15.39,0
-Portal El Dorado,4.681081,-74.121352,77,29.37,6,lluvioso,laboral,1,19.03,0
-Portal Sur,4.596921,-74.169589,81,19.31,12,nublado,laboral,0,7.11,1
-Portal Sur,4.596921,-74.169589,76,14.99,23,lluvioso,fin de semana,0,18.79,0
-Gobernacion,4.642477,-74.096455,45,14.14,19,lluvioso,laboral,0,3.55,1
-Avenida Chile,4.665855,-74.074947,31,6.86,9,nublado,laboral,1,8.66,0
-Avenida Chile,4.665855,-74.074947,71,9.28,13,nublado,laboral,0,12.76,0
-Calle 26,4.615955,-74.072385,29,20.79,5,nublado,laboral,1,15.74,0
-Gobernacion,4.642477,-74.096455,44,27.45,15,lluvioso,fin de semana,1,13.92,0
-Portal Sur,4.596921,-74.169589,37,14.64,10,soleado,laboral,1,11.5,0
-Calle 100,4.685253,-74.05759,89,17.85,1,nublado,laboral,0,13.88,0
-Calle 100,4.685253,-74.05759,54,16.59,0,nublado,laboral,0,8.94,1
-Portal El Dorado,4.681081,-74.121352,32,29.03,8,soleado,fin de semana,0,4.4,0
-Portal Del Norte,4.754521,-74.046076,15,18.45,10,soleado,laboral,0,5.27,1
-Gobernacion,4.642477,-74.096455,82,16.13,17,nublado,fin de semana,0,1.29,1
-Calle 26,4.615955,-74.072385,69,10.36,8,lluvioso,laboral,0,8.78,0
-Calle 100,4.685253,-74.05759,80,7.66,23,lluvioso,laboral,1,10.39,1
-Gobernacion,4.642477,-74.096455,65,18.43,11,soleado,fin de semana,1,6.2,0
-Calle 100,4.685253,-74.05759,80,8.58,7,soleado,laboral,0,4.18,1
-Calle 100,4.685253,-74.05759,37,9.73,0,nublado,fin de semana,1,17.27,0
-Calle 26,4.615955,-74.072385,44,10.77,18,lluvioso,fin de semana,1,10.14,0
-Calle 26,4.615955,-74.072385,27,7.37,16,lluvioso,laboral,1,5.48,0
-Gobernacion,4.642477,-74.096455,11,13.58,20,lluvioso,fin de semana,0,9.47,0
-Calle 26,4.615955,-74.072385,23,13.58,14,lluvioso,laboral,0,4.18,1
-Gobernacion,4.642477,-74.096455,73,9.59,23,nublado,fin de semana,0,16.83,1
-Gobernacion,4.642477,-74.096455,31,12.87,12,lluvioso,laboral,1,16.51,0
-Portal Sur,4.596921,-74.169589,71,14.9,0,nublado,fin de semana,1,19.33,0
-Avenida Chile,4.665855,-74.074947,52,23.11,5,lluvioso,fin de semana,1,5.95,0
-Avenida Chile,4.665855,-74.074947,36,8.8,5,lluvioso,laboral,1,13.1,0
-Calle 26,4.615955,-74.072385,32,14.51,12,soleado,laboral,0,0.52,1
-Calle 26,4.615955,-74.072385,43,13.84,16,soleado,laboral,1,16.3,1
-Portal El Dorado,4.681081,-74.121352,44,22.64,15,lluvioso,fin de semana,1,11.69,1
-Portal Del Norte,4.754521,-74.046076,23,22.69,9,lluvioso,laboral,1,16.61,1
-Avenida Chile,4.665855,-74.074947,97,22.45,12,soleado,fin de semana,1,14.54,1
-Portal Del Norte,4.754521,-74.046076,73,26.55,15,lluvioso,fin de semana,0,18.52,1
-Portal Sur,4.596921,-74.169589,41,27.77,11,nublado,laboral,1,9.81,0
-Portal Del Norte,4.754521,-74.046076,68,12.16,20,nublado,laboral,1,11.01,0
-Calle 26,4.615955,-74.072385,43,21.56,22,nublado,laboral,0,12.25,0
-Calle 26,4.615955,-74.072385,84,26.38,11,lluvioso,laboral,0,4.9,0
-Portal Del Norte,4.754521,-74.046076,73,27.71,13,lluvioso,laboral,0,13.66,0
-Calle 26,4.615955,-74.072385,48,8.87,21,soleado,laboral,1,6.29,1
-Calle 100,4.685253,-74.05759,26,25.21,19,lluvioso,fin de semana,1,17.66,0
-Portal Sur,4.596921,-74.169589,31,19.86,15,nublado,laboral,0,2.21,0
-Portal Sur,4.596921,-74.169589,44,26.09,16,soleado,fin de semana,0,6.87,1
-Avenida Chile,4.665855,-74.074947,60,18.8,8,lluvioso,laboral,0,17.08,0
-Avenida Chile,4.665855,-74.074947,41,6.21,5,nublado,laboral,1,15.01,1
-Gobernacion,4.642477,-74.096455,15,22.21,11,soleado,fin de semana,1,12.97,0
-Avenida Chile,4.665855,-74.074947,92,28.3,14,nublado,fin de semana,1,4.91,1
-Calle 26,4.615955,-74.072385,80,14.41,20,nublado,laboral,1,1.61,1
-Portal Del Norte,4.754521,-74.046076,97,25.06,5,nublado,laboral,1,17.63,1
-Portal Sur,4.596921,-74.169589,49,24.94,4,lluvioso,laboral,1,1.45,0
-Gobernacion,4.642477,-74.096455,45,25.72,5,nublado,laboral,1,17.75,1
-Calle 100,4.685253,-74.05759,33,10.11,16,nublado,laboral,0,4.75,0
-Portal El Dorado,4.681081,-74.121352,12,27.25,3,nublado,fin de semana,1,18.76,1
-Portal El Dorado,4.681081,-74.121352,29,9.16,11,nublado,laboral,1,9.47,1
-Portal El Dorado,4.681081,-74.121352,93,11.05,1,soleado,laboral,0,2.08,0
-Calle 26,4.615955,-74.072385,64,15.52,21,nublado,fin de semana,1,11.01,1
-Portal Del Norte,4.754521,-74.046076,15,14.67,22,nublado,laboral,0,11.54,1
-Gobernacion,4.642477,-74.096455,28,28.58,10,nublado,fin de semana,1,12.36,0
-Avenida Chile,4.665855,-74.074947,73,21.56,5,lluvioso,fin de semana,1,5.06,1
-Calle 100,4.685253,-74.05759,91,28.16,20,soleado,fin de semana,0,15.45,1
-Portal Sur,4.596921,-74.169589,24,6.24,19,soleado,fin de semana,1,8.09,1
-Portal El Dorado,4.681081,-74.121352,55,21.42,15,soleado,fin de semana,1,19.67,0
-Calle 26,4.615955,-74.072385,27,20.96,14,soleado,laboral,0,16.68,1
-Portal El Dorado,4.681081,-74.121352,32,29.66,16,nublado,laboral,0,2.81,1
-Calle 26,4.615955,-74.072385,89,20.69,7,nublado,laboral,1,1.38,1
-Avenida Chile,4.665855,-74.074947,96,5.99,3,soleado,fin de semana,0,3.83,1
-Gobernacion,4.642477,-74.096455,64,8.52,12,nublado,laboral,1,6.59,1
-Avenida Chile,4.665855,-74.074947,94,13.71,19,nublado,laboral,1,14.36,0
-Calle 100,4.685253,-74.05759,68,29.56,21,soleado,fin de semana,0,7.81,0
-Gobernacion,4.642477,-74.096455,95,13.47,12,nublado,fin de semana,1,7.13,0
-Calle 100,4.685253,-74.05759,82,19.54,13,soleado,laboral,0,1.51,0
-Portal Del Norte,4.754521,-74.046076,58,23.19,4,nublado,fin de semana,0,11.5,1
-Portal Del Norte,4.754521,-74.046076,93,27.74,7,lluvioso,laboral,1,2.43,0
-Portal Sur,4.596921,-74.169589,73,16.35,11,nublado,laboral,0,18.17,1
-Portal Del Norte,4.754521,-74.046076,82,24.61,0,soleado,laboral,1,13.66,1
-Calle 26,4.615955,-74.072385,14,24.8,1,soleado,fin de semana,0,17.14,1
-Calle 100,4.685253,-74.05759,26,20.28,20,lluvioso,fin de semana,0,9.1,1
-Calle 100,4.685253,-74.05759,86,26.1,17,lluvioso,laboral,0,5.29,1
-Portal Del Norte,4.754521,-74.046076,31,17.0,16,lluvioso,laboral,0,8.65,1
-Portal Sur,4.596921,-74.169589,78,15.73,13,soleado,fin de semana,0,3.51,0
-Calle 100,4.685253,-74.05759,31,9.28,18,lluvioso,laboral,1,3.05,0
-Calle 100,4.685253,-74.05759,88,13.09,10,soleado,laboral,0,1.78,0
-Portal Sur,4.596921,-74.169589,35,29.93,10,lluvioso,fin de semana,1,8.24,1
-Portal Del Norte,4.754521,-74.046076,45,7.78,4,soleado,laboral,0,18.17,0
-Portal El Dorado,4.681081,-74.121352,55,20.14,1,lluvioso,laboral,0,12.79,0
-Calle 100,4.685253,-74.05759,62,16.33,8,soleado,fin de semana,0,8.57,0
-Calle 26,4.615955,-74.072385,29,12.1,9,lluvioso,laboral,0,7.07,0
-Avenida Chile,4.665855,-74.074947,52,18.0,21,lluvioso,laboral,1,16.98,1
-Portal El Dorado,4.681081,-74.121352,66,8.16,12,nublado,laboral,0,2.86,0
-Portal Sur,4.596921,-74.169589,22,6.83,9,soleado,laboral,0,4.71,0
-Portal Sur,4.596921,-74.169589,93,18.52,17,soleado,laboral,1,10.3,0
-Portal Sur,4.596921,-74.169589,44,21.39,19,soleado,fin de semana,0,6.26,0
-Gobernacion,4.642477,-74.096455,79,9.42,3,nublado,fin de semana,0,12.3,0
-Avenida Chile,4.665855,-74.074947,11,19.81,15,lluvioso,laboral,0,9.39,1
-Avenida Chile,4.665855,-74.074947,61,8.8,4,soleado,laboral,1,5.85,1
-Calle 26,4.615955,-74.072385,53,23.62,21,nublado,fin de semana,1,14.44,1
-Portal Sur,4.596921,-74.169589,14,7.0,10,nublado,laboral,0,12.29,1
-Avenida Chile,4.665855,-74.074947,61,28.31,6,soleado,fin de semana,1,7.18,1
-Portal Sur,4.596921,-74.169589,36,16.32,18,soleado,laboral,1,16.22,1
-Portal Sur,4.596921,-74.169589,51,22.37,9,lluvioso,fin de semana,0,7.46,0
-Portal Del Norte,4.754521,-74.046076,26,13.59,3,lluvioso,fin de semana,0,5.92,1
-Calle 100,4.685253,-74.05759,81,5.61,16,soleado,laboral,0,15.72,1
-Portal Del Norte,4.754521,-74.046076,47,25.18,13,soleado,fin de semana,0,0.86,1
-Gobernacion,4.642477,-74.096455,37,15.82,1,soleado,fin de semana,0,12.95,1
-Portal Del Norte,4.754521,-74.046076,27,16.78,5,lluvioso,fin de semana,0,19.64,1
-Portal Del Norte,4.754521,-74.046076,67,21.63,4,lluvioso,fin de semana,1,2.61,1
-Portal El Dorado,4.681081,-74.121352,22,9.78,23,soleado,laboral,1,12.23,1
-Portal Sur,4.596921,-74.169589,55,27.87,9,nublado,fin de semana,0,0.97,0
-Gobernacion,4.642477,-74.096455,29,23.0,16,soleado,laboral,1,1.12,1
-Calle 100,4.685253,-74.05759,11,6.18,17,soleado,laboral,0,2.95,1
-Portal Del Norte,4.754521,-74.046076,87,12.16,17,soleado,fin de semana,1,11.79,0
-Portal Del Norte,4.754521,-74.046076,41,25.37,2,nublado,laboral,0,0.91,1
-Gobernacion,4.642477,-74.096455,10,13.81,8,nublado,fin de semana,0,14.73,1
-Avenida Chile,4.665855,-74.074947,73,20.51,21,lluvioso,laboral,0,11.12,1
-Portal El Dorado,4.681081,-74.121352,94,6.51,5,lluvioso,fin de semana,0,9.97,1
-Avenida Chile,4.665855,-74.074947,74,19.6,9,lluvioso,fin de semana,0,0.92,0
-Calle 100,4.685253,-74.05759,31,12.53,2,soleado,fin de semana,1,18.37,1
-Portal El Dorado,4.681081,-74.121352,24,9.87,7,soleado,fin de semana,1,1.39,1
-Portal El Dorado,4.681081,-74.121352,85,12.54,16,nublado,laboral,0,17.86,1
-Portal El Dorado,4.681081,-74.121352,38,16.2,4,lluvioso,fin de semana,0,6.96,1
-Gobernacion,4.642477,-74.096455,25,22.25,17,nublado,laboral,1,6.29,0
-Portal Sur,4.596921,-74.169589,95,22.21,10,soleado,fin de semana,0,10.58,0
-Avenida Chile,4.665855,-74.074947,55,23.78,7,soleado,laboral,1,15.62,0
-Avenida Chile,4.665855,-74.074947,69,9.47,14,lluvioso,laboral,0,15.01,1
-Portal Sur,4.596921,-74.169589,87,9.83,8,soleado,fin de semana,1,3.46,1
-Gobernacion,4.642477,-74.096455,71,24.93,14,soleado,laboral,1,14.61,0
-Gobernacion,4.642477,-74.096455,64,21.13,10,soleado,fin de semana,1,19.88,1
-Portal El Dorado,4.681081,-74.121352,14,16.78,2,soleado,laboral,1,9.07,1
-Avenida Chile,4.665855,-74.074947,97,6.93,16,soleado,fin de semana,0,13.24,0
-Gobernacion,4.642477,-74.096455,31,28.86,11,lluvioso,fin de semana,1,9.47,0
-Portal Sur,4.596921,-74.169589,58,29.81,11,soleado,laboral,0,17.35,0
-Calle 100,4.685253,-74.05759,41,28.82,2,nublado,fin de semana,1,17.11,0
-Portal El Dorado,4.681081,-74.121352,53,26.23,15,nublado,laboral,0,8.51,0
-Calle 100,4.685253,-74.05759,89,12.18,1,nublado,fin de semana,0,9.76,0
-Portal Sur,4.596921,-74.169589,43,23.58,12,nublado,laboral,0,8.82,1
-Gobernacion,4.642477,-74.096455,26,10.97,17,soleado,laboral,0,17.38,1
-Portal El Dorado,4.681081,-74.121352,77,11.22,16,nublado,fin de semana,0,14.36,1
-Calle 100,4.685253,-74.05759,18,17.81,9,soleado,laboral,1,15.78,1
-Calle 100,4.685253,-74.05759,81,14.39,18,nublado,fin de semana,1,10.52,1
-Portal El Dorado,4.681081,-74.121352,63,24.35,4,nublado,laboral,0,14.47,1
-Calle 26,4.615955,-74.072385,52,10.77,18,soleado,fin de semana,0,9.12,0
-Avenida Chile,4.665855,-74.074947,46,14.82,20,nublado,laboral,1,8.57,0
-Portal El Dorado,4.681081,-74.121352,93,20.8,7,nublado,laboral,0,2.66,0
-Portal El Dorado,4.681081,-74.121352,37,16.74,11,lluvioso,laboral,0,11.97,1
-Avenida Chile,4.665855,-74.074947,47,6.91,1,nublado,laboral,0,19.67,1
-Calle 100,4.685253,-74.05759,70,15.07,20,nublado,fin de semana,1,16.21,0
-Portal Sur,4.596921,-74.169589,82,22.15,5,nublado,laboral,1,2.43,0
-Portal El Dorado,4.681081,-74.121352,23,26.45,1,nublado,fin de semana,0,11.33,1
-Calle 100,4.685253,-74.05759,21,6.48,14,nublado,fin de semana,0,18.87,1
-Calle 26,4.615955,-74.072385,49,27.01,4,nublado,fin de semana,0,17.74,1
-Portal Del Norte,4.754521,-74.046076,37,18.78,15,soleado,fin de semana,1,7.97,0
-Calle 26,4.615955,-74.072385,10,22.13,5,nublado,laboral,1,17.25,0
-Calle 100,4.685253,-74.05759,71,18.21,5,nublado,laboral,0,11.04,0
-Gobernacion,4.642477,-74.096455,21,16.94,23,soleado,fin de semana,0,14.8,0
-Portal El Dorado,4.681081,-74.121352,47,11.86,21,lluvioso,laboral,1,3.56,1
-Calle 100,4.685253,-74.05759,40,13.2,2,soleado,fin de semana,0,17.34,0
-Gobernacion,4.642477,-74.096455,76,28.22,10,lluvioso,laboral,0,18.18,0
-Portal Sur,4.596921,-74.169589,75,29.37,8,soleado,fin de semana,1,14.96,1
-Portal Del Norte,4.754521,-74.046076,97,24.07,8,nublado,laboral,1,11.22,1
-Gobernacion,4.642477,-74.096455,10,29.69,1,nublado,fin de semana,1,11.01,0
-Calle 26,4.615955,-74.072385,51,6.85,7,nublado,fin de semana,0,5.79,1
-Gobernacion,4.642477,-74.096455,93,22.37,20,soleado,laboral,0,7.23,0
-Avenida Chile,4.665855,-74.074947,76,28.14,7,nublado,fin de semana,1,7.16,1
-Portal Sur,4.596921,-74.169589,42,24.32,16,nublado,laboral,0,9.7,1
-Portal El Dorado,4.681081,-74.121352,65,19.31,13,lluvioso,laboral,0,7.26,0
-Gobernacion,4.642477,-74.096455,52,12.85,17,nublado,fin de semana,0,2.02,1
-Avenida Chile,4.665855,-74.074947,39,19.07,8,soleado,laboral,1,16.73,1
-Calle 100,4.685253,-74.05759,10,13.44,3,lluvioso,fin de semana,1,6.33,0
-Avenida Chile,4.665855,-74.074947,35,17.83,6,nublado,fin de semana,0,4.46,0
-Gobernacion,4.642477,-74.096455,44,8.37,19,soleado,laboral,0,6.59,1
-Calle 26,4.615955,-74.072385,83,23.53,10,lluvioso,laboral,0,3.27,1
-Portal El Dorado,4.681081,-74.121352,64,14.91,18,soleado,fin de semana,1,8.65,0
-Calle 26,4.615955,-74.072385,15,29.84,7,nublado,fin de semana,1,12.94,0
-Portal Del Norte,4.754521,-74.046076,85,19.23,1,nublado,fin de semana,0,13.18,1
-Calle 100,4.685253,-74.05759,51,23.8,21,soleado,fin de semana,1,4.46,1
-Calle 26,4.615955,-74.072385,47,13.14,10,lluvioso,laboral,0,18.1,0
-Portal Sur,4.596921,-74.169589,13,14.79,14,lluvioso,fin de semana,0,6.3,1
-Avenida Chile,4.665855,-74.074947,71,13.39,4,lluvioso,fin de semana,1,2.52,0
-Avenida Chile,4.665855,-74.074947,74,5.28,2,nublado,laboral,0,4.44,1
-Portal El Dorado,4.681081,-74.121352,97,15.66,4,lluvioso,fin de semana,0,8.73,0
-Calle 26,4.615955,-74.072385,82,19.77,0,nublado,fin de semana,0,14.33,0
-Calle 100,4.685253,-74.05759,14,16.8,17,nublado,laboral,0,11.16,1
-Gobernacion,4.642477,-74.096455,31,10.5,18,soleado,fin de semana,0,0.69,0
-Avenida Chile,4.665855,-74.074947,93,10.71,21,nublado,fin de semana,1,16.74,1
+Calle 26,4.615955,-74.072385,96,21.32,4,lluvioso,fin de semana,0,15.31,0
+Portal Del Norte,4.754521,-74.046076,17,17.21,15,lluvioso,fin de semana,0,4.92,0
+Portal Del Norte,4.754521,-74.046076,56,28.67,0,lluvioso,laboral,1,6.37,0
+Calle 26,4.615955,-74.072385,35,26.07,20,nublado,laboral,1,9.89,1
+Calle 26,4.615955,-74.072385,24,26.76,14,nublado,fin de semana,1,3.53,0
+Avenida Chile,4.665855,-74.074947,17,12.42,15,soleado,laboral,1,5.37,0
+Gobernacion,4.642477,-74.096455,53,24.93,18,soleado,fin de semana,0,4.35,0
+Portal El Dorado,4.681081,-74.121352,47,21.79,8,nublado,laboral,0,16.87,0
+Portal El Dorado,4.681081,-74.121352,58,28.48,0,soleado,laboral,0,3.51,0
+Calle 100,4.685253,-74.05759,40,24.85,17,nublado,fin de semana,0,17.67,1
+Calle 100,4.685253,-74.05759,46,24.77,13,soleado,fin de semana,1,1.62,0
+Calle 100,4.685253,-74.05759,44,12.29,19,nublado,laboral,0,12.82,0
+Gobernacion,4.642477,-74.096455,84,27.8,5,soleado,fin de semana,0,7.14,0
+Avenida Chile,4.665855,-74.074947,56,5.48,10,nublado,laboral,0,0.6,1
+Calle 100,4.685253,-74.05759,85,24.93,16,lluvioso,fin de semana,0,18.14,0
+Calle 100,4.685253,-74.05759,62,7.82,9,soleado,fin de semana,1,4.04,0
+Calle 100,4.685253,-74.05759,44,15.9,20,nublado,fin de semana,0,3.51,0
+Avenida Chile,4.665855,-74.074947,25,18.89,18,nublado,laboral,0,9.89,1
+Portal Del Norte,4.754521,-74.046076,24,15.74,1,lluvioso,fin de semana,1,17.49,0
+Avenida Chile,4.665855,-74.074947,54,22.47,19,nublado,fin de semana,1,8.32,0
+Portal Del Norte,4.754521,-74.046076,18,26.66,14,nublado,laboral,1,6.27,1
+Avenida Chile,4.665855,-74.074947,66,14.23,9,nublado,fin de semana,0,11.17,0
+Avenida Chile,4.665855,-74.074947,98,13.39,22,lluvioso,fin de semana,0,19.38,1
+Portal El Dorado,4.681081,-74.121352,90,21.21,12,lluvioso,laboral,0,15.39,1
+Portal Del Norte,4.754521,-74.046076,70,7.82,5,nublado,laboral,1,19.32,1
+Portal Del Norte,4.754521,-74.046076,28,27.93,6,lluvioso,laboral,1,9.88,0
+Calle 26,4.615955,-74.072385,100,13.29,23,lluvioso,fin de semana,1,14.73,1
+Calle 26,4.615955,-74.072385,65,18.84,7,lluvioso,fin de semana,0,2.79,0
+Portal Sur,4.596921,-74.169589,98,25.96,21,soleado,laboral,0,7.99,0
+Portal Del Norte,4.754521,-74.046076,16,14.91,11,soleado,fin de semana,1,19.75,0
+Gobernacion,4.642477,-74.096455,94,28.19,10,nublado,laboral,0,16.78,0
+Avenida Chile,4.665855,-74.074947,81,19.77,10,soleado,fin de semana,0,3.79,1
+Portal El Dorado,4.681081,-74.121352,62,12.53,8,nublado,laboral,1,13.03,0
+Avenida Chile,4.665855,-74.074947,98,13.01,11,nublado,fin de semana,1,12.91,1
+Calle 100,4.685253,-74.05759,67,17.79,14,nublado,laboral,0,12.55,0
+Avenida Chile,4.665855,-74.074947,13,16.04,4,nublado,laboral,0,17.42,0
+Gobernacion,4.642477,-74.096455,45,18.17,12,nublado,fin de semana,0,14.05,0
+Portal El Dorado,4.681081,-74.121352,61,6.83,10,lluvioso,fin de semana,0,3.54,1
+Portal Sur,4.596921,-74.169589,78,26.98,20,nublado,fin de semana,0,7.03,1
+Portal Sur,4.596921,-74.169589,75,20.04,7,soleado,fin de semana,0,1.3,0
+Avenida Chile,4.665855,-74.074947,18,20.5,12,nublado,laboral,0,3.7,1
+Portal Sur,4.596921,-74.169589,50,22.97,14,nublado,fin de semana,1,0.73,1
+Portal El Dorado,4.681081,-74.121352,21,19.15,10,soleado,fin de semana,1,17.71,1
+Gobernacion,4.642477,-74.096455,95,27.09,5,soleado,laboral,0,4.31,1
+Avenida Chile,4.665855,-74.074947,21,26.39,17,nublado,laboral,0,1.53,1
+Portal El Dorado,4.681081,-74.121352,81,26.78,8,lluvioso,fin de semana,1,7.14,1
+Portal Sur,4.596921,-74.169589,98,26.68,14,lluvioso,fin de semana,1,18.41,0
+Portal Del Norte,4.754521,-74.046076,86,27.26,19,lluvioso,fin de semana,0,17.64,0
+Portal El Dorado,4.681081,-74.121352,42,11.46,4,lluvioso,fin de semana,1,1.13,1
+Portal Del Norte,4.754521,-74.046076,76,16.08,13,lluvioso,fin de semana,0,11.84,1
+Portal El Dorado,4.681081,-74.121352,97,9.47,21,nublado,laboral,1,17.85,1
+Gobernacion,4.642477,-74.096455,34,17.9,5,lluvioso,laboral,1,7.31,0
+Avenida Chile,4.665855,-74.074947,62,23.21,12,lluvioso,fin de semana,1,0.96,0
+Portal Sur,4.596921,-74.169589,71,14.32,23,lluvioso,laboral,1,19.03,0
+Gobernacion,4.642477,-74.096455,39,23.18,16,lluvioso,fin de semana,1,10.69,0
+Portal Del Norte,4.754521,-74.046076,35,23.15,21,lluvioso,fin de semana,1,14.58,1
+Portal Sur,4.596921,-74.169589,45,17.58,11,soleado,fin de semana,0,4.81,0
+Portal Sur,4.596921,-74.169589,94,5.22,4,nublado,laboral,0,18.2,1
+Calle 26,4.615955,-74.072385,13,24.55,10,soleado,laboral,1,13.78,0
+Avenida Chile,4.665855,-74.074947,33,22.75,4,nublado,laboral,1,19.12,0
+Calle 100,4.685253,-74.05759,93,19.96,13,soleado,fin de semana,0,10.04,1
+Avenida Chile,4.665855,-74.074947,36,5.28,8,nublado,fin de semana,1,15.35,1
+Calle 100,4.685253,-74.05759,94,5.87,21,soleado,laboral,0,9.3,1
+Portal Sur,4.596921,-74.169589,48,18.04,5,lluvioso,fin de semana,0,9.32,0
+Portal El Dorado,4.681081,-74.121352,99,7.66,5,soleado,laboral,0,13.4,1
+Calle 26,4.615955,-74.072385,81,29.48,5,lluvioso,laboral,1,5.05,0
+Portal Del Norte,4.754521,-74.046076,30,15.24,11,nublado,laboral,1,7.01,1
+Calle 26,4.615955,-74.072385,80,10.5,13,lluvioso,fin de semana,1,15.43,1
+Gobernacion,4.642477,-74.096455,62,20.84,12,nublado,fin de semana,0,14.39,0
+Portal Del Norte,4.754521,-74.046076,67,12.1,21,nublado,laboral,0,7.03,1
+Calle 26,4.615955,-74.072385,35,23.31,5,nublado,fin de semana,1,15.31,1
+Calle 100,4.685253,-74.05759,12,8.22,16,soleado,laboral,0,2.86,0
+Calle 26,4.615955,-74.072385,96,6.35,13,lluvioso,laboral,1,18.73,0
+Portal Sur,4.596921,-74.169589,19,27.15,3,lluvioso,fin de semana,0,13.21,0
+Portal Del Norte,4.754521,-74.046076,40,8.17,21,nublado,fin de semana,0,13.78,0
+Calle 26,4.615955,-74.072385,29,22.03,20,lluvioso,laboral,0,3.83,1
+Calle 100,4.685253,-74.05759,10,28.63,14,nublado,fin de semana,0,8.66,0
+Calle 26,4.615955,-74.072385,10,8.45,16,lluvioso,laboral,1,14.23,0
+Portal Del Norte,4.754521,-74.046076,70,13.62,5,lluvioso,fin de semana,0,7.73,0
+Calle 26,4.615955,-74.072385,63,11.83,17,soleado,laboral,0,19.47,1
+Portal Sur,4.596921,-74.169589,16,11.61,16,lluvioso,laboral,1,6.61,1
+Portal Sur,4.596921,-74.169589,25,13.47,20,nublado,fin de semana,0,18.13,0
+Avenida Chile,4.665855,-74.074947,47,8.14,16,nublado,fin de semana,0,6.07,0
+Calle 26,4.615955,-74.072385,70,24.67,3,lluvioso,laboral,1,16.55,0
+Calle 26,4.615955,-74.072385,39,5.99,23,soleado,fin de semana,1,9.0,1
+Portal El Dorado,4.681081,-74.121352,33,23.43,3,nublado,laboral,0,4.35,1
+Avenida Chile,4.665855,-74.074947,14,9.34,0,nublado,laboral,0,5.91,0
+Calle 100,4.685253,-74.05759,52,11.56,5,nublado,laboral,1,17.91,0
+Portal El Dorado,4.681081,-74.121352,59,13.49,14,lluvioso,laboral,0,9.74,0
+Gobernacion,4.642477,-74.096455,54,14.52,4,soleado,laboral,1,4.06,0
+Calle 100,4.685253,-74.05759,89,16.37,16,nublado,laboral,0,18.48,1
+Gobernacion,4.642477,-74.096455,52,14.17,14,nublado,laboral,0,4.86,1
+Calle 26,4.615955,-74.072385,35,11.22,4,nublado,laboral,0,0.95,1
+Avenida Chile,4.665855,-74.074947,61,26.36,4,nublado,fin de semana,1,9.14,1
+Portal Sur,4.596921,-74.169589,46,24.05,2,soleado,fin de semana,0,17.31,1
+Calle 26,4.615955,-74.072385,49,6.35,0,nublado,laboral,0,10.39,1
+Portal Del Norte,4.754521,-74.046076,23,21.77,12,nublado,fin de semana,1,14.8,0
+Portal Del Norte,4.754521,-74.046076,74,25.62,10,nublado,laboral,0,3.34,1
+Portal Del Norte,4.754521,-74.046076,72,19.54,2,lluvioso,laboral,1,15.56,1
+Calle 26,4.615955,-74.072385,67,27.68,6,lluvioso,fin de semana,0,3.04,0
+Calle 26,4.615955,-74.072385,60,14.58,20,lluvioso,laboral,0,11.77,0
+Gobernacion,4.642477,-74.096455,97,26.45,9,soleado,fin de semana,0,10.6,1
+Portal Sur,4.596921,-74.169589,55,18.85,18,soleado,fin de semana,1,6.54,0
+Calle 100,4.685253,-74.05759,93,18.73,21,nublado,fin de semana,1,0.77,1
+Portal Del Norte,4.754521,-74.046076,25,16.25,21,nublado,laboral,0,5.56,1
+Calle 26,4.615955,-74.072385,39,7.75,19,lluvioso,fin de semana,1,12.51,0
+Portal Del Norte,4.754521,-74.046076,19,13.7,17,lluvioso,laboral,1,8.09,0
+Avenida Chile,4.665855,-74.074947,65,15.51,1,soleado,laboral,0,4.78,0
+Gobernacion,4.642477,-74.096455,45,16.15,13,lluvioso,fin de semana,1,9.72,0
+Portal Sur,4.596921,-74.169589,47,26.94,23,soleado,fin de semana,1,2.79,1
+Portal Sur,4.596921,-74.169589,98,12.29,1,nublado,fin de semana,0,10.31,0
+Portal Del Norte,4.754521,-74.046076,61,28.69,22,soleado,fin de semana,0,17.64,1
+Portal Del Norte,4.754521,-74.046076,19,11.07,6,nublado,fin de semana,1,14.32,0
+Portal El Dorado,4.681081,-74.121352,89,26.27,17,lluvioso,laboral,1,12.96,1
+Calle 26,4.615955,-74.072385,80,15.12,5,nublado,fin de semana,1,10.13,0
+Portal Del Norte,4.754521,-74.046076,59,24.49,7,soleado,fin de semana,1,7.04,1
+Calle 100,4.685253,-74.05759,64,5.54,23,soleado,laboral,1,8.26,0
+Portal Del Norte,4.754521,-74.046076,27,19.21,1,nublado,laboral,1,9.81,1
+Portal Sur,4.596921,-74.169589,56,29.64,8,nublado,laboral,0,15.17,1
+Calle 26,4.615955,-74.072385,100,16.75,5,nublado,laboral,1,14.11,0
+Avenida Chile,4.665855,-74.074947,49,14.2,5,lluvioso,fin de semana,1,6.97,1
+Portal Sur,4.596921,-74.169589,22,12.14,9,lluvioso,fin de semana,0,16.97,1
+Gobernacion,4.642477,-74.096455,49,17.21,23,lluvioso,laboral,1,5.35,1
+Portal Sur,4.596921,-74.169589,62,25.35,21,lluvioso,fin de semana,1,9.22,0
+Calle 100,4.685253,-74.05759,86,5.27,13,soleado,laboral,0,4.8,1
+Portal Del Norte,4.754521,-74.046076,63,19.64,16,lluvioso,fin de semana,0,17.64,1
+Portal Sur,4.596921,-74.169589,39,26.37,21,nublado,laboral,1,13.2,0
+Calle 100,4.685253,-74.05759,13,17.92,11,nublado,fin de semana,1,13.94,0
+Calle 26,4.615955,-74.072385,62,29.25,15,nublado,fin de semana,1,15.63,1
+Calle 100,4.685253,-74.05759,68,26.94,8,lluvioso,laboral,1,1.62,0
+Avenida Chile,4.665855,-74.074947,52,11.93,7,soleado,laboral,1,10.41,1
+Avenida Chile,4.665855,-74.074947,65,11.18,17,soleado,laboral,1,15.92,0
+Portal Del Norte,4.754521,-74.046076,95,14.73,20,lluvioso,laboral,0,7.37,1
+Avenida Chile,4.665855,-74.074947,84,26.86,7,nublado,fin de semana,0,14.51,1
+Portal El Dorado,4.681081,-74.121352,38,11.75,21,nublado,fin de semana,0,15.33,0
+Portal Del Norte,4.754521,-74.046076,86,18.29,8,soleado,laboral,1,18.03,0
+Portal Sur,4.596921,-74.169589,80,18.23,18,nublado,laboral,1,19.64,1
+Calle 100,4.685253,-74.05759,69,12.73,1,soleado,fin de semana,0,4.48,0
+Calle 100,4.685253,-74.05759,95,17.36,10,nublado,fin de semana,0,5.06,1
+Calle 26,4.615955,-74.072385,10,23.08,22,nublado,laboral,0,4.86,0
+Calle 26,4.615955,-74.072385,61,23.94,0,nublado,fin de semana,0,16.47,1
+Portal Sur,4.596921,-74.169589,97,11.8,10,lluvioso,fin de semana,0,13.06,1
+Calle 26,4.615955,-74.072385,59,23.45,1,lluvioso,fin de semana,0,14.08,1
+Portal Del Norte,4.754521,-74.046076,92,15.26,23,soleado,laboral,0,2.32,0
+Calle 100,4.685253,-74.05759,18,22.93,2,lluvioso,fin de semana,0,1.33,1
+Calle 100,4.685253,-74.05759,12,25.95,8,lluvioso,fin de semana,1,1.97,0
+Calle 26,4.615955,-74.072385,89,23.05,8,soleado,fin de semana,0,8.63,1
+Avenida Chile,4.665855,-74.074947,90,9.6,11,nublado,laboral,0,10.52,0
+Avenida Chile,4.665855,-74.074947,85,28.17,10,nublado,fin de semana,0,18.4,1
+Portal Del Norte,4.754521,-74.046076,90,24.55,14,soleado,fin de semana,0,11.33,1
+Portal Sur,4.596921,-74.169589,60,16.34,8,soleado,fin de semana,1,2.42,1
+Portal El Dorado,4.681081,-74.121352,35,15.81,10,nublado,fin de semana,0,1.13,0
+Portal El Dorado,4.681081,-74.121352,51,19.97,15,nublado,fin de semana,1,11.48,0
+Portal Sur,4.596921,-74.169589,92,12.64,13,nublado,fin de semana,0,9.47,1
+Calle 26,4.615955,-74.072385,39,26.98,10,nublado,laboral,0,9.0,1
+Gobernacion,4.642477,-74.096455,52,17.28,18,soleado,fin de semana,0,9.47,1
+Portal El Dorado,4.681081,-74.121352,21,16.66,7,nublado,fin de semana,1,8.87,0
+Portal El Dorado,4.681081,-74.121352,41,16.27,20,lluvioso,fin de semana,0,2.52,0
+Portal El Dorado,4.681081,-74.121352,71,11.79,0,soleado,fin de semana,1,2.45,0
+Calle 100,4.685253,-74.05759,25,29.07,15,soleado,fin de semana,0,17.68,1
+Portal Del Norte,4.754521,-74.046076,24,24.16,14,nublado,laboral,1,7.94,1
+Portal El Dorado,4.681081,-74.121352,81,8.24,7,nublado,laboral,0,17.9,0
+Calle 100,4.685253,-74.05759,76,9.54,21,nublado,laboral,0,1.33,0
+Avenida Chile,4.665855,-74.074947,12,21.54,1,soleado,fin de semana,1,7.73,1
+Portal El Dorado,4.681081,-74.121352,99,9.12,11,soleado,laboral,1,9.22,0
+Avenida Chile,4.665855,-74.074947,30,11.98,5,nublado,fin de semana,1,8.25,0
+Gobernacion,4.642477,-74.096455,82,10.3,8,nublado,fin de semana,1,0.63,0
+Portal Sur,4.596921,-74.169589,20,15.53,16,nublado,fin de semana,0,13.47,1
+Portal El Dorado,4.681081,-74.121352,42,18.81,6,lluvioso,laboral,1,13.58,1
+Portal Del Norte,4.754521,-74.046076,62,26.56,21,lluvioso,fin de semana,1,0.78,1
+Calle 100,4.685253,-74.05759,91,17.49,19,soleado,laboral,0,7.8,0
+Portal Del Norte,4.754521,-74.046076,19,23.45,2,soleado,fin de semana,0,11.9,1
+Portal El Dorado,4.681081,-74.121352,99,9.46,14,lluvioso,fin de semana,1,8.74,1
+Portal Sur,4.596921,-74.169589,100,28.76,5,soleado,laboral,0,13.47,1
+Calle 26,4.615955,-74.072385,57,21.4,15,lluvioso,laboral,1,15.57,1
+Calle 100,4.685253,-74.05759,92,18.15,11,soleado,laboral,0,11.33,1
+Gobernacion,4.642477,-74.096455,12,22.64,6,lluvioso,fin de semana,0,4.3,1
+Portal Sur,4.596921,-74.169589,41,27.45,9,lluvioso,fin de semana,0,6.78,1
+Avenida Chile,4.665855,-74.074947,52,17.56,0,lluvioso,fin de semana,1,16.31,1
+Calle 100,4.685253,-74.05759,51,15.38,12,lluvioso,fin de semana,0,10.16,1
+Portal Del Norte,4.754521,-74.046076,39,29.62,18,nublado,fin de semana,1,5.91,0
+Portal Del Norte,4.754521,-74.046076,61,7.64,7,soleado,fin de semana,1,17.1,0
+Avenida Chile,4.665855,-74.074947,81,10.66,4,lluvioso,fin de semana,0,6.58,0
+Portal Sur,4.596921,-74.169589,95,7.87,21,lluvioso,fin de semana,0,10.1,1
+Portal Del Norte,4.754521,-74.046076,66,5.8,22,lluvioso,fin de semana,1,2.1,0
+Gobernacion,4.642477,-74.096455,69,23.89,7,lluvioso,laboral,1,8.13,1
+Portal Sur,4.596921,-74.169589,81,11.61,3,nublado,fin de semana,1,5.12,0
+Calle 100,4.685253,-74.05759,96,19.97,11,soleado,laboral,0,7.02,1
+Portal Del Norte,4.754521,-74.046076,35,10.14,3,lluvioso,laboral,0,6.61,0
+Portal El Dorado,4.681081,-74.121352,35,19.86,10,lluvioso,laboral,1,17.28,1
+Portal Sur,4.596921,-74.169589,32,23.14,15,nublado,fin de semana,1,16.97,0
+Portal Sur,4.596921,-74.169589,36,11.65,11,soleado,laboral,1,12.42,0
+Avenida Chile,4.665855,-74.074947,51,10.69,18,nublado,fin de semana,1,15.42,1
+Gobernacion,4.642477,-74.096455,75,8.08,4,nublado,fin de semana,0,16.87,0
+Calle 26,4.615955,-74.072385,77,26.82,23,soleado,fin de semana,0,5.54,0
+Calle 100,4.685253,-74.05759,38,27.82,0,lluvioso,fin de semana,1,15.56,1
+Portal El Dorado,4.681081,-74.121352,51,7.08,15,nublado,laboral,0,8.71,1
+Calle 100,4.685253,-74.05759,39,5.94,19,lluvioso,fin de semana,1,2.67,1
+Calle 100,4.685253,-74.05759,43,5.47,7,lluvioso,fin de semana,1,4.73,0
+Gobernacion,4.642477,-74.096455,55,15.66,4,soleado,laboral,1,15.11,1
+Portal Sur,4.596921,-74.169589,72,21.32,6,soleado,laboral,1,3.8,1
+Portal Sur,4.596921,-74.169589,91,24.71,3,lluvioso,laboral,1,6.78,1
+Avenida Chile,4.665855,-74.074947,89,19.69,1,soleado,laboral,0,0.73,1
+Avenida Chile,4.665855,-74.074947,42,9.81,5,nublado,laboral,1,0.81,0
+Gobernacion,4.642477,-74.096455,29,24.96,2,nublado,laboral,1,11.26,1
+Portal Sur,4.596921,-74.169589,44,26.88,22,nublado,laboral,0,3.15,0
+Portal Del Norte,4.754521,-74.046076,85,11.0,8,soleado,fin de semana,0,7.73,1
+Portal El Dorado,4.681081,-74.121352,55,7.5,23,nublado,fin de semana,0,16.87,0
+Avenida Chile,4.665855,-74.074947,91,20.55,6,nublado,laboral,1,3.34,0
+Portal El Dorado,4.681081,-74.121352,10,6.04,0,soleado,fin de semana,0,1.59,0
+Portal El Dorado,4.681081,-74.121352,51,13.81,21,soleado,laboral,0,10.29,1
+Portal Sur,4.596921,-74.169589,50,24.51,23,soleado,fin de semana,1,12.56,1
+Calle 100,4.685253,-74.05759,39,25.82,18,nublado,laboral,0,16.31,1
+Gobernacion,4.642477,-74.096455,76,14.91,10,soleado,fin de semana,0,8.25,1
+Portal Del Norte,4.754521,-74.046076,74,29.31,10,lluvioso,fin de semana,1,17.05,0
+Calle 26,4.615955,-74.072385,55,20.68,15,lluvioso,laboral,0,3.83,0
+Calle 26,4.615955,-74.072385,93,9.28,15,nublado,laboral,1,7.47,1
+Gobernacion,4.642477,-74.096455,43,23.89,20,nublado,laboral,1,17.28,1
+Calle 26,4.615955,-74.072385,92,22.39,12,soleado,fin de semana,1,12.02,1
+Portal Del Norte,4.754521,-74.046076,47,24.43,2,soleado,fin de semana,1,5.61,0
+Portal Del Norte,4.754521,-74.046076,44,18.83,8,soleado,fin de semana,0,7.42,0
+Gobernacion,4.642477,-74.096455,18,17.51,1,lluvioso,laboral,0,9.25,0
+Calle 100,4.685253,-74.05759,68,11.26,2,lluvioso,laboral,0,17.52,0
+Portal Sur,4.596921,-74.169589,93,20.18,16,lluvioso,fin de semana,0,17.99,0
+Portal El Dorado,4.681081,-74.121352,41,29.97,19,lluvioso,fin de semana,1,1.72,1
+Avenida Chile,4.665855,-74.074947,46,19.93,8,soleado,laboral,1,12.16,1
+Gobernacion,4.642477,-74.096455,97,15.85,5,nublado,laboral,0,18.13,1
+Calle 26,4.615955,-74.072385,90,24.46,21,soleado,fin de semana,1,10.38,0
+Portal El Dorado,4.681081,-74.121352,83,29.57,21,soleado,laboral,0,0.95,1
+Gobernacion,4.642477,-74.096455,86,9.18,5,soleado,fin de semana,0,1.32,0
+Calle 26,4.615955,-74.072385,86,23.21,6,soleado,fin de semana,0,18.6,0
+Gobernacion,4.642477,-74.096455,49,29.63,4,lluvioso,laboral,0,8.13,1
+Avenida Chile,4.665855,-74.074947,20,5.07,5,soleado,laboral,0,2.49,0
+Portal Sur,4.596921,-74.169589,26,25.0,13,lluvioso,laboral,1,16.4,0
+Calle 100,4.685253,-74.05759,15,12.36,3,lluvioso,laboral,0,13.63,1
+Portal Del Norte,4.754521,-74.046076,77,25.45,16,soleado,fin de semana,1,14.12,1
+Portal El Dorado,4.681081,-74.121352,36,19.99,8,soleado,laboral,1,8.75,0
+Portal Del Norte,4.754521,-74.046076,84,11.09,21,lluvioso,laboral,0,8.33,0
+Avenida Chile,4.665855,-74.074947,70,26.55,22,soleado,fin de semana,1,16.83,0
+Calle 26,4.615955,-74.072385,51,14.59,4,soleado,fin de semana,1,9.76,1
+Gobernacion,4.642477,-74.096455,44,25.93,20,nublado,laboral,1,8.66,1
+Calle 100,4.685253,-74.05759,15,27.73,17,nublado,fin de semana,1,9.88,0
+Gobernacion,4.642477,-74.096455,34,17.73,9,nublado,laboral,0,2.58,0
+Avenida Chile,4.665855,-74.074947,31,16.17,18,lluvioso,laboral,0,6.55,1
+Calle 100,4.685253,-74.05759,66,20.53,22,nublado,fin de semana,0,16.28,0
+Gobernacion,4.642477,-74.096455,32,16.68,1,nublado,fin de semana,0,9.88,0
+Portal Sur,4.596921,-74.169589,50,22.87,0,soleado,laboral,1,11.84,0
+Calle 100,4.685253,-74.05759,70,25.5,11,nublado,fin de semana,0,9.24,1
+Portal Del Norte,4.754521,-74.046076,41,23.47,5,lluvioso,laboral,1,2.76,0
+Calle 100,4.685253,-74.05759,22,29.89,22,soleado,fin de semana,0,11.9,0
+Calle 26,4.615955,-74.072385,77,14.25,0,lluvioso,fin de semana,1,12.38,0
+Portal El Dorado,4.681081,-74.121352,36,9.25,10,lluvioso,fin de semana,0,16.34,1
+Avenida Chile,4.665855,-74.074947,22,17.76,22,nublado,laboral,1,6.5,1
+Portal El Dorado,4.681081,-74.121352,33,25.17,16,soleado,laboral,1,11.77,1
+Portal Del Norte,4.754521,-74.046076,82,21.59,15,soleado,fin de semana,1,18.18,0
+Gobernacion,4.642477,-74.096455,47,24.67,7,nublado,laboral,1,1.93,1
+Portal Del Norte,4.754521,-74.046076,37,7.18,8,nublado,fin de semana,0,2.27,1
+Gobernacion,4.642477,-74.096455,93,21.37,21,lluvioso,laboral,1,9.22,0
+Portal Del Norte,4.754521,-74.046076,13,27.16,19,lluvioso,fin de semana,0,15.53,0
+Calle 26,4.615955,-74.072385,93,9.65,17,lluvioso,fin de semana,1,17.04,0
+Calle 26,4.615955,-74.072385,81,17.61,21,lluvioso,laboral,0,4.7,1
+Gobernacion,4.642477,-74.096455,82,25.4,23,nublado,fin de semana,1,6.07,0
+Gobernacion,4.642477,-74.096455,67,28.07,20,lluvioso,fin de semana,1,13.67,0
+Portal El Dorado,4.681081,-74.121352,48,12.33,18,soleado,fin de semana,1,17.1,0
+Portal Sur,4.596921,-74.169589,73,6.76,21,nublado,laboral,0,5.16,1
+Calle 100,4.685253,-74.05759,58,21.26,19,soleado,fin de semana,0,5.11,0
+Gobernacion,4.642477,-74.096455,88,28.9,15,lluvioso,fin de semana,0,13.4,0
+Calle 26,4.615955,-74.072385,34,16.02,21,lluvioso,laboral,0,15.77,0
+Portal Del Norte,4.754521,-74.046076,56,13.91,4,soleado,laboral,1,7.69,0
+Calle 26,4.615955,-74.072385,11,28.37,19,soleado,fin de semana,1,15.35,0
+Avenida Chile,4.665855,-74.074947,95,26.26,22,lluvioso,laboral,0,4.09,1
+Portal El Dorado,4.681081,-74.121352,81,10.72,2,lluvioso,fin de semana,1,2.91,1
+Gobernacion,4.642477,-74.096455,55,22.86,23,lluvioso,fin de semana,1,9.47,0
+Avenida Chile,4.665855,-74.074947,62,6.47,10,soleado,fin de semana,1,18.04,1
+Avenida Chile,4.665855,-74.074947,96,14.89,22,lluvioso,fin de semana,1,2.12,0
+Calle 26,4.615955,-74.072385,83,10.94,17,soleado,laboral,0,15.25,1
+Calle 26,4.615955,-74.072385,31,24.22,13,lluvioso,fin de semana,1,1.62,0
+Portal El Dorado,4.681081,-74.121352,54,17.19,16,soleado,fin de semana,0,15.39,0
+Portal El Dorado,4.681081,-74.121352,74,28.84,22,nublado,laboral,0,4.89,0
+Calle 100,4.685253,-74.05759,89,16.28,7,lluvioso,fin de semana,1,19.41,1
+Portal Del Norte,4.754521,-74.046076,70,27.56,23,soleado,laboral,1,16.46,1
+Gobernacion,4.642477,-74.096455,18,29.56,11,lluvioso,laboral,1,13.76,0
+Gobernacion,4.642477,-74.096455,71,10.31,10,nublado,fin de semana,0,11.64,0
+Calle 100,4.685253,-74.05759,88,26.71,2,lluvioso,fin de semana,0,6.22,0
+Avenida Chile,4.665855,-74.074947,32,23.38,15,soleado,fin de semana,1,19.97,0
+Portal Sur,4.596921,-74.169589,42,8.09,0,soleado,fin de semana,0,11.19,0
+Calle 100,4.685253,-74.05759,66,13.67,17,nublado,fin de semana,1,6.54,1
+Portal El Dorado,4.681081,-74.121352,87,17.93,1,nublado,laboral,1,17.5,1
+Gobernacion,4.642477,-74.096455,65,11.32,1,soleado,laboral,1,9.0,0
+Avenida Chile,4.665855,-74.074947,93,16.78,4,soleado,fin de semana,1,17.65,1
+Gobernacion,4.642477,-74.096455,83,6.05,2,nublado,fin de semana,0,18.56,1
+Calle 26,4.615955,-74.072385,96,8.28,23,lluvioso,fin de semana,1,7.94,1
+Portal Sur,4.596921,-74.169589,75,25.91,11,nublado,fin de semana,1,0.9,0
+Calle 100,4.685253,-74.05759,15,14.52,23,soleado,fin de semana,0,5.96,0
+Calle 26,4.615955,-74.072385,51,24.67,6,lluvioso,fin de semana,1,9.0,1
+Calle 100,4.685253,-74.05759,40,19.27,9,nublado,laboral,0,11.93,0
+Portal Sur,4.596921,-74.169589,88,22.87,14,soleado,laboral,0,0.63,1
+Portal Sur,4.596921,-74.169589,56,22.35,11,soleado,fin de semana,0,16.75,1
+Portal Sur,4.596921,-74.169589,32,12.09,4,nublado,fin de semana,1,3.51,0
+Calle 26,4.615955,-74.072385,30,19.29,12,soleado,laboral,1,7.05,0
+Portal Del Norte,4.754521,-74.046076,32,25.42,2,nublado,laboral,1,3.43,0
+Portal Del Norte,4.754521,-74.046076,11,29.95,15,nublado,laboral,0,5.16,1
+Avenida Chile,4.665855,-74.074947,57,8.95,1,soleado,fin de semana,0,2.1,0
+Portal Del Norte,4.754521,-74.046076,16,13.23,15,nublado,laboral,0,4.1,0
+Portal Sur,4.596921,-74.169589,34,12.03,22,soleado,laboral,0,5.44,0
+Avenida Chile,4.665855,-74.074947,75,23.6,16,lluvioso,fin de semana,0,6.42,1
+Gobernacion,4.642477,-74.096455,76,19.16,15,lluvioso,fin de semana,1,4.14,0
+Portal Sur,4.596921,-74.169589,65,28.45,4,lluvioso,fin de semana,0,8.0,1
+Calle 26,4.615955,-74.072385,93,14.17,23,lluvioso,fin de semana,1,7.42,0
+Gobernacion,4.642477,-74.096455,78,21.8,12,soleado,laboral,1,13.78,0
+Avenida Chile,4.665855,-74.074947,49,21.38,8,soleado,fin de semana,0,19.53,0
+Avenida Chile,4.665855,-74.074947,21,6.35,21,soleado,fin de semana,0,10.3,1
+Portal Sur,4.596921,-74.169589,64,10.81,13,lluvioso,laboral,1,10.04,1
+Portal El Dorado,4.681081,-74.121352,20,18.12,11,soleado,laboral,1,11.28,0
+Calle 100,4.685253,-74.05759,88,8.02,3,soleado,fin de semana,0,0.96,1
+Portal Del Norte,4.754521,-74.046076,57,13.65,19,lluvioso,laboral,0,6.5,0
+Portal Del Norte,4.754521,-74.046076,34,12.96,2,lluvioso,fin de semana,0,14.85,1
+Gobernacion,4.642477,-74.096455,63,29.06,8,lluvioso,laboral,0,8.33,0
+Portal El Dorado,4.681081,-74.121352,67,17.76,6,nublado,laboral,0,17.37,1
+Portal El Dorado,4.681081,-74.121352,97,9.66,13,soleado,laboral,0,19.25,1
+Portal Sur,4.596921,-74.169589,20,11.22,9,soleado,fin de semana,0,12.16,1
+Portal Del Norte,4.754521,-74.046076,40,15.86,19,nublado,fin de semana,1,4.92,0
+Calle 26,4.615955,-74.072385,14,12.89,5,lluvioso,laboral,1,8.63,0
+Portal El Dorado,4.681081,-74.121352,22,8.65,2,soleado,fin de semana,0,11.6,0
+Calle 26,4.615955,-74.072385,96,18.4,5,soleado,fin de semana,0,6.25,1
+Calle 26,4.615955,-74.072385,40,10.6,9,nublado,laboral,0,4.8,0
+Calle 26,4.615955,-74.072385,85,11.79,17,lluvioso,laboral,1,0.63,0
+Portal El Dorado,4.681081,-74.121352,75,24.61,14,nublado,fin de semana,0,0.78,1
+Portal Del Norte,4.754521,-74.046076,47,9.66,6,soleado,fin de semana,1,10.67,1
+Portal Sur,4.596921,-74.169589,36,7.02,17,soleado,laboral,0,13.52,0
+Calle 100,4.685253,-74.05759,48,23.45,5,nublado,fin de semana,0,14.46,0
+Calle 26,4.615955,-74.072385,12,28.18,13,soleado,fin de semana,0,14.05,0
+Calle 100,4.685253,-74.05759,44,24.45,8,lluvioso,fin de semana,1,11.93,0
+Portal El Dorado,4.681081,-74.121352,77,7.47,22,nublado,fin de semana,0,17.71,1
+Avenida Chile,4.665855,-74.074947,16,19.77,13,soleado,laboral,1,19.17,0
+Calle 26,4.615955,-74.072385,62,19.13,23,soleado,fin de semana,0,9.37,0
+Gobernacion,4.642477,-74.096455,15,19.74,5,soleado,fin de semana,1,5.38,0
+Gobernacion,4.642477,-74.096455,44,14.36,14,lluvioso,laboral,1,19.38,1
+Calle 100,4.685253,-74.05759,25,23.49,20,soleado,laboral,1,13.91,0
+Portal Sur,4.596921,-74.169589,97,26.52,22,lluvioso,fin de semana,0,5.37,1
+Calle 100,4.685253,-74.05759,72,14.77,6,soleado,laboral,1,15.44,1
+Portal Del Norte,4.754521,-74.046076,97,24.21,11,nublado,laboral,0,17.85,0
+Portal Del Norte,4.754521,-74.046076,41,8.14,1,nublado,fin de semana,0,17.87,1
+Calle 26,4.615955,-74.072385,29,10.01,23,lluvioso,laboral,1,5.73,1
+Gobernacion,4.642477,-74.096455,24,27.56,21,lluvioso,laboral,0,17.64,0
+Portal Sur,4.596921,-74.169589,47,8.88,0,nublado,fin de semana,0,7.52,1
+Portal Del Norte,4.754521,-74.046076,87,8.26,10,nublado,laboral,0,17.64,1
+Gobernacion,4.642477,-74.096455,61,22.06,20,soleado,laboral,1,7.04,0
+Calle 26,4.615955,-74.072385,62,27.72,17,nublado,fin de semana,1,14.32,1
+Portal Del Norte,4.754521,-74.046076,14,15.62,4,nublado,laboral,0,17.55,1
+Portal Del Norte,4.754521,-74.046076,94,13.91,14,nublado,laboral,0,1.08,1
+Portal Sur,4.596921,-74.169589,39,20.68,11,nublado,fin de semana,0,6.56,1
+Portal Del Norte,4.754521,-74.046076,77,15.97,16,soleado,fin de semana,1,1.83,1
+Avenida Chile,4.665855,-74.074947,10,17.77,3,nublado,fin de semana,0,2.81,1
+Gobernacion,4.642477,-74.096455,68,9.9,19,lluvioso,fin de semana,1,6.61,1
+Gobernacion,4.642477,-74.096455,13,25.4,2,nublado,fin de semana,1,17.45,1
+Avenida Chile,4.665855,-74.074947,60,10.64,6,lluvioso,laboral,0,4.48,0
+Calle 100,4.685253,-74.05759,20,11.15,4,nublado,laboral,0,17.64,0
+Calle 100,4.685253,-74.05759,88,28.6,13,lluvioso,laboral,0,16.4,1
+Gobernacion,4.642477,-74.096455,95,14.2,13,lluvioso,fin de semana,0,9.57,1
+Portal El Dorado,4.681081,-74.121352,91,12.98,15,soleado,laboral,1,0.9,1
+Portal El Dorado,4.681081,-74.121352,14,13.31,5,nublado,laboral,0,12.12,0
+Gobernacion,4.642477,-74.096455,25,16.71,7,soleado,laboral,1,12.86,1
+Portal El Dorado,4.681081,-74.121352,95,14.0,5,nublado,laboral,0,13.78,1
+Portal Sur,4.596921,-74.169589,53,26.89,9,nublado,laboral,1,2.1,0
+Portal El Dorado,4.681081,-74.121352,82,21.35,1,lluvioso,fin de semana,1,12.38,1
+Portal Sur,4.596921,-74.169589,30,24.9,14,lluvioso,fin de semana,1,16.4,0
+Portal El Dorado,4.681081,-74.121352,88,24.81,17,lluvioso,fin de semana,0,18.98,0
+Calle 26,4.615955,-74.072385,44,8.38,14,lluvioso,fin de semana,1,14.23,1
+Portal El Dorado,4.681081,-74.121352,61,10.58,19,nublado,fin de semana,1,0.75,0
+Portal El Dorado,4.681081,-74.121352,99,26.28,20,nublado,fin de semana,0,6.91,1
+Portal El Dorado,4.681081,-74.121352,84,14.82,18,nublado,laboral,0,8.28,0
+Portal Sur,4.596921,-74.169589,67,10.87,10,soleado,laboral,0,16.91,0
+Portal Del Norte,4.754521,-74.046076,39,8.03,18,nublado,laboral,0,1.53,1
+Gobernacion,4.642477,-74.096455,99,27.72,7,lluvioso,fin de semana,1,19.97,1
+Calle 26,4.615955,-74.072385,57,6.39,21,lluvioso,laboral,1,9.08,1
+Calle 26,4.615955,-74.072385,74,28.51,8,lluvioso,laboral,1,19.06,1
+Portal Del Norte,4.754521,-74.046076,39,8.42,18,nublado,laboral,1,1.28,1
+Calle 26,4.615955,-74.072385,56,17.76,10,nublado,fin de semana,1,5.44,0
+Portal Sur,4.596921,-74.169589,92,15.73,21,nublado,fin de semana,0,6.09,0
+Calle 26,4.615955,-74.072385,45,20.68,10,soleado,fin de semana,1,19.3,0
+Calle 26,4.615955,-74.072385,15,29.68,21,soleado,laboral,0,10.45,0
+Calle 26,4.615955,-74.072385,44,9.64,8,nublado,laboral,1,0.94,0
+Gobernacion,4.642477,-74.096455,16,29.23,21,soleado,fin de semana,1,15.52,1
+Avenida Chile,4.665855,-74.074947,18,18.31,11,soleado,laboral,0,5.7,0
+Portal Sur,4.596921,-74.169589,35,18.46,16,nublado,laboral,1,3.43,0
+Portal Sur,4.596921,-74.169589,98,16.18,16,soleado,laboral,0,7.02,0
+Gobernacion,4.642477,-74.096455,18,28.4,4,soleado,fin de semana,0,1.2,0
+Portal Del Norte,4.754521,-74.046076,48,13.88,19,nublado,fin de semana,0,15.35,1
+Gobernacion,4.642477,-74.096455,34,19.23,7,soleado,laboral,0,19.96,0
+Avenida Chile,4.665855,-74.074947,38,10.01,5,nublado,laboral,0,17.99,1
+Calle 26,4.615955,-74.072385,71,6.27,20,soleado,laboral,1,3.13,1
+Calle 26,4.615955,-74.072385,67,22.69,1,lluvioso,fin de semana,0,11.6,0
+Portal Sur,4.596921,-74.169589,35,23.2,17,soleado,laboral,0,14.12,0
+Portal Sur,4.596921,-74.169589,79,7.13,14,soleado,laboral,0,7.4,1
+Portal El Dorado,4.681081,-74.121352,47,28.83,9,lluvioso,laboral,1,17.13,0
+Avenida Chile,4.665855,-74.074947,72,28.47,9,nublado,fin de semana,1,9.32,1
+Portal Sur,4.596921,-74.169589,33,28.56,17,lluvioso,fin de semana,1,4.89,1
+Calle 26,4.615955,-74.072385,52,13.54,14,lluvioso,laboral,1,5.69,1
+Calle 100,4.685253,-74.05759,48,27.16,15,lluvioso,fin de semana,1,16.35,0
+Calle 26,4.615955,-74.072385,91,29.9,8,soleado,fin de semana,1,7.13,0
+Calle 26,4.615955,-74.072385,99,14.14,13,soleado,laboral,1,16.46,0
+Calle 26,4.615955,-74.072385,12,28.35,11,nublado,laboral,0,7.04,0
+Portal El Dorado,4.681081,-74.121352,35,7.94,17,soleado,laboral,0,15.29,0
+Calle 26,4.615955,-74.072385,92,29.77,8,lluvioso,laboral,0,8.07,1
+Calle 100,4.685253,-74.05759,93,23.02,20,lluvioso,laboral,1,6.78,0
+Portal Del Norte,4.754521,-74.046076,73,16.98,16,nublado,laboral,1,12.83,1
+Gobernacion,4.642477,-74.096455,21,13.6,14,soleado,fin de semana,1,9.44,0
+Portal Del Norte,4.754521,-74.046076,50,23.39,1,lluvioso,fin de semana,0,2.79,0
+Portal El Dorado,4.681081,-74.121352,23,23.52,5,lluvioso,fin de semana,0,2.86,1
+Avenida Chile,4.665855,-74.074947,73,20.64,5,soleado,laboral,1,18.2,1
+Portal El Dorado,4.681081,-74.121352,49,18.12,0,lluvioso,laboral,0,6.77,0
+Gobernacion,4.642477,-74.096455,80,13.25,10,soleado,laboral,0,11.93,0
+Portal Sur,4.596921,-74.169589,34,5.49,5,lluvioso,laboral,1,12.94,0
+Portal Del Norte,4.754521,-74.046076,13,27.82,0,soleado,laboral,1,9.41,0
+Calle 26,4.615955,-74.072385,15,5.19,15,nublado,laboral,1,15.52,1
+Portal Del Norte,4.754521,-74.046076,94,19.03,23,soleado,fin de semana,0,15.57,1
+Calle 100,4.685253,-74.05759,19,29.85,10,soleado,laboral,1,7.14,0
+Avenida Chile,4.665855,-74.074947,72,8.26,0,nublado,laboral,0,15.48,0
+Calle 100,4.685253,-74.05759,80,17.1,0,nublado,fin de semana,0,14.98,1
+Avenida Chile,4.665855,-74.074947,36,16.11,5,nublado,laboral,0,2.42,0
+Portal Del Norte,4.754521,-74.046076,30,27.16,3,soleado,fin de semana,1,1.69,0
+Avenida Chile,4.665855,-74.074947,60,7.02,19,soleado,laboral,1,3.75,1
+Portal Sur,4.596921,-74.169589,88,13.92,13,nublado,laboral,1,17.13,1
+Calle 100,4.685253,-74.05759,37,7.01,2,soleado,fin de semana,0,7.99,1
+Calle 26,4.615955,-74.072385,94,13.86,19,nublado,laboral,0,7.4,1
+Calle 26,4.615955,-74.072385,18,11.92,13,nublado,fin de semana,0,13.03,1
+Gobernacion,4.642477,-74.096455,28,11.67,23,lluvioso,laboral,0,3.79,0
+Calle 26,4.615955,-74.072385,90,10.21,0,lluvioso,laboral,1,13.22,1
+Gobernacion,4.642477,-74.096455,46,9.01,2,soleado,fin de semana,1,2.52,0
+Portal Del Norte,4.754521,-74.046076,43,15.34,14,soleado,fin de semana,0,7.13,0
+Portal El Dorado,4.681081,-74.121352,77,8.03,13,nublado,laboral,0,19.72,1
+Gobernacion,4.642477,-74.096455,50,20.16,5,soleado,laboral,0,14.98,0
+Calle 26,4.615955,-74.072385,83,22.83,18,lluvioso,fin de semana,0,12.08,0
+Calle 100,4.685253,-74.05759,82,7.78,13,lluvioso,fin de semana,0,13.47,0
+Portal Sur,4.596921,-74.169589,27,8.65,4,lluvioso,fin de semana,1,15.39,1
+Calle 100,4.685253,-74.05759,58,25.77,21,soleado,laboral,0,14.58,0
+Avenida Chile,4.665855,-74.074947,10,9.81,22,soleado,fin de semana,1,3.99,1
+Gobernacion,4.642477,-74.096455,35,12.62,13,soleado,laboral,0,4.33,1
+Gobernacion,4.642477,-74.096455,23,8.37,22,soleado,fin de semana,1,10.1,1
+Avenida Chile,4.665855,-74.074947,11,19.02,13,soleado,fin de semana,1,13.4,0
+Calle 100,4.685253,-74.05759,17,26.56,5,soleado,fin de semana,0,18.96,0
+Avenida Chile,4.665855,-74.074947,48,24.23,5,nublado,fin de semana,0,5.33,1
+Gobernacion,4.642477,-74.096455,32,17.42,15,nublado,laboral,0,2.26,1
+Portal El Dorado,4.681081,-74.121352,39,18.15,5,lluvioso,fin de semana,0,1.08,1
+Avenida Chile,4.665855,-74.074947,37,23.14,15,soleado,laboral,0,6.56,0
+Calle 26,4.615955,-74.072385,46,29.39,17,lluvioso,fin de semana,1,19.64,1
+Avenida Chile,4.665855,-74.074947,59,6.9,9,nublado,fin de semana,1,10.67,1
+Portal Sur,4.596921,-74.169589,45,20.9,12,soleado,fin de semana,1,3.27,0
+Portal Del Norte,4.754521,-74.046076,79,23.59,3,soleado,laboral,0,6.9,0
+Calle 26,4.615955,-74.072385,47,24.61,3,soleado,laboral,1,11.33,0
+Calle 100,4.685253,-74.05759,86,19.92,9,lluvioso,fin de semana,0,7.89,0
+Calle 26,4.615955,-74.072385,67,20.91,10,nublado,fin de semana,0,17.26,1
+Calle 100,4.685253,-74.05759,65,14.03,22,lluvioso,laboral,1,8.15,1
+Gobernacion,4.642477,-74.096455,48,26.27,7,lluvioso,laboral,0,7.42,0
+Portal El Dorado,4.681081,-74.121352,24,10.72,8,nublado,laboral,0,7.52,0
+Portal Del Norte,4.754521,-74.046076,26,19.53,3,soleado,laboral,1,4.93,0
+Portal El Dorado,4.681081,-74.121352,46,12.49,8,soleado,laboral,0,9.9,1
+Gobernacion,4.642477,-74.096455,81,20.34,15,nublado,laboral,1,12.0,0
+Calle 100,4.685253,-74.05759,68,9.09,17,nublado,fin de semana,1,3.39,0
+Gobernacion,4.642477,-74.096455,16,21.34,7,soleado,fin de semana,0,18.98,1
+Portal El Dorado,4.681081,-74.121352,67,22.29,22,lluvioso,fin de semana,0,4.97,1
+Gobernacion,4.642477,-74.096455,71,19.92,22,lluvioso,laboral,0,1.72,1
+Gobernacion,4.642477,-74.096455,93,28.65,4,soleado,laboral,1,13.29,0
+Calle 26,4.615955,-74.072385,53,13.89,14,nublado,fin de semana,1,17.3,0
+Calle 100,4.685253,-74.05759,31,23.53,16,lluvioso,fin de semana,1,6.78,1
+Avenida Chile,4.665855,-74.074947,61,8.77,18,soleado,fin de semana,0,7.07,0
+Calle 26,4.615955,-74.072385,54,17.69,9,nublado,fin de semana,0,3.04,0
+Portal El Dorado,4.681081,-74.121352,82,17.8,2,lluvioso,fin de semana,0,10.74,1
+Calle 100,4.685253,-74.05759,43,26.55,14,soleado,fin de semana,0,14.78,1
+Calle 100,4.685253,-74.05759,84,11.09,15,soleado,fin de semana,0,4.77,1
+Gobernacion,4.642477,-74.096455,45,22.21,18,soleado,fin de semana,0,8.96,0
+Calle 26,4.615955,-74.072385,23,15.5,14,lluvioso,laboral,0,16.87,0
+Calle 26,4.615955,-74.072385,82,11.4,22,lluvioso,laboral,1,16.51,1
+Portal El Dorado,4.681081,-74.121352,74,20.84,15,soleado,laboral,1,12.77,0
+Calle 100,4.685253,-74.05759,28,8.67,7,nublado,laboral,1,8.19,1
+Gobernacion,4.642477,-74.096455,17,14.02,3,soleado,fin de semana,1,10.24,1
+Portal Sur,4.596921,-74.169589,10,13.6,9,nublado,fin de semana,0,13.82,0
+Avenida Chile,4.665855,-74.074947,34,20.22,1,nublado,fin de semana,0,1.26,1
+Gobernacion,4.642477,-74.096455,18,6.47,2,lluvioso,fin de semana,0,17.71,1
+Portal El Dorado,4.681081,-74.121352,52,7.32,10,nublado,laboral,1,6.78,0
+Portal El Dorado,4.681081,-74.121352,11,27.44,3,soleado,laboral,1,16.12,0
+Portal Del Norte,4.754521,-74.046076,85,12.16,5,lluvioso,laboral,0,14.16,0
+Gobernacion,4.642477,-74.096455,80,27.43,18,soleado,laboral,1,16.61,0
+Gobernacion,4.642477,-74.096455,58,15.27,22,nublado,fin de semana,0,17.16,0
+Avenida Chile,4.665855,-74.074947,92,5.52,19,soleado,laboral,1,14.96,0
+Portal El Dorado,4.681081,-74.121352,89,6.14,17,lluvioso,fin de semana,1,7.73,1
+Portal Sur,4.596921,-74.169589,69,24.27,10,lluvioso,laboral,0,9.53,1
+Avenida Chile,4.665855,-74.074947,36,12.19,18,nublado,laboral,0,5.93,1
+Avenida Chile,4.665855,-74.074947,95,9.36,15,lluvioso,laboral,1,12.83,1
+Avenida Chile,4.665855,-74.074947,80,17.41,18,soleado,laboral,1,2.76,0
+Portal Del Norte,4.754521,-74.046076,14,21.74,13,lluvioso,fin de semana,1,0.63,1
+Calle 26,4.615955,-74.072385,14,14.85,23,lluvioso,laboral,0,9.97,0
+Calle 100,4.685253,-74.05759,13,24.41,23,soleado,fin de semana,1,2.68,0
+Calle 26,4.615955,-74.072385,100,15.21,13,lluvioso,fin de semana,1,16.31,0
+Portal Sur,4.596921,-74.169589,50,11.12,0,nublado,fin de semana,1,8.19,1
+Portal Del Norte,4.754521,-74.046076,69,5.16,12,soleado,laboral,0,8.33,1
+Portal El Dorado,4.681081,-74.121352,10,17.93,0,soleado,fin de semana,0,4.63,0
+Gobernacion,4.642477,-74.096455,47,19.97,11,lluvioso,fin de semana,0,8.89,0
+Portal Del Norte,4.754521,-74.046076,16,14.4,7,nublado,fin de semana,1,14.63,1
+Calle 100,4.685253,-74.05759,29,24.69,20,lluvioso,laboral,1,11.59,0
+Calle 26,4.615955,-74.072385,41,9.66,9,nublado,fin de semana,0,15.01,1
+Portal El Dorado,4.681081,-74.121352,51,21.22,5,nublado,fin de semana,1,12.29,1
+Portal Sur,4.596921,-74.169589,76,14.76,16,soleado,fin de semana,1,9.08,1
+Gobernacion,4.642477,-74.096455,26,5.02,12,nublado,fin de semana,1,13.61,0
+Calle 26,4.615955,-74.072385,61,21.35,8,nublado,laboral,0,4.72,1
+Calle 26,4.615955,-74.072385,25,21.31,20,nublado,fin de semana,1,6.07,1
+Calle 26,4.615955,-74.072385,76,13.52,3,nublado,fin de semana,0,12.83,0
+Calle 26,4.615955,-74.072385,38,10.62,1,nublado,laboral,0,14.78,1
+Avenida Chile,4.665855,-74.074947,60,5.68,3,lluvioso,laboral,0,2.27,0
+Calle 100,4.685253,-74.05759,46,17.71,7,nublado,fin de semana,0,19.72,0
+Calle 100,4.685253,-74.05759,69,7.78,8,nublado,fin de semana,0,1.85,1
+Portal Sur,4.596921,-74.169589,81,8.12,8,lluvioso,laboral,0,5.93,0
+Calle 26,4.615955,-74.072385,69,12.64,6,lluvioso,laboral,1,13.74,1
+Gobernacion,4.642477,-74.096455,86,27.38,19,soleado,laboral,1,16.35,1
+Avenida Chile,4.665855,-74.074947,100,13.4,6,soleado,laboral,1,15.14,0
+Portal Del Norte,4.754521,-74.046076,76,21.7,12,soleado,laboral,0,10.43,1
+Calle 26,4.615955,-74.072385,54,24.4,4,lluvioso,laboral,0,9.47,1
+Portal Sur,4.596921,-74.169589,64,5.01,15,lluvioso,laboral,1,13.85,0
+Avenida Chile,4.665855,-74.074947,93,13.82,20,lluvioso,fin de semana,1,14.98,1
+Portal El Dorado,4.681081,-74.121352,11,21.23,16,lluvioso,fin de semana,1,9.31,0
+Portal Del Norte,4.754521,-74.046076,40,28.13,12,nublado,laboral,0,16.87,1
+Avenida Chile,4.665855,-74.074947,79,23.65,12,lluvioso,laboral,0,18.46,1
+Gobernacion,4.642477,-74.096455,44,16.91,19,nublado,fin de semana,0,9.64,1
+Gobernacion,4.642477,-74.096455,38,13.31,4,lluvioso,fin de semana,0,10.6,0
+Gobernacion,4.642477,-74.096455,52,20.76,13,lluvioso,fin de semana,1,3.52,0
+Calle 26,4.615955,-74.072385,16,5.48,15,nublado,fin de semana,0,3.15,1
+Gobernacion,4.642477,-74.096455,71,17.94,6,lluvioso,fin de semana,0,19.64,1
+Calle 26,4.615955,-74.072385,87,24.67,20,lluvioso,fin de semana,1,5.39,1
+Calle 26,4.615955,-74.072385,50,29.08,10,soleado,laboral,0,6.56,0
+Calle 26,4.615955,-74.072385,80,23.32,15,nublado,laboral,0,4.48,0
+Calle 26,4.615955,-74.072385,68,19.85,2,lluvioso,fin de semana,1,19.43,0
+Portal Del Norte,4.754521,-74.046076,83,29.41,20,lluvioso,laboral,0,0.73,0
+Avenida Chile,4.665855,-74.074947,71,17.65,19,lluvioso,fin de semana,1,6.07,1
+Gobernacion,4.642477,-74.096455,32,7.64,20,nublado,laboral,0,13.91,1
+Avenida Chile,4.665855,-74.074947,87,14.24,8,lluvioso,laboral,1,5.16,0
+Gobernacion,4.642477,-74.096455,41,22.42,3,soleado,laboral,1,10.15,0
+Portal El Dorado,4.681081,-74.121352,24,9.64,13,nublado,laboral,0,18.14,0
+Calle 26,4.615955,-74.072385,73,12.24,2,nublado,fin de semana,0,9.75,0
+Calle 100,4.685253,-74.05759,58,15.74,6,soleado,laboral,1,9.26,0
+Gobernacion,4.642477,-74.096455,30,9.4,2,nublado,laboral,1,12.38,1
+Portal Del Norte,4.754521,-74.046076,16,15.64,0,lluvioso,fin de semana,1,19.89,0
+Portal Sur,4.596921,-74.169589,13,25.92,13,nublado,laboral,0,6.58,1
+Portal Del Norte,4.754521,-74.046076,53,23.22,20,soleado,fin de semana,1,14.63,1
+Portal El Dorado,4.681081,-74.121352,97,26.21,0,nublado,laboral,1,18.96,0
+Portal Del Norte,4.754521,-74.046076,37,21.73,6,nublado,fin de semana,1,5.17,1
+Calle 26,4.615955,-74.072385,81,8.35,22,soleado,laboral,0,17.81,1
+Calle 26,4.615955,-74.072385,67,19.85,13,nublado,fin de semana,1,13.78,0
+Portal El Dorado,4.681081,-74.121352,12,17.82,16,lluvioso,fin de semana,1,13.45,1
+Avenida Chile,4.665855,-74.074947,44,29.93,6,lluvioso,fin de semana,1,4.06,1
+Portal Sur,4.596921,-74.169589,39,8.14,0,soleado,laboral,0,12.86,1
+Portal El Dorado,4.681081,-74.121352,53,11.87,3,nublado,fin de semana,1,9.75,1
+Portal Sur,4.596921,-74.169589,10,21.12,1,soleado,fin de semana,1,12.29,0
+Portal Del Norte,4.754521,-74.046076,91,29.79,21,lluvioso,laboral,1,12.31,0
+Portal Sur,4.596921,-74.169589,49,9.84,6,nublado,laboral,1,16.98,0
+Portal Del Norte,4.754521,-74.046076,16,13.62,6,soleado,fin de semana,1,19.58,1
+Avenida Chile,4.665855,-74.074947,24,17.43,18,lluvioso,laboral,0,19.86,1
+Calle 100,4.685253,-74.05759,73,27.5,9,nublado,fin de semana,0,11.74,0
+Avenida Chile,4.665855,-74.074947,84,17.28,12,lluvioso,laboral,0,12.42,0
+Gobernacion,4.642477,-74.096455,14,25.51,3,soleado,fin de semana,0,7.22,0
+Avenida Chile,4.665855,-74.074947,74,7.34,19,nublado,fin de semana,0,18.19,0
+Calle 26,4.615955,-74.072385,13,17.24,17,nublado,fin de semana,1,2.4,1
+Calle 26,4.615955,-74.072385,93,18.48,7,lluvioso,laboral,1,19.3,1
+Portal El Dorado,4.681081,-74.121352,33,7.15,19,lluvioso,fin de semana,1,16.56,1
+Portal Sur,4.596921,-74.169589,86,21.9,19,lluvioso,fin de semana,0,17.5,0
+Calle 26,4.615955,-74.072385,22,12.2,12,soleado,laboral,1,10.59,0
+Calle 100,4.685253,-74.05759,57,5.77,12,nublado,fin de semana,1,19.53,0
+Avenida Chile,4.665855,-74.074947,49,7.69,23,nublado,fin de semana,1,6.91,0
+Gobernacion,4.642477,-74.096455,89,10.21,2,lluvioso,fin de semana,0,12.83,1
+Calle 100,4.685253,-74.05759,48,9.55,2,nublado,laboral,0,15.69,0
+Portal Sur,4.596921,-74.169589,10,22.08,22,nublado,fin de semana,1,9.46,1
+Avenida Chile,4.665855,-74.074947,13,23.63,6,nublado,laboral,0,6.63,1
+Gobernacion,4.642477,-74.096455,61,21.37,8,nublado,laboral,0,9.32,0
+Avenida Chile,4.665855,-74.074947,99,26.93,6,nublado,fin de semana,1,6.91,0
+Portal El Dorado,4.681081,-74.121352,92,18.11,22,lluvioso,fin de semana,0,4.89,1
+Calle 26,4.615955,-74.072385,97,11.28,17,soleado,laboral,0,18.73,0
+Avenida Chile,4.665855,-74.074947,78,24.81,20,nublado,fin de semana,0,17.1,0
+Avenida Chile,4.665855,-74.074947,28,28.73,11,soleado,fin de semana,1,3.16,1
+Calle 100,4.685253,-74.05759,57,23.8,15,nublado,laboral,0,16.12,1
+Gobernacion,4.642477,-74.096455,93,13.79,4,nublado,laboral,0,4.86,0
+Gobernacion,4.642477,-74.096455,34,10.81,16,nublado,fin de semana,1,15.01,1
+Avenida Chile,4.665855,-74.074947,23,5.7,11,soleado,fin de semana,0,12.91,0
+Portal Del Norte,4.754521,-74.046076,68,15.77,7,soleado,fin de semana,0,12.97,0
+Calle 100,4.685253,-74.05759,59,19.18,6,lluvioso,laboral,0,11.82,0
+Portal Sur,4.596921,-74.169589,27,14.43,10,lluvioso,laboral,1,10.04,1
+Gobernacion,4.642477,-74.096455,22,29.35,16,lluvioso,laboral,0,10.45,1
+Gobernacion,4.642477,-74.096455,96,29.49,14,lluvioso,laboral,0,13.78,0
+Calle 100,4.685253,-74.05759,10,25.63,18,lluvioso,fin de semana,1,17.31,0
+Portal Sur,4.596921,-74.169589,94,20.05,23,lluvioso,laboral,1,6.88,1
+Portal Del Norte,4.754521,-74.046076,39,21.1,6,soleado,fin de semana,1,16.4,1
+Calle 100,4.685253,-74.05759,45,9.34,19,soleado,fin de semana,0,9.72,0
+Portal Sur,4.596921,-74.169589,54,20.82,4,lluvioso,laboral,0,8.15,0
+Avenida Chile,4.665855,-74.074947,79,21.55,18,soleado,fin de semana,1,19.75,1
+Calle 100,4.685253,-74.05759,86,5.25,0,soleado,laboral,0,19.28,1
+Portal Del Norte,4.754521,-74.046076,82,23.51,0,lluvioso,laboral,0,13.49,0
+Gobernacion,4.642477,-74.096455,76,29.51,14,lluvioso,fin de semana,0,7.73,1
+Gobernacion,4.642477,-74.096455,93,6.73,12,soleado,fin de semana,1,4.92,1
+Portal Del Norte,4.754521,-74.046076,37,29.79,19,lluvioso,fin de semana,0,2.02,0
+Portal El Dorado,4.681081,-74.121352,45,17.76,21,soleado,laboral,0,16.61,0
+Portal Sur,4.596921,-74.169589,52,15.51,23,lluvioso,laboral,0,4.17,1
+Calle 26,4.615955,-74.072385,91,14.14,21,nublado,laboral,0,16.47,1
+Portal El Dorado,4.681081,-74.121352,63,23.26,8,nublado,fin de semana,1,2.55,0
+Portal Del Norte,4.754521,-74.046076,55,11.45,4,lluvioso,fin de semana,0,11.19,0
+Calle 26,4.615955,-74.072385,72,23.96,2,nublado,fin de semana,0,19.75,0
+Portal Sur,4.596921,-74.169589,97,23.38,23,lluvioso,fin de semana,1,1.23,0
+Portal Del Norte,4.754521,-74.046076,22,24.47,7,lluvioso,fin de semana,0,8.13,1
+Portal Sur,4.596921,-74.169589,53,27.97,2,soleado,laboral,1,19.1,1
+Gobernacion,4.642477,-74.096455,95,17.45,12,nublado,fin de semana,0,0.73,1
+Gobernacion,4.642477,-74.096455,84,15.14,4,nublado,laboral,1,7.14,1
+Portal Sur,4.596921,-74.169589,82,13.11,23,nublado,fin de semana,1,5.92,0
+Gobernacion,4.642477,-74.096455,93,15.5,13,nublado,fin de semana,1,5.31,1
+Calle 26,4.615955,-74.072385,25,20.85,17,nublado,laboral,0,17.85,0
+Gobernacion,4.642477,-74.096455,81,8.88,4,nublado,fin de semana,1,13.82,0
+Calle 100,4.685253,-74.05759,23,20.39,4,lluvioso,fin de semana,0,1.49,1
+Portal Sur,4.596921,-74.169589,65,14.44,3,lluvioso,fin de semana,1,13.94,0
+Portal El Dorado,4.681081,-74.121352,74,24.29,3,nublado,laboral,1,8.33,1
+Gobernacion,4.642477,-74.096455,61,10.96,11,soleado,laboral,1,11.77,0
+Portal Sur,4.596921,-74.169589,63,23.66,4,soleado,fin de semana,0,2.69,0
+Avenida Chile,4.665855,-74.074947,20,15.89,2,lluvioso,fin de semana,0,10.38,1
+Calle 100,4.685253,-74.05759,56,21.32,21,nublado,fin de semana,1,2.91,0
+Avenida Chile,4.665855,-74.074947,51,25.57,9,lluvioso,fin de semana,1,16.66,0
+Calle 26,4.615955,-74.072385,93,18.77,5,soleado,fin de semana,0,2.69,1
+Portal Sur,4.596921,-74.169589,13,21.42,8,lluvioso,laboral,0,14.57,1
+Gobernacion,4.642477,-74.096455,60,23.8,19,nublado,fin de semana,0,6.63,0
+Calle 26,4.615955,-74.072385,58,15.24,20,soleado,laboral,0,3.99,1
+Calle 26,4.615955,-74.072385,29,25.89,4,nublado,fin de semana,1,1.38,0
+Portal Del Norte,4.754521,-74.046076,64,11.83,12,soleado,fin de semana,1,0.54,1
+Calle 26,4.615955,-74.072385,69,28.62,19,nublado,laboral,1,1.18,0
+Gobernacion,4.642477,-74.096455,14,10.21,15,nublado,laboral,0,19.75,0
+Calle 100,4.685253,-74.05759,56,19.09,1,lluvioso,fin de semana,1,19.11,1
+Calle 26,4.615955,-74.072385,89,20.37,12,lluvioso,laboral,0,4.17,0
+Calle 26,4.615955,-74.072385,47,28.76,0,lluvioso,laboral,0,17.66,1
+Avenida Chile,4.665855,-74.074947,67,15.37,19,soleado,laboral,1,18.13,0
+Portal El Dorado,4.681081,-74.121352,57,18.15,4,nublado,fin de semana,0,4.05,0
+Gobernacion,4.642477,-74.096455,88,6.79,10,lluvioso,laboral,1,6.42,1
+Gobernacion,4.642477,-74.096455,92,13.15,20,lluvioso,laboral,1,14.58,0
+Portal Sur,4.596921,-74.169589,62,29.37,2,nublado,fin de semana,1,6.22,0
+Gobernacion,4.642477,-74.096455,29,26.39,1,nublado,laboral,1,10.69,0
+Gobernacion,4.642477,-74.096455,29,8.99,19,nublado,fin de semana,1,10.29,1
+Portal Sur,4.596921,-74.169589,44,24.58,6,nublado,fin de semana,1,6.61,0
+Portal El Dorado,4.681081,-74.121352,19,20.01,2,soleado,fin de semana,1,6.09,1
+Portal Sur,4.596921,-74.169589,78,29.0,13,lluvioso,laboral,1,4.04,1
+Portal Sur,4.596921,-74.169589,73,22.54,11,lluvioso,fin de semana,1,15.52,0
+Portal Del Norte,4.754521,-74.046076,73,15.03,8,nublado,fin de semana,1,15.57,0
+Portal Del Norte,4.754521,-74.046076,72,23.76,10,soleado,laboral,0,9.26,1
+Calle 26,4.615955,-74.072385,72,20.12,17,lluvioso,laboral,0,8.98,0
+Portal Del Norte,4.754521,-74.046076,12,17.62,23,soleado,laboral,1,12.96,0
+Portal Del Norte,4.754521,-74.046076,77,20.92,2,lluvioso,fin de semana,0,8.22,0
+Portal El Dorado,4.681081,-74.121352,36,7.39,15,nublado,laboral,1,16.31,1
+Portal Del Norte,4.754521,-74.046076,79,7.14,23,soleado,laboral,1,6.22,0
+Avenida Chile,4.665855,-74.074947,53,25.82,4,lluvioso,laboral,1,16.65,1
+Gobernacion,4.642477,-74.096455,94,23.31,3,soleado,laboral,1,13.76,1
+Portal Sur,4.596921,-74.169589,98,12.46,8,soleado,laboral,1,6.61,1
+Avenida Chile,4.665855,-74.074947,22,8.23,5,lluvioso,fin de semana,1,16.62,0
+Avenida Chile,4.665855,-74.074947,10,21.39,11,lluvioso,fin de semana,1,2.1,0
+Gobernacion,4.642477,-74.096455,24,15.78,4,nublado,fin de semana,1,19.75,1
+Avenida Chile,4.665855,-74.074947,30,21.14,17,lluvioso,laboral,1,5.92,1
+Portal El Dorado,4.681081,-74.121352,43,11.86,23,soleado,fin de semana,1,4.81,0
+Avenida Chile,4.665855,-74.074947,11,27.49,17,soleado,laboral,1,7.14,1
+Portal El Dorado,4.681081,-74.121352,71,27.36,5,lluvioso,laboral,0,12.03,1
+Calle 26,4.615955,-74.072385,26,16.52,0,soleado,fin de semana,0,10.03,1
+Calle 26,4.615955,-74.072385,40,26.07,2,nublado,laboral,0,19.47,0
+Calle 26,4.615955,-74.072385,39,23.48,0,lluvioso,laboral,0,8.06,1
+Calle 26,4.615955,-74.072385,47,20.49,8,lluvioso,fin de semana,1,17.04,0
+Portal El Dorado,4.681081,-74.121352,19,26.15,13,soleado,laboral,1,10.16,0
+Gobernacion,4.642477,-74.096455,48,11.93,22,soleado,fin de semana,1,12.82,0
+Portal Sur,4.596921,-74.169589,73,6.58,13,nublado,laboral,1,18.98,1
+Calle 26,4.615955,-74.072385,28,14.57,10,lluvioso,fin de semana,1,10.63,1
+Portal Del Norte,4.754521,-74.046076,42,25.18,3,lluvioso,fin de semana,0,14.63,1
+Portal Sur,4.596921,-74.169589,88,12.73,3,soleado,laboral,1,16.83,1
+Portal Del Norte,4.754521,-74.046076,86,25.37,14,soleado,fin de semana,0,5.93,1
+Calle 26,4.615955,-74.072385,85,17.32,3,nublado,laboral,1,1.7,1
+Gobernacion,4.642477,-74.096455,100,23.45,19,lluvioso,laboral,0,17.05,1
+Portal Sur,4.596921,-74.169589,51,19.37,5,soleado,laboral,0,12.86,0
+Calle 100,4.685253,-74.05759,23,26.6,2,nublado,fin de semana,1,8.13,0
+Portal El Dorado,4.681081,-74.121352,26,26.94,16,nublado,fin de semana,1,18.67,0
+Calle 26,4.615955,-74.072385,39,7.8,8,lluvioso,laboral,0,15.87,1
+Portal Sur,4.596921,-74.169589,15,13.51,8,soleado,laboral,1,8.82,1
+Gobernacion,4.642477,-74.096455,40,17.64,2,lluvioso,fin de semana,1,14.39,0
+Calle 100,4.685253,-74.05759,82,29.54,9,soleado,fin de semana,1,17.7,1
+Calle 100,4.685253,-74.05759,93,28.83,10,lluvioso,fin de semana,0,5.4,1
+Avenida Chile,4.665855,-74.074947,99,7.32,12,nublado,fin de semana,0,19.28,1
+Portal El Dorado,4.681081,-74.121352,76,11.07,1,lluvioso,laboral,1,6.55,1
+Calle 26,4.615955,-74.072385,66,27.07,14,soleado,fin de semana,1,2.67,1
+Portal Del Norte,4.754521,-74.046076,80,25.2,12,nublado,fin de semana,1,9.95,1
+Calle 26,4.615955,-74.072385,71,28.44,17,soleado,laboral,1,6.32,0
+Calle 26,4.615955,-74.072385,66,27.7,10,soleado,laboral,1,4.17,1
+Portal El Dorado,4.681081,-74.121352,24,17.26,3,nublado,laboral,0,0.7,1
+Calle 100,4.685253,-74.05759,86,16.32,6,nublado,laboral,0,4.97,0
+Portal Del Norte,4.754521,-74.046076,87,28.4,8,lluvioso,fin de semana,0,3.24,1
+Avenida Chile,4.665855,-74.074947,91,25.47,13,soleado,laboral,1,7.8,1
+Portal Del Norte,4.754521,-74.046076,15,26.85,5,lluvioso,laboral,1,4.25,1
+Calle 100,4.685253,-74.05759,49,14.49,4,soleado,fin de semana,1,11.39,1
+Portal El Dorado,4.681081,-74.121352,31,5.37,22,soleado,laboral,0,1.12,0
+Gobernacion,4.642477,-74.096455,87,16.31,23,nublado,fin de semana,0,15.43,0
+Portal Del Norte,4.754521,-74.046076,87,21.19,11,lluvioso,laboral,0,8.27,0
+Gobernacion,4.642477,-74.096455,60,18.92,15,nublado,laboral,0,6.34,0
+Portal Sur,4.596921,-74.169589,79,19.85,4,soleado,laboral,0,6.01,1
+Calle 100,4.685253,-74.05759,81,22.59,6,lluvioso,fin de semana,0,10.1,0
+Portal El Dorado,4.681081,-74.121352,15,29.96,1,lluvioso,fin de semana,0,18.98,0
+Gobernacion,4.642477,-74.096455,79,23.0,22,lluvioso,laboral,1,16.44,0
+Gobernacion,4.642477,-74.096455,77,11.82,2,soleado,laboral,0,4.78,0
+Portal Sur,4.596921,-74.169589,10,15.57,13,nublado,fin de semana,1,19.59,0
+Calle 100,4.685253,-74.05759,11,14.31,7,nublado,fin de semana,0,0.78,0
+Calle 26,4.615955,-74.072385,62,24.63,11,soleado,fin de semana,0,8.89,0
+Portal El Dorado,4.681081,-74.121352,42,18.09,3,nublado,laboral,1,9.89,1
+Gobernacion,4.642477,-74.096455,50,26.14,9,nublado,fin de semana,0,4.41,1
+Portal Del Norte,4.754521,-74.046076,94,11.28,5,lluvioso,laboral,0,19.25,1
+Calle 100,4.685253,-74.05759,29,14.91,8,soleado,laboral,0,11.77,0
+Calle 100,4.685253,-74.05759,19,16.08,18,nublado,fin de semana,1,13.78,1
+Avenida Chile,4.665855,-74.074947,63,6.79,3,lluvioso,laboral,0,16.98,1
+Portal El Dorado,4.681081,-74.121352,38,18.72,0,soleado,laboral,0,18.81,0
+Gobernacion,4.642477,-74.096455,63,27.29,4,nublado,fin de semana,1,19.24,0
+Portal El Dorado,4.681081,-74.121352,20,26.76,20,nublado,laboral,0,17.98,0
+Gobernacion,4.642477,-74.096455,47,25.64,8,lluvioso,laboral,1,12.96,0
+Portal Del Norte,4.754521,-74.046076,62,22.74,23,soleado,fin de semana,1,16.28,1
+Avenida Chile,4.665855,-74.074947,70,20.68,15,soleado,fin de semana,0,6.2,0
+Gobernacion,4.642477,-74.096455,38,26.93,14,lluvioso,fin de semana,1,2.68,0
+Portal Sur,4.596921,-74.169589,14,19.77,21,soleado,fin de semana,1,9.54,1
+Calle 26,4.615955,-74.072385,37,25.28,7,soleado,fin de semana,0,10.63,0
+Portal Sur,4.596921,-74.169589,95,13.57,11,lluvioso,fin de semana,1,9.64,1
+Portal Del Norte,4.754521,-74.046076,14,20.0,16,nublado,fin de semana,0,5.39,1
+Calle 100,4.685253,-74.05759,12,8.01,6,soleado,fin de semana,0,17.26,0
+Gobernacion,4.642477,-74.096455,67,20.97,9,nublado,laboral,1,9.41,0
+Gobernacion,4.642477,-74.096455,99,14.97,17,soleado,laboral,1,17.45,1
+Portal Sur,4.596921,-74.169589,65,25.69,12,lluvioso,laboral,1,17.68,1
+Gobernacion,4.642477,-74.096455,32,16.87,7,nublado,fin de semana,1,17.04,1
+Avenida Chile,4.665855,-74.074947,29,10.79,7,lluvioso,laboral,0,7.25,0
+Calle 100,4.685253,-74.05759,18,13.52,13,soleado,fin de semana,0,6.07,0
+Calle 100,4.685253,-74.05759,57,10.37,12,nublado,fin de semana,1,4.62,1
+Portal Del Norte,4.754521,-74.046076,12,27.6,4,lluvioso,fin de semana,1,9.84,1
+Portal Del Norte,4.754521,-74.046076,10,11.8,3,lluvioso,laboral,0,4.93,0
+Gobernacion,4.642477,-74.096455,54,24.75,1,nublado,fin de semana,0,11.56,0
+Portal Del Norte,4.754521,-74.046076,28,12.79,18,nublado,laboral,0,14.96,0
+Portal Sur,4.596921,-74.169589,67,17.34,13,nublado,laboral,0,3.39,0
+Avenida Chile,4.665855,-74.074947,65,27.49,0,soleado,laboral,1,16.78,1
+Portal El Dorado,4.681081,-74.121352,29,15.9,19,soleado,laboral,0,16.46,0
+Portal Sur,4.596921,-74.169589,90,13.45,6,soleado,fin de semana,0,17.1,0
+Gobernacion,4.642477,-74.096455,36,25.91,8,nublado,laboral,0,1.91,1
+Portal Sur,4.596921,-74.169589,52,14.72,22,lluvioso,laboral,0,14.53,0
+Avenida Chile,4.665855,-74.074947,71,14.88,16,nublado,fin de semana,0,6.09,0
+Avenida Chile,4.665855,-74.074947,61,13.94,7,nublado,laboral,1,9.89,0
+Calle 26,4.615955,-74.072385,16,11.18,6,nublado,laboral,1,8.8,1
+Calle 100,4.685253,-74.05759,15,19.55,8,soleado,laboral,1,6.67,1
+Portal Del Norte,4.754521,-74.046076,12,28.25,20,lluvioso,fin de semana,0,3.23,0
+Portal El Dorado,4.681081,-74.121352,45,14.05,23,lluvioso,fin de semana,0,15.04,0
+Avenida Chile,4.665855,-74.074947,48,18.94,14,lluvioso,fin de semana,0,8.05,1
+Calle 100,4.685253,-74.05759,71,9.73,8,soleado,fin de semana,1,3.75,1
+Portal Sur,4.596921,-74.169589,26,5.26,5,lluvioso,fin de semana,1,1.3,1
+Portal El Dorado,4.681081,-74.121352,60,6.11,14,soleado,fin de semana,0,18.82,0
+Portal El Dorado,4.681081,-74.121352,31,19.8,7,nublado,laboral,0,11.11,1
+Gobernacion,4.642477,-74.096455,55,6.29,6,lluvioso,fin de semana,1,15.14,1
+Avenida Chile,4.665855,-74.074947,54,16.36,11,lluvioso,laboral,0,8.32,1
+Portal Sur,4.596921,-74.169589,64,14.76,3,lluvioso,fin de semana,1,15.04,0
+Calle 100,4.685253,-74.05759,100,19.92,7,nublado,laboral,1,1.59,1
+Portal Del Norte,4.754521,-74.046076,78,5.23,11,lluvioso,fin de semana,0,17.41,0
+Portal Del Norte,4.754521,-74.046076,37,16.69,11,soleado,fin de semana,0,11.77,1
+Calle 100,4.685253,-74.05759,70,8.68,19,soleado,fin de semana,1,5.36,0
+Calle 26,4.615955,-74.072385,85,16.82,8,lluvioso,fin de semana,1,15.99,0
+Portal Del Norte,4.754521,-74.046076,65,14.4,20,nublado,laboral,0,8.33,1
+Avenida Chile,4.665855,-74.074947,44,25.79,11,lluvioso,laboral,1,8.22,1
+Avenida Chile,4.665855,-74.074947,16,28.31,0,soleado,fin de semana,1,10.16,0
+Portal Sur,4.596921,-74.169589,15,15.2,15,nublado,fin de semana,0,17.64,1
+Portal Sur,4.596921,-74.169589,12,21.02,6,nublado,fin de semana,1,14.51,1
+Portal Del Norte,4.754521,-74.046076,94,15.6,6,lluvioso,laboral,0,18.41,0
+Calle 100,4.685253,-74.05759,39,7.96,19,soleado,laboral,1,19.43,0
+Gobernacion,4.642477,-74.096455,62,17.79,4,soleado,laboral,0,4.1,1
+Portal El Dorado,4.681081,-74.121352,36,11.41,17,lluvioso,laboral,0,13.06,0
+Gobernacion,4.642477,-74.096455,97,18.08,5,soleado,laboral,1,17.1,0
+Gobernacion,4.642477,-74.096455,30,22.06,7,soleado,fin de semana,1,6.25,0
+Portal Sur,4.596921,-74.169589,68,29.26,12,lluvioso,laboral,0,10.77,1
+Portal Sur,4.596921,-74.169589,51,10.13,21,soleado,laboral,0,6.22,1
+Calle 100,4.685253,-74.05759,96,20.6,0,nublado,fin de semana,1,14.86,1
+Calle 100,4.685253,-74.05759,17,5.01,15,soleado,laboral,0,7.25,0
+Avenida Chile,4.665855,-74.074947,81,27.24,13,nublado,laboral,1,16.87,1
+Portal Del Norte,4.754521,-74.046076,88,26.58,3,lluvioso,laboral,0,14.67,1
+Portal Sur,4.596921,-74.169589,48,12.32,7,nublado,fin de semana,1,12.54,1
+Portal Del Norte,4.754521,-74.046076,76,17.39,0,soleado,laboral,1,17.71,0
+Gobernacion,4.642477,-74.096455,52,10.4,16,lluvioso,fin de semana,1,16.98,1
+Portal Sur,4.596921,-74.169589,39,5.47,1,nublado,laboral,1,12.47,1
+Portal El Dorado,4.681081,-74.121352,33,22.89,13,lluvioso,fin de semana,1,0.91,1
+Portal El Dorado,4.681081,-74.121352,85,25.95,1,soleado,fin de semana,0,10.63,0
+Calle 26,4.615955,-74.072385,28,21.19,19,lluvioso,laboral,1,9.44,0
+Gobernacion,4.642477,-74.096455,21,24.65,1,soleado,fin de semana,1,9.66,1
+Portal Sur,4.596921,-74.169589,30,27.93,14,nublado,laboral,1,17.43,0
+Calle 100,4.685253,-74.05759,31,13.82,10,nublado,fin de semana,0,6.34,0
+Portal Sur,4.596921,-74.169589,15,28.28,11,lluvioso,laboral,1,5.78,0
+Calle 26,4.615955,-74.072385,26,21.15,20,lluvioso,fin de semana,0,3.39,1
+Portal Del Norte,4.754521,-74.046076,95,10.76,3,nublado,fin de semana,0,13.91,1
+Portal Sur,4.596921,-74.169589,97,14.75,22,soleado,fin de semana,0,9.44,1
+Gobernacion,4.642477,-74.096455,58,18.34,13,nublado,laboral,1,14.86,0
+Portal El Dorado,4.681081,-74.121352,75,22.88,12,nublado,laboral,0,2.58,1
+Portal Del Norte,4.754521,-74.046076,54,22.06,3,lluvioso,laboral,0,10.87,1
+Portal Sur,4.596921,-74.169589,92,26.2,11,soleado,laboral,0,12.77,0
+Portal El Dorado,4.681081,-74.121352,24,9.7,19,lluvioso,fin de semana,0,14.61,1
+Gobernacion,4.642477,-74.096455,53,22.58,15,soleado,laboral,1,7.62,0
+Portal El Dorado,4.681081,-74.121352,73,19.78,0,soleado,fin de semana,0,11.56,1
+Calle 26,4.615955,-74.072385,96,7.53,15,soleado,laboral,0,11.55,0
+Avenida Chile,4.665855,-74.074947,93,22.83,14,nublado,fin de semana,1,4.41,1
+Calle 100,4.685253,-74.05759,76,25.85,12,nublado,fin de semana,0,4.92,0
+Portal El Dorado,4.681081,-74.121352,74,21.82,17,lluvioso,laboral,1,16.46,0
+Avenida Chile,4.665855,-74.074947,15,7.62,0,lluvioso,laboral,0,14.04,0
+Portal El Dorado,4.681081,-74.121352,40,15.18,5,lluvioso,laboral,1,13.92,0
+Gobernacion,4.642477,-74.096455,45,16.26,13,lluvioso,fin de semana,0,15.75,0
+Calle 100,4.685253,-74.05759,13,14.57,23,lluvioso,fin de semana,1,17.87,1
+Calle 26,4.615955,-74.072385,49,12.98,10,lluvioso,laboral,0,9.59,0
+Avenida Chile,4.665855,-74.074947,74,25.17,9,soleado,fin de semana,1,2.32,0
+Avenida Chile,4.665855,-74.074947,80,25.97,6,soleado,fin de semana,0,1.72,0
+Calle 100,4.685253,-74.05759,95,18.95,18,soleado,laboral,1,17.28,1
+Portal Del Norte,4.754521,-74.046076,71,29.1,19,nublado,fin de semana,1,16.65,0
+Portal Del Norte,4.754521,-74.046076,79,15.74,13,soleado,fin de semana,0,19.64,0
+Gobernacion,4.642477,-74.096455,74,6.06,20,soleado,fin de semana,1,18.14,0
+Calle 26,4.615955,-74.072385,95,20.13,18,lluvioso,laboral,1,11.69,1
+Portal El Dorado,4.681081,-74.121352,77,15.15,19,soleado,laboral,0,1.2,0
+Calle 26,4.615955,-74.072385,15,5.45,10,soleado,fin de semana,0,18.81,1
+Gobernacion,4.642477,-74.096455,57,12.27,19,lluvioso,fin de semana,0,5.74,1
+Portal El Dorado,4.681081,-74.121352,15,28.44,6,lluvioso,laboral,0,1.26,0
+Avenida Chile,4.665855,-74.074947,77,6.23,15,nublado,laboral,0,18.68,1
+Portal Sur,4.596921,-74.169589,31,5.42,16,nublado,laboral,0,9.41,0
+Calle 100,4.685253,-74.05759,95,26.81,21,soleado,fin de semana,0,15.77,1
+Calle 26,4.615955,-74.072385,100,8.11,14,lluvioso,laboral,1,11.07,1
+Avenida Chile,4.665855,-74.074947,42,19.39,20,soleado,laboral,0,16.98,1
+Portal Del Norte,4.754521,-74.046076,32,7.94,3,lluvioso,fin de semana,0,11.74,0
+Portal El Dorado,4.681081,-74.121352,82,23.6,6,nublado,fin de semana,1,17.37,1
+Gobernacion,4.642477,-74.096455,53,27.55,16,soleado,laboral,0,9.0,0
+Avenida Chile,4.665855,-74.074947,19,9.98,11,nublado,laboral,1,3.77,0
+Calle 100,4.685253,-74.05759,27,6.05,6,nublado,laboral,0,14.8,1
+Portal Sur,4.596921,-74.169589,81,10.12,2,nublado,fin de semana,1,13.2,1
+Calle 26,4.615955,-74.072385,51,27.42,18,nublado,laboral,0,13.85,1
+Portal Del Norte,4.754521,-74.046076,32,7.27,1,nublado,laboral,1,14.05,0
+Portal Del Norte,4.754521,-74.046076,57,27.51,21,soleado,fin de semana,1,3.75,0
+Gobernacion,4.642477,-74.096455,97,8.95,15,nublado,laboral,0,13.37,0
+Gobernacion,4.642477,-74.096455,57,26.79,16,lluvioso,laboral,1,13.3,1
+Avenida Chile,4.665855,-74.074947,69,29.95,1,lluvioso,laboral,1,7.52,1
+Avenida Chile,4.665855,-74.074947,95,18.57,16,soleado,fin de semana,0,12.48,1
+Calle 26,4.615955,-74.072385,24,21.23,9,nublado,laboral,0,12.31,0
+Portal El Dorado,4.681081,-74.121352,26,28.47,21,nublado,laboral,0,5.03,0
+Portal El Dorado,4.681081,-74.121352,88,11.19,14,nublado,fin de semana,1,7.96,1
+Calle 100,4.685253,-74.05759,17,13.28,22,nublado,fin de semana,0,14.33,1
+Portal Del Norte,4.754521,-74.046076,88,14.74,8,nublado,laboral,1,1.11,1
+Avenida Chile,4.665855,-74.074947,62,21.11,18,nublado,fin de semana,0,16.98,1
+Calle 26,4.615955,-74.072385,15,8.91,23,soleado,laboral,0,17.43,1
+Portal Sur,4.596921,-74.169589,13,10.05,23,lluvioso,fin de semana,1,8.09,0
+Gobernacion,4.642477,-74.096455,94,16.86,18,lluvioso,laboral,1,3.18,0
+Portal Del Norte,4.754521,-74.046076,62,17.25,0,soleado,fin de semana,1,3.23,1
+Portal Del Norte,4.754521,-74.046076,65,11.76,21,soleado,laboral,1,4.48,0
+Portal Sur,4.596921,-74.169589,45,22.06,23,soleado,laboral,0,17.44,0
+Avenida Chile,4.665855,-74.074947,20,12.04,5,lluvioso,fin de semana,1,8.96,0
+Gobernacion,4.642477,-74.096455,18,20.36,21,soleado,fin de semana,1,8.06,1
+Calle 26,4.615955,-74.072385,76,21.06,9,lluvioso,fin de semana,0,4.92,0
+Portal Sur,4.596921,-74.169589,61,25.26,6,nublado,fin de semana,1,6.34,1
+Calle 26,4.615955,-74.072385,37,15.76,13,lluvioso,laboral,0,8.76,1
+Portal Del Norte,4.754521,-74.046076,94,24.31,22,lluvioso,laboral,1,5.06,0
+Portal El Dorado,4.681081,-74.121352,85,28.03,10,nublado,laboral,1,11.33,1
+Calle 26,4.615955,-74.072385,19,12.42,2,soleado,fin de semana,0,0.91,0
+Portal Del Norte,4.754521,-74.046076,37,6.93,18,nublado,laboral,0,17.99,1
+Portal El Dorado,4.681081,-74.121352,51,23.43,15,soleado,laboral,1,13.67,1
+Calle 26,4.615955,-74.072385,91,14.68,9,nublado,fin de semana,1,10.87,0
+Avenida Chile,4.665855,-74.074947,22,22.31,23,soleado,fin de semana,0,14.46,0
+Portal El Dorado,4.681081,-74.121352,92,28.47,3,lluvioso,laboral,1,2.49,1
+Portal Sur,4.596921,-74.169589,70,20.71,21,lluvioso,laboral,1,10.1,1
+Avenida Chile,4.665855,-74.074947,97,6.88,4,nublado,laboral,0,5.31,0
+Portal Sur,4.596921,-74.169589,64,15.58,3,soleado,fin de semana,1,4.93,1
+Gobernacion,4.642477,-74.096455,29,9.93,3,soleado,fin de semana,0,17.46,0
+Portal Del Norte,4.754521,-74.046076,67,23.18,23,soleado,laboral,1,4.48,1
+Portal Sur,4.596921,-74.169589,36,27.21,11,lluvioso,laboral,0,1.78,1
+Portal El Dorado,4.681081,-74.121352,80,19.06,10,lluvioso,laboral,0,0.73,1
+Portal Del Norte,4.754521,-74.046076,59,14.64,21,lluvioso,fin de semana,1,6.77,0
+Gobernacion,4.642477,-74.096455,71,19.65,19,soleado,fin de semana,1,13.78,0
+Calle 100,4.685253,-74.05759,12,8.61,18,nublado,laboral,1,16.78,1
+Portal Del Norte,4.754521,-74.046076,57,9.1,20,nublado,fin de semana,0,10.13,1
+Avenida Chile,4.665855,-74.074947,67,29.19,12,nublado,fin de semana,1,19.03,1
+Calle 26,4.615955,-74.072385,78,22.87,18,nublado,laboral,1,6.5,1
+Gobernacion,4.642477,-74.096455,16,5.94,20,lluvioso,laboral,0,1.49,0
+Calle 26,4.615955,-74.072385,77,14.94,2,lluvioso,fin de semana,1,16.28,0
+Calle 100,4.685253,-74.05759,94,28.05,15,lluvioso,laboral,1,1.59,0
+Avenida Chile,4.665855,-74.074947,90,14.97,12,soleado,laboral,0,17.17,1
+Gobernacion,4.642477,-74.096455,27,20.79,1,soleado,laboral,1,9.49,0
+Calle 26,4.615955,-74.072385,61,29.72,2,lluvioso,fin de semana,0,10.45,1
+Avenida Chile,4.665855,-74.074947,38,6.8,10,soleado,fin de semana,0,11.59,1
+Avenida Chile,4.665855,-74.074947,38,19.54,21,lluvioso,laboral,0,13.96,0
+Gobernacion,4.642477,-74.096455,99,18.82,23,soleado,fin de semana,0,0.73,0
+Portal El Dorado,4.681081,-74.121352,89,11.77,1,lluvioso,fin de semana,1,4.1,0
+Portal El Dorado,4.681081,-74.121352,23,22.1,0,nublado,laboral,0,3.9,0
+Portal Del Norte,4.754521,-74.046076,54,9.2,23,nublado,fin de semana,1,3.43,0
+Calle 100,4.685253,-74.05759,42,11.1,16,soleado,laboral,1,7.71,1
+Portal Del Norte,4.754521,-74.046076,35,12.87,17,nublado,laboral,1,17.77,1
+Calle 100,4.685253,-74.05759,87,22.52,11,nublado,fin de semana,1,3.27,0
+Gobernacion,4.642477,-74.096455,10,11.56,3,soleado,fin de semana,1,3.9,1
+Calle 26,4.615955,-74.072385,96,6.5,20,soleado,laboral,1,6.78,1
+Gobernacion,4.642477,-74.096455,80,27.68,16,soleado,fin de semana,1,16.52,0
+Calle 100,4.685253,-74.05759,29,25.11,12,nublado,laboral,0,0.6,0
+Gobernacion,4.642477,-74.096455,23,15.34,10,nublado,laboral,1,6.13,1
+Gobernacion,4.642477,-74.096455,65,17.27,4,nublado,fin de semana,0,9.09,0
+Gobernacion,4.642477,-74.096455,40,8.59,1,soleado,fin de semana,1,7.94,0
+Portal Sur,4.596921,-74.169589,27,24.48,10,lluvioso,fin de semana,1,12.48,0
+Portal Del Norte,4.754521,-74.046076,70,16.78,3,soleado,fin de semana,0,3.03,0
+Portal Del Norte,4.754521,-74.046076,76,21.35,9,lluvioso,fin de semana,1,15.62,1
+Portal El Dorado,4.681081,-74.121352,37,23.74,20,lluvioso,fin de semana,1,17.26,1
+Portal Sur,4.596921,-74.169589,77,7.64,0,nublado,laboral,0,9.59,0
+Calle 26,4.615955,-74.072385,19,22.17,14,nublado,fin de semana,0,10.59,0
+Gobernacion,4.642477,-74.096455,28,19.79,11,nublado,fin de semana,0,12.4,1
+Portal El Dorado,4.681081,-74.121352,52,7.08,17,lluvioso,fin de semana,1,4.87,1
+Portal Sur,4.596921,-74.169589,14,9.45,0,nublado,laboral,0,17.66,0
+Calle 26,4.615955,-74.072385,75,24.79,5,lluvioso,fin de semana,1,1.62,0
+Avenida Chile,4.665855,-74.074947,71,14.11,7,lluvioso,laboral,1,9.6,0
+Portal Del Norte,4.754521,-74.046076,54,7.62,15,lluvioso,laboral,1,16.83,1
+Portal Del Norte,4.754521,-74.046076,36,13.36,23,lluvioso,fin de semana,0,14.63,0
+Portal Sur,4.596921,-74.169589,84,11.11,11,lluvioso,fin de semana,0,5.96,1
+Portal Sur,4.596921,-74.169589,67,10.1,0,nublado,laboral,0,17.55,1
+Calle 100,4.685253,-74.05759,32,25.19,21,lluvioso,laboral,0,18.18,0
+Portal Sur,4.596921,-74.169589,83,5.35,20,soleado,laboral,1,4.93,1
+Calle 100,4.685253,-74.05759,71,16.4,13,lluvioso,laboral,1,6.09,1
+Gobernacion,4.642477,-74.096455,32,15.11,23,soleado,laboral,0,14.08,0
+Portal Sur,4.596921,-74.169589,98,6.65,2,nublado,laboral,1,10.74,1
+Avenida Chile,4.665855,-74.074947,27,17.38,11,soleado,fin de semana,0,4.1,1
+Portal El Dorado,4.681081,-74.121352,85,11.23,6,soleado,fin de semana,0,17.35,0
+Portal El Dorado,4.681081,-74.121352,72,10.01,14,nublado,fin de semana,1,13.67,0
+Avenida Chile,4.665855,-74.074947,77,15.06,5,nublado,laboral,1,18.98,0
+Portal Sur,4.596921,-74.169589,75,15.89,1,nublado,laboral,0,13.47,1
+Gobernacion,4.642477,-74.096455,97,24.99,1,lluvioso,laboral,1,5.51,1
+Portal Sur,4.596921,-74.169589,63,11.77,10,soleado,fin de semana,0,4.33,1
+Avenida Chile,4.665855,-74.074947,95,6.29,1,nublado,laboral,0,8.94,0
+Calle 100,4.685253,-74.05759,41,12.7,23,soleado,fin de semana,0,10.96,0
+Portal Sur,4.596921,-74.169589,44,18.39,18,nublado,laboral,0,9.47,1
+Portal Sur,4.596921,-74.169589,58,18.23,1,soleado,laboral,0,4.97,1
+Avenida Chile,4.665855,-74.074947,55,8.47,13,soleado,laboral,0,5.05,1
+Portal Del Norte,4.754521,-74.046076,49,21.31,14,nublado,fin de semana,1,12.16,1
+Calle 100,4.685253,-74.05759,34,17.84,15,lluvioso,fin de semana,1,15.56,0
+Calle 100,4.685253,-74.05759,96,28.76,20,nublado,fin de semana,1,19.8,1
+Portal El Dorado,4.681081,-74.121352,61,15.36,9,soleado,fin de semana,1,18.41,0
+Calle 26,4.615955,-74.072385,98,18.27,21,lluvioso,fin de semana,1,1.13,1
+Portal Del Norte,4.754521,-74.046076,79,23.12,10,lluvioso,laboral,1,11.86,1
+Portal Del Norte,4.754521,-74.046076,32,25.48,11,lluvioso,laboral,1,18.78,1
+Portal El Dorado,4.681081,-74.121352,57,13.91,6,nublado,laboral,0,13.2,1
+Portal El Dorado,4.681081,-74.121352,18,25.57,8,lluvioso,laboral,1,0.76,0
+Portal Sur,4.596921,-74.169589,85,23.37,23,lluvioso,laboral,0,11.33,1
+Avenida Chile,4.665855,-74.074947,89,5.33,21,soleado,laboral,1,11.69,1
+Portal Del Norte,4.754521,-74.046076,36,25.91,8,soleado,laboral,0,19.57,1
+Portal Sur,4.596921,-74.169589,31,15.18,6,lluvioso,fin de semana,1,6.41,1
+Calle 100,4.685253,-74.05759,81,25.22,9,lluvioso,fin de semana,1,8.0,0
+Calle 26,4.615955,-74.072385,49,27.63,16,soleado,fin de semana,1,11.77,0
+Portal El Dorado,4.681081,-74.121352,78,8.89,19,nublado,laboral,0,16.46,0
+Portal Del Norte,4.754521,-74.046076,31,7.29,14,nublado,fin de semana,1,1.26,1
+Calle 100,4.685253,-74.05759,12,7.34,21,lluvioso,laboral,0,3.27,1
+Calle 26,4.615955,-74.072385,54,7.17,10,nublado,laboral,1,7.01,1
+Gobernacion,4.642477,-74.096455,59,16.25,13,nublado,fin de semana,1,4.73,1
+Gobernacion,4.642477,-74.096455,63,19.81,13,nublado,laboral,1,5.16,0
+Calle 100,4.685253,-74.05759,24,22.92,17,lluvioso,laboral,0,5.6,1
+Calle 26,4.615955,-74.072385,100,17.24,21,nublado,laboral,1,11.11,0
+Portal El Dorado,4.681081,-74.121352,96,26.93,14,lluvioso,laboral,0,9.3,0
+Portal Sur,4.596921,-74.169589,64,10.17,23,nublado,laboral,1,9.22,0
+Portal Sur,4.596921,-74.169589,82,10.88,23,lluvioso,laboral,0,9.77,0
+Portal Sur,4.596921,-74.169589,64,14.36,14,soleado,fin de semana,0,5.35,1
+Calle 100,4.685253,-74.05759,87,13.4,2,soleado,laboral,0,19.38,0
+Calle 26,4.615955,-74.072385,61,17.65,3,soleado,laboral,0,1.23,1
+Gobernacion,4.642477,-74.096455,71,25.59,0,soleado,fin de semana,0,10.81,1
+Portal Sur,4.596921,-74.169589,14,18.8,2,soleado,laboral,0,11.85,0
+Gobernacion,4.642477,-74.096455,14,27.31,9,lluvioso,laboral,0,7.04,0
+Gobernacion,4.642477,-74.096455,62,5.24,13,soleado,laboral,0,17.13,0
+Calle 26,4.615955,-74.072385,80,20.65,3,soleado,laboral,0,16.34,0
+Gobernacion,4.642477,-74.096455,60,23.19,5,nublado,laboral,1,13.8,0
+Calle 26,4.615955,-74.072385,73,25.91,12,lluvioso,fin de semana,0,7.34,1
+Portal Del Norte,4.754521,-74.046076,65,9.91,8,lluvioso,fin de semana,0,19.83,1
+Calle 26,4.615955,-74.072385,17,24.2,15,soleado,laboral,0,14.23,1
+Gobernacion,4.642477,-74.096455,22,14.89,7,soleado,fin de semana,1,4.07,0
+Calle 26,4.615955,-74.072385,29,27.14,19,lluvioso,fin de semana,0,1.12,0
+Gobernacion,4.642477,-74.096455,30,17.1,8,soleado,fin de semana,0,9.59,1
+Gobernacion,4.642477,-74.096455,29,11.66,7,soleado,fin de semana,0,11.9,0
+Calle 100,4.685253,-74.05759,64,25.11,15,soleado,laboral,1,1.46,0
+Portal Del Norte,4.754521,-74.046076,70,14.94,19,lluvioso,fin de semana,1,4.09,1
+Avenida Chile,4.665855,-74.074947,33,15.56,23,nublado,laboral,1,5.69,1
+Calle 100,4.685253,-74.05759,12,20.03,12,lluvioso,fin de semana,0,1.23,0
+Portal El Dorado,4.681081,-74.121352,66,18.46,12,soleado,fin de semana,0,7.3,0
+Calle 100,4.685253,-74.05759,21,19.45,20,soleado,laboral,1,5.31,1
+Calle 100,4.685253,-74.05759,69,14.39,16,nublado,fin de semana,1,5.96,0
+Portal Del Norte,4.754521,-74.046076,90,8.98,23,soleado,fin de semana,0,3.59,1
+Calle 100,4.685253,-74.05759,53,10.65,14,lluvioso,fin de semana,1,9.24,1
+Calle 26,4.615955,-74.072385,75,19.08,16,soleado,fin de semana,0,5.51,1
+Gobernacion,4.642477,-74.096455,43,19.51,23,nublado,laboral,1,14.54,1
+Portal El Dorado,4.681081,-74.121352,87,20.16,6,soleado,laboral,1,13.74,1
+Gobernacion,4.642477,-74.096455,42,29.0,11,soleado,laboral,0,13.52,0
+Portal Sur,4.596921,-74.169589,23,5.76,3,lluvioso,laboral,0,16.41,1
+Portal Sur,4.596921,-74.169589,24,23.52,12,lluvioso,fin de semana,1,11.82,1
+Avenida Chile,4.665855,-74.074947,28,11.51,13,nublado,fin de semana,1,14.28,1
+Calle 100,4.685253,-74.05759,12,15.3,10,lluvioso,laboral,1,11.59,1
+Calle 100,4.685253,-74.05759,75,27.22,2,soleado,fin de semana,0,15.35,1
+Portal Del Norte,4.754521,-74.046076,55,6.34,21,lluvioso,laboral,1,10.43,1
+Portal El Dorado,4.681081,-74.121352,35,25.5,22,nublado,laboral,1,15.38,0
+Calle 100,4.685253,-74.05759,88,12.25,19,nublado,fin de semana,1,5.36,0
+Calle 26,4.615955,-74.072385,38,24.9,12,lluvioso,laboral,1,7.99,1
+Avenida Chile,4.665855,-74.074947,70,10.97,0,nublado,laboral,1,0.6,0
+Calle 26,4.615955,-74.072385,47,16.7,15,soleado,laboral,0,17.56,1
+Portal Sur,4.596921,-74.169589,58,15.09,20,nublado,fin de semana,0,8.79,1
+Gobernacion,4.642477,-74.096455,74,7.03,12,lluvioso,fin de semana,0,5.33,1
+Calle 100,4.685253,-74.05759,63,25.64,5,soleado,laboral,0,1.92,0
+Avenida Chile,4.665855,-74.074947,90,15.64,7,nublado,fin de semana,0,3.37,0
+Portal Sur,4.596921,-74.169589,57,24.39,19,nublado,laboral,1,2.19,0
+Calle 26,4.615955,-74.072385,67,17.03,13,lluvioso,fin de semana,0,4.62,0
+Gobernacion,4.642477,-74.096455,38,11.67,20,nublado,fin de semana,1,12.82,1

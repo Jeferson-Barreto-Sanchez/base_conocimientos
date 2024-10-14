@@ -1,5 +1,6 @@
 import pandas as pd
 import random
+import os
 
 # Definir estaciones de TransMilenio
 estaciones = ['Portal Norte', 'Héroes', 'Calle 72', 'Calle 100', 'Calle 26', 'Av. Jiménez', 'Portal Sur']
@@ -60,8 +61,11 @@ def generar_dataset_transmilenio(num_registros=1000):
         }
         dataset.append(registro)
 
-    df = pd.DataFrame(dataset)
-    df.to_csv('dataset_transmilenio.csv', index=False)
+    ruta_dataset = os.path.join(os.path.dirname(__file__), '')
+    ruta_archivo = os.path.join(ruta_dataset, 'dataset_transmilenio.csv')
+    
+    df = pd.DataFrame(dataset)    
+    df.to_csv(ruta_archivo, index=False)
     return df
 
 # Generar el dataset y guardarlo en un archivo CSV

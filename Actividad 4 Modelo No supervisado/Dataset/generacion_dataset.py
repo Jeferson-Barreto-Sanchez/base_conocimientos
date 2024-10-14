@@ -21,8 +21,8 @@ estaciones = [
 ]
 
 # Crear la carpeta 'dataset' si no existe
-ruta_dataset = os.path.join(os.path.dirname(__file__), '')  # Ajusta esta ruta según tu estructura de carpetas
-os.makedirs(ruta_dataset, exist_ok=True)  # Crear la carpeta si no existe
+ruta_dataset = os.path.join(os.path.dirname(__file__), '')
+os.makedirs(ruta_dataset, exist_ok=True)  
 
 # Generar el dataset con las nuevas variables
 ruta_archivo = os.path.join(ruta_dataset, 'dataset_transmilenio.csv')  # Ruta completa del archivo CSV
